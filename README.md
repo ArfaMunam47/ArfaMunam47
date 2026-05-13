@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and responsive web design**
 
-- 📫 How to reach me **arfamunam01@gmail.com**
+- 📫 Reach me at **arfamunam01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
