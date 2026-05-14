@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arfa Munam</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast" alt="Typing SVG" />
+  </a> 
+</p>   
+<hr>
 
 # 💫 About Me:
  🔭 Working on Full Stack Web Development projects<br> 🌱 Learning JavaScript, React.js, Next.js, and MERN Stack<br> 👯 Open to collaborate on React and JavaScript projects<br> 🤝 Seeking help with advanced MERN stack development<br> 💬 Ask me about HTML, CSS, JavaScript, React, and responsive web designs<br>⚡ Passionate about building creative and interactive web experiences<br>
