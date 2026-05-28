@@ -17,8 +17,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ArfaMunam47&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api?username=ArfaMunam47&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true&cache_seconds=60)
+![](https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&theme=tokyonight&hide_border=true&layout=compact)
