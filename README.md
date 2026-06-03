@@ -23,8 +23,20 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&theme=tokyonight&layout=compact&hide_border=true)
 
+---
+
 ## 📈 Contribution Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&theme=tokyo-night&hide_border=true)
 
+---
+
+## 🐍 Contribution Snake Animation
+
+<br>
+
+<!-- This ONLY works if you set up the snake workflow in YOUR repo -->
+![snake gif](https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg)
+
+<br><br>
 
