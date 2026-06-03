@@ -33,10 +33,6 @@
 
 ## 🐍 Contribution Snake Animation
 
-<br>
-
-<!-- This ONLY works if you set up the snake workflow in YOUR repo -->
-![snake gif](https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg)
-
-<br><br>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
