@@ -24,6 +24,26 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArfaMunam47&theme=tokyonight" width="100%" />
+
+</p>
+
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArfaMunam47&theme=tokyonight" width="49%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArfaMunam47&theme=tokyonight" width="49%" />
+
+</p>
+
+
 ## 📈 Contribution Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&theme=tokyo-night&hide_border=true)
