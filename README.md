@@ -56,10 +56,13 @@
   <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-## 🙏 Thanks for Visiting
+## ✍️ The Daily Blueprint
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=260&section=header&text=THANK%20YOU%20FOR%20VISITING!&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
-</p>
+> **“We cannot win unless we attract the very best people in the world”**
+<div align="center">
+## 🙌 Thanks for dropping by!
 
-<h3 align="center"><i><b>Feel free to explore my repositories and connect with me.</b></i></h3>
+<img src="https://capsule-render.vercel.app/api?type=capsule&color=gradient&height=220&text=THANK%20YOU%20FOR%20VISITING!&fontSize=34&fontColor=ffffff&animation=twinkling" alt="Aesthetic Thank You Banner" />
+
+</div>
+<h4 align="center"><i>Feel free to explore my repositories and connect with me!</i></h4>
