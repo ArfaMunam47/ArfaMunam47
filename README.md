@@ -59,10 +59,8 @@
 ## ✍️ The Daily Blueprint
 
 > **“We cannot win unless we attract the very best people in the world”**
-<div align="center">
+<br><br>
 ## 🙌 Thanks for dropping by!
 
-<img src="https://capsule-render.vercel.app/api?type=capsule&color=gradient&height=220&text=THANK%20YOU%20FOR%20VISITING!&fontSize=34&fontColor=ffffff&animation=twinkling" alt="Aesthetic Thank You Banner" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,50:1f2937,100:06b6d4&height=260&section=header&text=THANK%20YOU%20FOR%20VISITING!&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Thank You Banner" />
 <h4 align="center"><i>Feel free to explore my repositories and connect with me!</i></h4>
