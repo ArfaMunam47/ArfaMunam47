@@ -60,7 +60,17 @@
 
 > **“We cannot win unless we attract the very best people in the world”**
 <br><br>
-## 🙌 Thanks for dropping by!
+## ✨ Visitor Appreciation
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,50:1f2937,100:06b6d4&height=260&section=header&text=THANK%20YOU%20FOR%20VISITING!&fontSize=36&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Thank You Banner" />
-<h4 align="center"><i>Feel free to explore my repositories and connect with me!!!💫</i></h4>
+> Your visit means a lot. I truly appreciate you taking the time to explore my work and projects.
+
+<br>
+
+### 🤝 Let's Connect & Build Something Amazing
+
+Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning+%F0%9F%9A%80" />
+</p>
+
