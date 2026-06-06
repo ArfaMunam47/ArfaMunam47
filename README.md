@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“We cannot win unless we attract the very best people in the world”**
+> **“Two poeple who don't know what they they are doing is a recipe for failure”**
 <br><br>
 ## ✨ Visitor Appreciation
 
