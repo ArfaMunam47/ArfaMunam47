@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Two poeple who don't know what they they are doing is a recipe for failure”**
+> **“To truly actualize change, You have to engage in the work of making new choices every day💕”**
 <br><br>
 ## ✨ Visitor Appreciation
 
