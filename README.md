@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“To truly actualize change, You have to engage in the work of making new choices every day💕”**
+> **“Look for a market of one. You only need one investor to say 'yes' , so it's better to ignore the other thirty who say 'no' ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
