@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Look for a market of one. You only need one investor to say 'yes' , so it's better to ignore the other thirty who say 'no' ”**
+> **“One of the great things about building a tech company is the amazing people that you can hire. Take your best people and encourage them to share their most developed skills ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
