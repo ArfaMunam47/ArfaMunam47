@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“One of the great things about building a tech company is the amazing people that you can hire. Take your best people and encourage them to share their most developed skills ”**
+> **“But Darling, we can't force people to choose us..!💫❤️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
