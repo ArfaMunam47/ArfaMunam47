@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“But Darling, we can't force people to choose us..!💫❤️ ”**
+> **“Asking about things you don't know is very important...!👌✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
