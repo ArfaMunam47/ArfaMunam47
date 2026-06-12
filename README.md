@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Asking about things you don't know is very important...!👌✍️ ”**
+> **“If you don't know what you want, the chances that you will get it are extremely low... !👌✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
