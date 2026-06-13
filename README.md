@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“If you don't know what you want, the chances that you will get it are extremely low... !👌✍️ ”**
+> **“Apparently when you treat people like they treat you, they get upset...!👌✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
