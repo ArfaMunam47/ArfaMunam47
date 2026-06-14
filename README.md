@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Apparently when you treat people like they treat you, they get upset...!👌✍️ ”**
+> **“Notice how the gps never says "made a mistake" it just says "recalculating route" That's life...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
