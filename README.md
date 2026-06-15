@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Notice how the gps never says "made a mistake" it just says "recalculating route" That's life...!💫✍️ ”**
+> **“Your dream is not waiting for you. It is being taken by someone who is less emotional, less distracted, and more willing to  look stupid than you..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
