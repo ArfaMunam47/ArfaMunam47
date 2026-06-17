@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Speed is the most underrated advantage. The fast people don't always win, but the slow ones get filtered out before the real game even starts..!💫✍️ ”**
+> **“Stop needing people who don't need you....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
