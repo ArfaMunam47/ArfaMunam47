@@ -58,7 +58,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Stop needing people who don't need you....!💫✍️ ”**
+> **“As you start to walk on the way, the way appears. Clarity doesn't come before action. It comes from action....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
