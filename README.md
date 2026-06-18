@@ -18,11 +18,10 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArfaMunam47&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -48,7 +47,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&theme=tokyo-night&hide_border=true)
 
----
 
 ## 🐍 Contribution Snake Animation
 
