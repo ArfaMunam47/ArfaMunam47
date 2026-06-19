@@ -18,7 +18,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,c&perline=4&theme=dark" />
 </p>
-# 🔥 GitHub Streak
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight" alt="GitHub Streak" />
