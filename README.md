@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,vscode&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,c&perline=4&theme=dark" />
 </p>
 # 🔥 GitHub Streak
 
