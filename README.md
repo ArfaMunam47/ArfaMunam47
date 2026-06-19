@@ -56,7 +56,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“As you start to walk on the way, the way appears. Clarity doesn't come before action. It comes from action....!💫✍️ ”**
+> **“What they hate in you is missing in them...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
