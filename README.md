@@ -60,7 +60,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“What they hate in you is missing in them...!💫✍️ ”**
+> **“How to beat 99% of people? You can bear 99% of people just by being consistent, because most people are not....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
