@@ -60,7 +60,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“How to beat 99% of people? You can beat 99% of people just by being consistent, because most people are not....!💫✍️ ”**
+> **“Happiness lives in three places... letting go of what was, enjoying what is and trusting what will be....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
