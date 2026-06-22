@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=120&border=2px&section=header&text=👋%20Hello%20,%20I'm%20Arfa%20Munam!&fontSize=42&fontColor=1F1F1F&animation=fadeIn" alt="Arfa Munam Banner" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,25&height=120&section=header&text=👋%20Hello,%20I'm%20Arfa%20Munam!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
