@@ -8,9 +8,8 @@
 
 # 💫 About Me
  🔭 Working on Full Stack Web Development projects<br> 🌱 Learning JavaScript, React.js, Next.js, and MERN Stack<br> 👯 Open to collaborate on React and JavaScript projects<br> 🤝 Seeking help with advanced MERN stack development<br> 💬 Ask me about HTML, CSS, JavaScript, React, and responsive web designs<br>⚡ Passionate about building creative and interactive web experiences<br>
- 
-<h2 align="center">🤝 Let's Connect</h2>
 
+<h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/arfa-munam-0b7936286?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
@@ -34,12 +33,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<div align="right"> 
+   <img src="blob:https://gemini.google.com/869608f7-40a5-4d67-bd89-ce361b17d02e" /></div>
 
 
 
 ## 📊 GitHub Analytics
-
-
 
 <p align="center">
 
@@ -66,6 +65,15 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+## 📊 3D Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arfamunam47/arfamunam47/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Calendar"
+  />
 </p>
 
 ## ✍️ The Daily Blueprint
