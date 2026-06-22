@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm 𝖠𝗋𝖿𝖺 𝖬𝗎𝗇𝖺𝗆</h1>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&gradient&customColorList=12,20,24&height=120&section=header&text=👋%20Hello%20,%20I'm%20Arfa%20Munam!&fontSize=42&fontColor=1F1F1F&animation=fadeIn" alt="Arfa Munam Banner" /> </p>
+<p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast" alt="Typing SVG" />
