@@ -8,10 +8,20 @@
 
 # 💫 About Me
  🔭 Working on Full Stack Web Development projects<br> 🌱 Learning JavaScript, React.js, Next.js, and MERN Stack<br> 👯 Open to collaborate on React and JavaScript projects<br> 🤝 Seeking help with advanced MERN stack development<br> 💬 Ask me about HTML, CSS, JavaScript, React, and responsive web designs<br>⚡ Passionate about building creative and interactive web experiences<br>
+ 
+<h2 align="center">🤝 Let's Connect</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arfa-munam-0b7936286?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  </a>
+</p>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arfa-munam-0b7936286?utm_source=share_via&utm_content=profile&utm_medium=member_android)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arfamunam01@gmail.com) 
+<p align="center">
+  <a href="mailto:arfamunam01@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
