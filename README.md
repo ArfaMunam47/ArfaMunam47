@@ -58,7 +58,9 @@
 
 ## 📈 Contribution Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
 
 
 ## 🐍 Contribution Snake Animation
@@ -68,12 +70,9 @@
 </p>
 
 ## 📊 3D Contribution Calendar
-
+<!-- 3D CONTRIBUTION CALENDAR (kept but smaller + framed better) -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/arfamunam47/arfamunam47/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D Contribution Calendar"
-  />
+  <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/main/profile-3d-contrib/profile-night-view.svg" width="500"/>
 </p>
 
 ## ✍️ The Daily Blueprint
