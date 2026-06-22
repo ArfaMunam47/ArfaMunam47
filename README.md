@@ -60,7 +60,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Happiness lives in three places... letting go of what was, enjoying what is and trusting what will be....!💫✍️ ”**
+> **“You will continue to suffer if you have an emotional reaction to everything that is said to you. The power is sitting back and observing everything with logic. Breath and allow things to pass...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
