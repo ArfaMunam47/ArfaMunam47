@@ -80,7 +80,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“You will continue to suffer if you have an emotional reaction to everything that is said to you. The power is sitting back and observing everything with logic. Breath and allow things to pass...!💫✍️ ”**
+> **“We must all suffer from one of two pains : the pain of discipline or the pain of regret. It's hard to start a business but it's easy to procrastinate..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
