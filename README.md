@@ -80,7 +80,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“We must all suffer from one of two pains : the pain of discipline or the pain of regret. It's hard to start a business but it's easy to procrastinate..!💫✍️ ”**
+> **“Doing hard things now buys you total independence later...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
