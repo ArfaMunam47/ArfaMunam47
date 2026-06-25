@@ -80,7 +80,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Doing hard things now buys you total independence later...!💫✍️ ”**
+> **“Reading an hour a day is only 4% of your day. But that 4% will put you at the top of your field within 10 years. Find the time...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
