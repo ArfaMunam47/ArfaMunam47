@@ -80,7 +80,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Reading an hour a day is only 4% of your day. But that 4% will put you at the top of your field within 10 years. Find the time...!💫✍️ ”**
+> **“How silly of me to forget that I'm the love of my life....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
