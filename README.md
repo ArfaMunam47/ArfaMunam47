@@ -31,6 +31,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,c&perline=4&theme=dark" />
 </p>
 
+## 🤖 AI Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArfaMunam47/YOUR_REPO/main/assets/ai-tools-banner.png" alt="AI Tools" width="100%">
+</p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
