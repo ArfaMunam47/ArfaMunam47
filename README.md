@@ -34,7 +34,7 @@
 ## 🤖 AI Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArfaMunam47/YOUR_REPO/main/assets/ai-tools-banner.png" alt="AI Tools" width="100%">
+  <img src="https://chatgpt.com/s/m_6a3efbb2e4008191acbb6323586fec16" alt="AI Tools" width="100%">
 </p>
 
 ## 🔥 GitHub Streak
