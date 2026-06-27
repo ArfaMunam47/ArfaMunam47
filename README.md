@@ -34,8 +34,13 @@
 ## 🤖 AI Tools
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a3efbb2e4008191acbb6323586fec16" alt="AI Tools" width="100%">
+  <img src="https://raw.githubusercontent.com/ArfaMunam47/YOUR_REPOSITORY/main/assets/ai-tools-banner.png" alt="AI Tools" width="100%">
 </p>
+
+<p align="center">
+  <b>Claude</b> • <b>Gemini</b> • <b>Lovable</b> • <b>v0 by Vercel</b> • <b>Stitch</b>
+</p>
+
 
 ## 🔥 GitHub Streak
 
