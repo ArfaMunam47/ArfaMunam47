@@ -31,16 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,c&perline=4&theme=dark" />
 </p>
 
-## 🤖 AI Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArfaMunam47/YOUR_REPOSITORY/main/assets/ai-tools-banner.png" alt="AI Tools" width="100%">
-</p>
-
-<p align="center">
-  <b>Claude</b> • <b>Gemini</b> • <b>Lovable</b> • <b>v0 by Vercel</b> • <b>Stitch</b>
-</p>
-
 
 ## 🔥 GitHub Streak
 
@@ -91,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“How silly of me to forget that I'm the love of my life....!💫✍️ ”**
+> **“You will never feel ready start anyway....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
