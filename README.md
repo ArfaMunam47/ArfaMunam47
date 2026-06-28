@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“You will never feel ready start anyway....!💫✍️ ”**
+> **“Don't simply say you wish to do one thing without truly doing one thing about it...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
