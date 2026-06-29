@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Don't simply say you wish to do one thing without truly doing one thing about it...!💫✍️ ”**
+> **“Growth begins when we begin to accept our own weakness...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
