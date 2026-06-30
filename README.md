@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Growth begins when we begin to accept our own weakness...!💫✍️ ”**
+> **“Goals allow you to control the direction of change in your favor...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
