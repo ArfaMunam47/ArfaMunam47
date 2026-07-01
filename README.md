@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“By writing down questions that test for what you want, you will get a level of specificity that will be extremely difficult to achieve otherwise...!💫✍️ ”**
+> **“Sometimes an organization doesn't need a solution, it just needs clarity...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
