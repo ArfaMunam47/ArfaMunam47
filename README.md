@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Goals allow you to control the direction of change in your favor...!💫✍️ ”**
+> **“By writing down questions that test for what you want, you will get a level of specificity that will be extremely difficult to achieve otherwise...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
