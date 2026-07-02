@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Learn how to learn...!💫✍️ ”**
+> **“If you want to get rich, don't go to school....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
