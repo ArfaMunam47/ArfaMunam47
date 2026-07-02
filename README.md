@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Sometimes an organization doesn't need a solution, it just needs clarity...!💫✍️ ”**
+> **“Learn how to learn...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
