@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“If you want to get rich, don't go to school....!💫✍️ ”**
+> **“Start before you are ready and become a better problem solver....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
