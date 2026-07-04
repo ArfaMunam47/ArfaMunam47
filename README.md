@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Start before you are ready and become a better problem solver....!💫✍️ ”**
+> **“Debugging is the job. It's not failure. It's the process....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
