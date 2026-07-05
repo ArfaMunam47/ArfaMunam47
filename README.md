@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Debugging is the job. It's not failure. It's the process....!💫✍️ ”**
+> **“Companies execute well when everybody is on the same page and everybody is constantly improving....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
