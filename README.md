@@ -14,7 +14,7 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/arfa-munam-0b7936286?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/arfa-munam-a823573a1?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
   </a>
 </p>
