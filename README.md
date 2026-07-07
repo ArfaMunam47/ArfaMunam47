@@ -35,10 +35,12 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D"
-    alt="GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=ArfaMunam47&theme=tokyonight&hide_border=true&border_radius=10"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 <div align="right"> 
    <img src="blob:https://gemini.google.com/869608f7-40a5-4d67-bd89-ce361b17d02e" /></div>
