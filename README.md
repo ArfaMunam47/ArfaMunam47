@@ -81,7 +81,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“There is only one growth strategy that is working hard....!💫✍️ ”**
+> **“If you don't have anyone to talk about your interests and passion with, start writing on the internet and you'll find them....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
