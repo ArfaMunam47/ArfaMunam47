@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“If you don't have anyone to talk about your interests and passion with, start writing on the internet and you'll find them....!💫✍️ ”**
+> **“There are only two kinds of people, One is successfull and the other got distracted.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
