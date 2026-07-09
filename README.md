@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“There are only two kinds of people, One is successfull and the other got distracted.....!💫✍️ ”**
+> **“Handle stress and don't let it handle you.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
