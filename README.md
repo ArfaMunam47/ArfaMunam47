@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Handle stress and don't let it handle you.....!💫✍️ ”**
+> **“A lot of companies think their employees are so smart that they require no training. That's silly.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
