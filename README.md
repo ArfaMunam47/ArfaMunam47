@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“A lot of companies think their employees are so smart that they require no training. That's silly.....!💫✍️ ”**
+> **“If your company is good place to work, you too may live long enough to find your glory.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
