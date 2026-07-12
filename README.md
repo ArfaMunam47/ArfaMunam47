@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“If your company is good place to work, you too may live long enough to find your glory.....!💫✍️ ”**
+> **“Be selfish in your 20's.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
