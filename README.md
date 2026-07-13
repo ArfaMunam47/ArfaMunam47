@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Be selfish in your 20's.....!💫✍️ ”**
+> **“Passion is what you do when there is no reward yet it feels worth everything.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
