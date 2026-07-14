@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Passion is what you do when there is no reward yet it feels worth everything.....!💫✍️ ”**
+> **“The world looks one way in peacetime but very different when you must fight for your life everyday.....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
