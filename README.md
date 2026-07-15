@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“The world looks one way in peacetime but very different when you must fight for your life everyday.....!💫✍️ ”**
+> **“Be ready to say goodbye to anyone anywhere anytime for building yourself....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
