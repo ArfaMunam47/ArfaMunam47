@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Be ready to say goodbye to anyone anywhere anytime for building yourself....!💫✍️ ”**
+> **“Happiness is the thief of joy....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
