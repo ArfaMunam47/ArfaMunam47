@@ -85,7 +85,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Happiness is the thief of joy....!💫✍️ ”**
+> **“Give yourself a room to create mess and learn by it....!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
