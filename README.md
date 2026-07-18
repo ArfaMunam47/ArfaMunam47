@@ -79,7 +79,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Give yourself a room to create mess and learn by it....!💫✍️ ”**
+> **“Manager should give clear and consistent feedback to their employees...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
