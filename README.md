@@ -79,7 +79,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“Manager should give clear and consistent feedback to their employees...!💫✍️ ”**
+> **“Start before you are ready and stop chasing perfection...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
