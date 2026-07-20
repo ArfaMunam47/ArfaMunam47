@@ -79,7 +79,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Start clapping for other's success until it's your turn...!💫✍️ ”**
+> **“ The best way to predict the future is to create it...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
