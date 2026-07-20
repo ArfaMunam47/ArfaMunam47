@@ -79,7 +79,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Start before you are ready and stop chasing perfection...!💫✍️ ”**
+> **“ Start clapping for other's success until it's your turn...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
