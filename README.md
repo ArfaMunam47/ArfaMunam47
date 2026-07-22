@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ The best way to predict the future is to create it...!💫✍️ ”**
+> **“ Nobody cares about your code, they care about what it does ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
