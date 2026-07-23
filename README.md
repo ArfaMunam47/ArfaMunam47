@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Nobody cares about your code, they care about what it does ..!💫✍️ ”**
+> **“ Protect your brain battery. Burnout is real ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
