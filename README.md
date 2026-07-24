@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Protect your brain battery. Burnout is real ..!💫✍️ ”**
+> **“ Replace "Winning" with "Understanding". Not every situation is a battle to win ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
