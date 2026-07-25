@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Replace "Winning" with "Understanding". Not every situation is a battle to win ..!💫✍️ ”**
+> **“ You never get a second chance to make a first impression ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
