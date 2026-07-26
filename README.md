@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ You never get a second chance to make a first impression ..!💫✍️ ”**
+> **“ The best investment is protecting your time ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
