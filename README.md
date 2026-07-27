@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ The best investment is protecting your time ..!💫✍️ ”**
+> **“ Keep your energy connected to dreams of your future ..!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
