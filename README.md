@@ -78,7 +78,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Keep your energy connected to dreams of your future ..!💫✍️ ”**
+> **“ Keep your energy connected to dreams of your future ...!💫✍️ ”**
 <br><br>
 ## ✨ Visitor Appreciation
 
