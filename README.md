@@ -47,13 +47,21 @@
 <hr>
 
 ## 🤖 AI & Development Tools
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge)
-![Bolt AI](https://img.shields.io/badge/Bolt_AI-7B61FF?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-4F46E5?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bolt%20AI-7C3AED?style=for-the-badge" />
+</p>
+
 
 ## 🔥 GitHub Streak
 
@@ -117,8 +125,8 @@
 
 Name        : Arfa Munam
 Role        : Full Stack Developer
-Learning    : MERN + AI
-Mission     : Build products that impact millions
+Learning : Node.js • Express.js • AI Automation
+Mission : Building AI-powered products that solve real-world problems
 Status      : Coding...
 ```
 
