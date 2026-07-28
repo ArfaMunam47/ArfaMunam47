@@ -10,7 +10,7 @@
 </p>   
 <hr>
 
-## 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
 🚀 Full Stack Developer | AI Enthusiast | Computer Science Student
 
@@ -44,7 +44,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,git,github,c&perline=4&theme=dark" />
 </p>
+<hr>
 
+## 🤖 AI & Development Tools
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge)
+![Bolt AI](https://img.shields.io/badge/Bolt_AI-7B61FF?style=for-the-badge)
 
 ## 🔥 GitHub Streak
 
