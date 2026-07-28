@@ -10,8 +10,21 @@
 </p>   
 <hr>
 
-# 💫 About Me
- 🔭 Working on Full Stack Web Development projects<br> 🌱 Learning JavaScript, React.js, Next.js, and MERN Stack<br> 👯 Open to collaborate on React and JavaScript projects<br> 🤝 Seeking help with advanced MERN stack development<br> 💬 Ask me about HTML, CSS, JavaScript, React, and responsive web designs<br>⚡ Passionate about building creative and interactive web experiences<br>
+## 💫 About Me
+
+🚀 Full Stack Developer | AI Enthusiast | Computer Science Student
+
+🌱 Currently learning Backend Development, AI Automation, Next.js, MERN Stack, and System Design.
+
+💻 Building scalable web applications with a strong focus on clean architecture, performance, and user experience.
+
+🤝 Open to collaborating on Full Stack, React, Next.js, MERN, and AI-powered projects.
+
+📚 Always exploring new technologies and continuously improving my software engineering skills.
+
+🎯 Mission: Building AI-powered products that make everyday life simpler and more productive.
+
+<hr>
 
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
