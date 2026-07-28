@@ -125,8 +125,8 @@
 
 Name        : Arfa Munam
 Role        : Full Stack Developer
-Learning : Node.js • Express.js • AI Automation
-Mission : Building AI-powered products that solve real-world problems
+Learning    : Node.js • Express.js • AI Automation
+Mission     : Building AI-powered products that solve real-world problems
 Status      : Coding...
 ```
 
