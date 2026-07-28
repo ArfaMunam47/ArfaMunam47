@@ -79,7 +79,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Keep your energy connected to dreams of your future ...!💫✍️ ”**
+> **“ Don't respond immediately in emotional state ...!💫✍️ ”**
 
 
 ## ✨ Visitor Appreciation
