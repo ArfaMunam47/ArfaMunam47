@@ -109,7 +109,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Don't respond immediately in emotional state ...!💫✍️ ”**
+> **“ Learn the "Ignore vs Respond" rule ...!💫✍️ ”**
 
 
 ## ✨ Visitor Appreciation
