@@ -129,6 +129,7 @@ Learning    : Node.js • Express.js • AI Automation
 Mission     : Building AI-powered products that solve real-world problems
 Status      : Coding...
 ```
+<hr>
 
 ### 🤝 Let's Connect & Build Something Amazing
 
