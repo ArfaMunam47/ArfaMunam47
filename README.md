@@ -109,7 +109,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ With self-discipline, everything is possible...!💫✍️ ”**
+> **“ Comparison is the thief of joy...!💫✍️ ”**
 
 
 ## ✨ Visitor Appreciation
