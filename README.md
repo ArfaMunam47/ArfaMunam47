@@ -109,7 +109,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Comparison is the thief of joy...!💫✍️ ”**
+> **“ Don't get stuck. Use your creativity and create things ..!💫✍️ ”**
 
 
 ## ✨ Visitor Appreciation
