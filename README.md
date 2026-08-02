@@ -109,7 +109,7 @@
 
 ## ✍️ The Daily Blueprint
 
-> **“ Don't get stuck. Use your creativity and create things ..!💫✍️ ”**
+> **“ Productivity isn't about burnout, it's about sustainability ..!💫✍️ ”**
 
 
 ## ✨ Visitor Appreciation
