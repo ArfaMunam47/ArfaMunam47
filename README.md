@@ -87,12 +87,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/main/profile-3d-contrib/profile-night-view.svg" width="500"/>
 </p>
+<hr>
+
 ## ✍️ The Daily Blueprint
-> **“ Your most unhappy customers are your greatest source of learning ..!💫✍️ ”**
+
+> **“ Your most unhappy customers are your greatest source of learning ...!💫✍️ ”**
+<hr>
+
 ## ✨ Visitor Appreciation
+
 > Your visit means a lot. I truly appreciate you taking the time to explore my work and projects.
 <br>
 <h2 align="center">💻 Current Terminal</h2>
+
 ```bash
 > whoami
 Name        : Arfa Munam
@@ -102,9 +109,13 @@ Mission     : Building AI-powered products that solve real-world problems
 Status      : Coding...
 ```
 <hr>
-### 🤝 Let's Connect & Build Something Amazing
+
+## 🤝 Let's Connect & Build Something Amazing
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning+%F0%9F%9A%80" />
 </p>
-Hey there listen to me this this is my current profile code but I want to change it I want to make it more advanced like I want to make this profile I have given you my data more unique you know more esthetic and more good form it should be I capturing generator code for that so that I can update my readme profile
+ 
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8B5CF6,100:0B0B12&section=footer" width="100%"/>
+
