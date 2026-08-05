@@ -150,6 +150,50 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🍔 Food Landing Page
+
+<img src= "https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/food.png.png" width="100%" alt="Food Landing Page"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 💼 Personal Portfolio
+
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/portfolio.png?raw=true" width="100%" alt="Portfolio"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🚀 FounderOS Landing Page
+
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/founderos.png?raw=true" width="100%" alt="FounderOS"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🛍️ Veloura Store
+
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloura.png?raw=true" width="100%" alt="Veloura"/>
+
+</td>
+
+</tr>
+</table>
 ## 🚀 Featured Projects
 
 <table>
