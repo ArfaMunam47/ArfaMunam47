@@ -100,15 +100,8 @@
 
 ---
 
-# GitHub Stats
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArfaMunam47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -161,6 +154,8 @@
 
 </tr>
 </table>
+
+
 
 # Contributions
 
