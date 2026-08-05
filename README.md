@@ -23,10 +23,8 @@ Building modern, scalable web applications with beautiful user experiences.
 <a href="mailto:arfamunam01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
-<a href="file:///C:/Users/nn/OneDrive/myResume.pdf.pdf">
-  <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF5252"/>
+<a href="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/main/arfa_Munam_resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF5252" alt="Resume"/>
 </a>
 
 </p>
