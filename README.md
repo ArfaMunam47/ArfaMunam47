@@ -183,4 +183,4 @@ Feel free to explore my repositories, share feedback, or connect with me on my j
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning+%F0%9F%9A%">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=00D9FF&50:13111F&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00D9FF&50:13111F&section=footer" width="100%"/>
