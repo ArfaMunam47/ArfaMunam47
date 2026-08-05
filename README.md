@@ -16,8 +16,7 @@
   <a href="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/main/arfa_Munam_resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a></p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <img src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
 
