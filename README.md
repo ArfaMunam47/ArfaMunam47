@@ -168,7 +168,7 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 
 ### 💼 Personal Portfolio
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/portfolio.png?raw=true" width="100%" alt="Portfolio"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/%7B96495168-58B6-4071-BD9B-2570184D0726%7D.png" width="100%" alt="Portfolio"/>
 
 </td>
 
