@@ -4,9 +4,6 @@
   Hello, I'm <strong>𝐀𝐫𝐟𝐚 𝐌𝐮𝐧𝐚𝐦</strong> 👋
 </h1>
 <p align="center">
-Building intelligent software with elegant design.
-</p>
-<p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast" alt="Typing SVG" />
@@ -53,7 +50,7 @@ Building intelligent software with elegant design.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma,c,cpp&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode&perline=8"/>
 
 </p>
 
