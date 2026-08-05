@@ -34,16 +34,22 @@
 | 🤝 **Open To** | Internships • Freelance • Open Source • Collaboration |
 | 🎯 **Goal** | Becoming a Full Stack Software Engineer building impactful AI products |
 
-## ⚡ Engineering Principles
+## ⚡ Engineering Philosophy
 
-| | |
-|:--|:--|
-| 💻 | **Clean, scalable, and maintainable code** |
-| 🎨 | **Thoughtful UI/UX with attention to detail** |
-| 🚀 | **Continuous learning and technical growth** |
-| 🧩 | **Practical problem solving** |
-| 🤝 | **Open collaboration and knowledge sharing** |
-| 🎯 | **Building products with real-world impact** |
+◈ 🧩 Problem Solving
+   Solve problems before writing code.
+   
+◈ 🎨 User Experience
+   Build intuitive and delightful interfaces.
+
+◈ ⚙️ Clean Engineering
+   Write scalable, maintainable software.
+
+◈ 🚀 Continuous Growth
+   Learn, experiment, and improve.
+
+◈ 🌍 Meaningful Impact
+   Build technology that makes a difference.
 
 
 # Tech Stack
@@ -171,21 +177,7 @@
 > writing maintainable code,
 > and never stopping the pursuit of learning."
 
-# Connect With Me
 
-<p align="center">
-
-<a href="mailto:arfamunam01@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arfa-munam-a823573a1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 ### 🤝 Let's Connect & Build Something Amazing
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
