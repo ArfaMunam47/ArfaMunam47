@@ -1,14 +1,18 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<!-- ======= HERO SECTION ================== -->
 
 <h1 align="center">
-  Arfa Munam
+  Hello, I'm <strong>𝐀𝐫𝐟𝐚 𝐌𝐮𝐧𝐚𝐦</strong> 👋
 </h1>
-
 <p align="center">
-  <strong>Frontend Developer • AI Enthusiast • Computer Science Student</strong>
+Building intelligent software with elegant design.
 </p>
+<p align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast" alt="Typing SVG" />
+  </a> 
+</p>   
+<hr>
 
 <p align="center"><a href="https://www.linkedin.com/in/arfa-munam-a823573a1"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arfamunam01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -21,17 +25,28 @@
 <img src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
 
 </p>
----
 
-# About
+## 👨‍💻 About Me
 
-I'm a Computer Science student focused on **Frontend Development**, **AI**, and **modern web technologies**.
+| | |
+|:---|:---|
+| 🎓 **Education** | BS Computer Science Student |
+| 💼 **Specialization** | Frontend Development & Modern UI Engineering |
+| 🚀 **Currently Learning** | Backend Development • MERN Stack • AI Automation • System Design |
+| 💡 **Passionate About** | Building scalable, user-focused, and AI-powered web applications |
+| 🤝 **Open To** | Internships • Freelance • Open Source • Collaboration |
+| 🎯 **Goal** | Becoming a Full Stack Software Engineer building impactful AI products |
 
-I enjoy transforming ideas into polished digital experiences with clean architecture, responsive design, and attention to detail.
+## ⚡ Engineering Principles
 
-Currently expanding my expertise in backend development, AI automation, and system design while building real-world projects.
-
----
+| | |
+|:--|:--|
+| 💻 | **Clean, scalable, and maintainable code** |
+| 🎨 | **Thoughtful UI/UX with attention to detail** |
+| 🚀 | **Continuous learning and technical growth** |
+| 🧩 | **Practical problem solving** |
+| 🤝 | **Open collaboration and knowledge sharing** |
+| 🎯 | **Building products with real-world impact** |
 
 # Featured Projects
 
@@ -135,6 +150,113 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 </p>
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🍔 Food Landing Page</h3>
+
+<p align="center">
+<img src="images/food-landing.png" width="100%" alt="Food Landing Page"/>
+</p>
+
+<p align="center">
+Modern restaurant landing page with a clean layout, responsive design, and engaging UI.
+</p>
+
+<p align="center">
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💼 Personal Portfolio</h3>
+
+<p align="center">
+<img src="images/portfolio.png" width="100%" alt="Portfolio"/>
+</p>
+
+<p align="center">
+Luxury-inspired developer portfolio showcasing skills, projects, and achievements.
+</p>
+
+<p align="center">
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 FounderOS Landing Page</h3>
+
+<p align="center">
+<img src="images/founderos.png" width="100%" alt="FounderOS"/>
+</p>
+
+<p align="center">
+Premium SaaS landing page built with modern UI, gradients, animations, and responsive layout.
+</p>
+
+<p align="center">
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛍️ Veloura Store</h3>
+
+<p align="center">
+<img src="images/veloura.png" width="100%" alt="Veloura"/>
+</p>
+
+<p align="center">
+Elegant e-commerce landing page featuring a luxury aesthetic and premium shopping experience.
+</p>
+
+<p align="center">
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 # Contributions
 
@@ -146,11 +268,11 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 
 ---
 
-# Developer Philosophy
+## 💭 Engineering Philosophy
 
-> **"Clean code creates reliable software. Great design creates memorable experiences. I strive to build both."**
-
----
+> "Great software is built by solving meaningful problems,
+> writing maintainable code,
+> and never stopping the pursuit of learning."
 
 # Connect With Me
 
@@ -168,6 +290,9 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 
 ---
 
+### 🤝 Let's Connect & Build Something Amazing
+Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
 <p align="center">
-Thanks for visiting my profile ⭐
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning+%F0%9F%9A%">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=00D9FF&50:13111F&section=footer" width="100%"/>
