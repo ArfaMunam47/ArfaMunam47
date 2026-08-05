@@ -48,43 +48,6 @@ Building intelligent software with elegant design.
 | 🤝 | **Open collaboration and knowledge sharing** |
 | 🎯 | **Building products with real-world impact** |
 
-# Featured Projects
-
-### StudyPilot AI
-
-AI-powered academic companion helping students organize studies, manage assignments, and improve productivity.
-
-**Stack**
-
-React Native • Expo • Supabase • AI
-
----
-
-### WonderVerse
-
-Interactive 3D educational platform designed to make learning engaging for children.
-
-**Stack**
-
-React • Three.js • GSAP
-
----
-
-### FounderOS
-
-Premium SaaS landing page inspired by modern startup websites.
-
-**Stack**
-
-React • Tailwind CSS • GSAP
-
----
-
-### Portfolio Website
-
-Personal portfolio showcasing projects, UI design, animations, and frontend expertise.
-
----
 
 # Tech Stack
 
@@ -188,7 +151,7 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 
 ### 🛍️ Veloura Store
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloura.png?raw=true" width="100%" alt="Veloura"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/%7BB847A7B5-7952-4792-9A71-971E4DC78542%7D.png" width="100%" alt="Veloura"/>
 
 </td>
 
