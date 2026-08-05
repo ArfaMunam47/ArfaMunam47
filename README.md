@@ -160,7 +160,7 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 <h3 align="center">🍔 Food Landing Page</h3>
 
 <p align="center">
-<img src="images/food-landing.png" width="100%" alt="Food Landing Page"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/food.png.png"/>
 </p>
 
 <p align="center">
