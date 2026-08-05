@@ -87,18 +87,21 @@
 
 ---
 
-# Currently Learning
+<h2 align="center">🌱 Currently Exploring</h2>
 
-- React Ecosystem
-- Node.js
-- Express.js
-- MongoDB
-- Next.js
-- AI Automation
-- System Design
-- DevOps Fundamentals
+<p align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+</p>
+</p>
 
----
+<p align="center">
+  ⚙️ Backend Systems & API Development  
+  <br/>
+  🤖 AI Automation & Intelligent Workflows  
+  <br/>
+  🧠 Scalable Architecture & Modern Software Design
+</p>
 
 
 ## 🔥 GitHub Streak
