@@ -34,6 +34,7 @@
 | 🤝 **Open To** | Internships • Freelance • Open Source • Collaboration |
 | 🎯 **Goal** | Becoming a Full Stack Software Engineer building impactful AI products |
 
+
 ## ⚡ Engineering Philosophy
 
 ◈ 🧩 Problem Solving
