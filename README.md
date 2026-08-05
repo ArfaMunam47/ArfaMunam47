@@ -159,6 +159,7 @@
 </tr>
 </table>
 
+<hr>
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
@@ -175,7 +176,7 @@
 > writing maintainable code,
 > and never stopping the pursuit of learning."
 
-
+<hr>
 
 ### 🤝 Let's Connect & Build Something Amazing
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
