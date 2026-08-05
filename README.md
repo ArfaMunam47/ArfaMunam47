@@ -180,7 +180,7 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 
 ### 🚀 FounderOS Landing Page
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/founderos.png?raw=true" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/image.png" width="100%" alt="FounderOS"/>
 
 </td>
 
@@ -189,113 +189,6 @@ Personal portfolio showcasing projects, UI design, animations, and frontend expe
 ### 🛍️ Veloura Store
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloura.png?raw=true" width="100%" alt="Veloura"/>
-
-</td>
-
-</tr>
-</table>
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🍔 Food Landing Page</h3>
-
-<p align="center">
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/food.png.png"/>
-</p>
-
-<p align="center">
-Modern restaurant landing page with a clean layout, responsive design, and engaging UI.
-</p>
-
-<p align="center">
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">💼 Personal Portfolio</h3>
-
-<p align="center">
-<img src="images/portfolio.png" width="100%" alt="Portfolio"/>
-</p>
-
-<p align="center">
-Luxury-inspired developer portfolio showcasing skills, projects, and achievements.
-</p>
-
-<p align="center">
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 FounderOS Landing Page</h3>
-
-<p align="center">
-<img src="images/founderos.png" width="100%" alt="FounderOS"/>
-</p>
-
-<p align="center">
-Premium SaaS landing page built with modern UI, gradients, animations, and responsive layout.
-</p>
-
-<p align="center">
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛍️ Veloura Store</h3>
-
-<p align="center">
-<img src="images/veloura.png" width="100%" alt="Veloura"/>
-</p>
-
-<p align="center">
-Elegant e-commerce landing page featuring a luxury aesthetic and premium shopping experience.
-</p>
-
-<p align="center">
-<a href="YOUR_LIVE_DEMO">
-<img src="https://img.shields.io/badge/🌐 Live Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/💻 Source Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 </td>
 
