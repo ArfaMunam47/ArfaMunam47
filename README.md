@@ -34,24 +34,6 @@
 | 🎯 **Goal** | Becoming a Full Stack Software Engineer building impactful AI products |
 
 
-## ⚡ Engineering Philosophy
-
-◈ 🧩 Problem Solving
-   Solve problems before writing code.
-   
-◈ 🎨 User Experience
-   Build intuitive and delightful interfaces.
-
-◈ ⚙️ Clean Engineering
-   Write scalable, maintainable software.
-
-◈ 🚀 Continuous Growth
-   Learn, experiment, and improve.
-
-◈ 🌍 Meaningful Impact
-   Build technology that makes a difference.
-
-
 # Tech Stack
 
 <p align="center">
@@ -85,6 +67,24 @@
 </p>
 
 ---
+
+
+## ⚡ Engineering Philosophy
+
+◈ 🧩 Problem Solving
+   Solve problems before writing code.
+   
+◈ 🎨 User Experience
+   Build intuitive and delightful interfaces.
+
+◈ ⚙️ Clean Engineering
+   Write scalable, maintainable software.
+
+◈ 🚀 Continuous Growth
+   Learn, experiment, and improve.
+
+◈ 🌍 Meaningful Impact
+   Build technology that makes a difference.
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
@@ -160,9 +160,7 @@
 </table>
 
 
-
-# Contributions
-
+## 🐍 Contribution Snake Animation
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/output/github-contribution-grid-snake.svg"/>
