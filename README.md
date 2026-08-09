@@ -172,9 +172,8 @@
 
 ## 💭 Engineering Philosophy
 
-> "Great software is built by solving meaningful problems,
-> writing maintainable code,
-> and never stopping the pursuit of learning."
+> ""First, solve the problem. 
+> Then, write the code ""
 
 <hr>
 
