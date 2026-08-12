@@ -13,7 +13,7 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/arfa-munam-a823573a1"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arfamunam01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://raw.githubusercontent.com/ArfaMunam47/ArfaMunam47/main/arfa_Munam_resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a></p>
+  </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
