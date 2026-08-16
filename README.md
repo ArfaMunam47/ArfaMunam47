@@ -172,8 +172,8 @@
 
 ## 💭 Engineering Philosophy
 
-> ""First, solve the problem. 
-> Then, write the code ""
+> "" Make it work. Make it right. 
+> Make it better. ""
 
 <hr>
 
