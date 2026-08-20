@@ -56,13 +56,13 @@
 
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Bolt-AI-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bolt%20AI-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netlify-087E8B?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+
 
 </p>
 
