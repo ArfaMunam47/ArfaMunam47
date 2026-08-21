@@ -133,23 +133,7 @@
 
 <br>
 
-<!-- ==================== 📊 GITHUB PROFILE ==================== -->
 
-## 📊 GitHub Profile
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ArfaMunam47&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=C9D1D9"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
-    width="49%"
-    alt="Top Languages"
-  />
-</p>
- <br/>
 
 
 
@@ -210,8 +194,8 @@
 
 ## 💭 Engineering Philosophy
 
-> "" Make it work. Make it right. 
-> Make it better. ""
+> "" Engineers don’t just solve problems; 
+> they turn impossible ideas into systems that work. ""
 
 <hr>
 
