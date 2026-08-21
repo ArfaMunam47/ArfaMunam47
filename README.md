@@ -104,16 +104,54 @@
   🧠 Scalable Architecture & Modern Software Design
 </p>
 
+<br/>
+
+<!-- ==================== 🔥 GITHUB STREAK ==================== -->
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6"
+    alt="GitHub Streak"
+  />
 </p>
 
----
+<br>
+
+<!-- ==================== ✨ CONTRIBUTION GRAPH ==================== -->
+
+## ✨ Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true"
+    alt="GitHub Contribution Graph"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- ==================== 📊 GITHUB PROFILE ==================== -->
+
+## 📊 GitHub Profile
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArfaMunam47&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=C9D1D9"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaMunam47&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+    width="49%"
+    alt="Top Languages"
+  />
+</p>
+ <br/>
+
+
 
 ## 🚀 Featured Projects
 
