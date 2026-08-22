@@ -95,7 +95,6 @@
 </p>
 </p>
 </p>
-
 <p align="center">
   ⚙️ Backend Systems & API Development  
   <br/>
@@ -119,7 +118,6 @@
 
 <br>
 
-<!-- ==================== ✨ CONTRIBUTION GRAPH ==================== -->
 
 ## ✨ Contribution Activity
 
@@ -132,9 +130,6 @@
 </p>
 
 <br>
-
-
-
 
 
 ## 🚀 Featured Projects
