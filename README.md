@@ -118,20 +118,34 @@
 
 <br>
 
-
+<br/>
 ## ✨ Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ArfaMunam47&show_icons=true&hide_border=true&bg_color=09090B&title_color=C4B5FD&text_color=FFFFFF&icon_color=8B5CF6"
+    src="https://ghchart.rshah.org/8B5CF6/ArfaMunam47"
     alt="GitHub Contribution Activity"
     width="95%"
+  />
+</p>
+<br/>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArfaMunam47&theme=github_dark"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArfaMunam47&theme=github_dark"
+    width="49%"
   />
 </p>
 
 <br>
 
-
+<br/>
 ## 🚀 Featured Projects
 
 <table>
