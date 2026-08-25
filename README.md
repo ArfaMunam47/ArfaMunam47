@@ -116,9 +116,9 @@
   />
 </p>
 
-<br>
-
 <br/>
+
+
 ## ✨ Contribution Activity
 
 <p align="center">
@@ -128,6 +128,7 @@
     width="95%"
   />
 </p>
+
 <br/>
 
 ## 📊 GitHub Statistics
@@ -145,7 +146,8 @@
 
 <br>
 
-<br/>
+
+
 ## 🚀 Featured Projects
 
 <table>
