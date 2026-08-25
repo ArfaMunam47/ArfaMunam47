@@ -123,8 +123,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArfaMunam47&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true"
-    alt="GitHub Contribution Graph"
+    src="https://github-readme-stats.vercel.app/api?username=ArfaMunam47&show_icons=true&hide_border=true&bg_color=09090B&title_color=C4B5FD&text_color=FFFFFF&icon_color=8B5CF6"
+    alt="GitHub Contribution Activity"
     width="95%"
   />
 </p>
