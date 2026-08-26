@@ -1,0 +1,203 @@
+name: Generate GitHub Streak
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ArfaMunam47
+        run: |
+          python - <<'PY'
+          import os
+          import urllib.request
+          import datetime
+
+          username = os.environ["USERNAME"]
+
+          query = """
+          query($user:String!) {
+            user(login:$user) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          import json
+
+          data = json.dumps({
+              "query": query,
+              "variables": {"user": username}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=data,
+              headers={
+                  "Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                  "Content-Type": "application/json"
+              }
+          )
+
+          response = urllib.request.urlopen(request)
+          result = json.loads(response.read())
+
+          days = []
+
+          for week in result["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]:
+              for day in week["contributionDays"]:
+                  days.append(day)
+
+          days.sort(key=lambda x: x["date"])
+
+          streak = 0
+          current = datetime.date.today()
+
+          lookup = {
+              datetime.date.fromisoformat(day["date"]): day["contributionCount"]
+              for day in days
+          }
+
+          if lookup.get(current, 0) == 0:
+              current -= datetime.timedelta(days=1)
+
+          while lookup.get(current, 0) > 0:
+              streak += 1
+              current -= datetime.timedelta(days=1)
+
+          svg = f'''<svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#FDE68A"/>
+                <stop offset="45%" stop-color="#F59E0B"/>
+                <stop offset="100%" stop-color="#D97706"/>
+              </linearGradient>
+
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="5" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+
+            <rect
+              x="2"
+              y="2"
+              width="516"
+              height="176"
+              rx="24"
+              fill="#09090B"
+              stroke="#27272A"
+              stroke-width="1"
+            />
+
+            <text
+              x="40"
+              y="52"
+              fill="#A1A1AA"
+              font-family="Arial, sans-serif"
+              font-size="15"
+              letter-spacing="2"
+            >
+              GITHUB STREAK
+            </text>
+
+            <text
+              x="40"
+              y="112"
+              fill="url(#gold)"
+              filter="url(#glow)"
+              font-family="Arial, sans-serif"
+              font-size="54"
+              font-weight="700"
+            >
+              {streak}
+            </text>
+
+            <text
+              x="145"
+              y="108"
+              fill="#F4F4F5"
+              font-family="Arial, sans-serif"
+              font-size="23"
+              font-weight="600"
+            >
+              day streak
+            </text>
+
+            <text
+              x="40"
+              y="145"
+              fill="#71717A"
+              font-family="Arial, sans-serif"
+              font-size="13"
+            >
+              Keep building. Keep shipping.
+            </text>
+
+            <circle
+              cx="465"
+              cy="75"
+              r="20"
+              fill="none"
+              stroke="#F59E0B"
+              stroke-width="3"
+              opacity="0.9"
+            />
+
+            <text
+              x="465"
+              y="83"
+              text-anchor="middle"
+              fill="#F59E0B"
+              font-family="Arial, sans-serif"
+              font-size="21"
+            >
+              🔥
+            </text>
+          </svg>'''
+
+          with open("streak.svg", "w", encoding="utf-8") as file:
+              file.write(svg)
+          PY
+
+      - name: Commit streak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add streak.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub streak"
+
+          git push
