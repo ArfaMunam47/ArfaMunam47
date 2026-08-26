@@ -1,0 +1,93 @@
+<svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="45%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect
+    x="2"
+    y="2"
+    width="516"
+    height="176"
+    rx="24"
+    fill="#09090B"
+    stroke="#27272A"
+    stroke-width="1"
+  />
+
+  <text
+    x="40"
+    y="52"
+    fill="#A1A1AA"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    letter-spacing="2"
+  >
+    GITHUB STREAK
+  </text>
+
+  <text
+    x="40"
+    y="112"
+    fill="url(#gold)"
+    filter="url(#glow)"
+    font-family="Arial, sans-serif"
+    font-size="54"
+    font-weight="700"
+  >
+    106
+  </text>
+
+  <text
+    x="145"
+    y="108"
+    fill="#F4F4F5"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="600"
+  >
+    day streak
+  </text>
+
+  <text
+    x="40"
+    y="145"
+    fill="#71717A"
+    font-family="Arial, sans-serif"
+    font-size="13"
+  >
+    Keep building. Keep shipping.
+  </text>
+
+  <circle
+    cx="465"
+    cy="75"
+    r="20"
+    fill="none"
+    stroke="#F59E0B"
+    stroke-width="3"
+    opacity="0.9"
+  />
+
+  <text
+    x="465"
+    y="83"
+    text-anchor="middle"
+    fill="#F59E0B"
+    font-family="Arial, sans-serif"
+    font-size="21"
+  >
+    🔥
+  </text>
+</svg>
