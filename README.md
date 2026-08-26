@@ -102,105 +102,106 @@
 
 
 <br/>
+
 ## ⚡ Engineering Philosophy
+
+<p align="center">
+  <em>How I think before I build.</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>01 · THINK DEEPLY</strong><br/>
+  Solve the problem before solving the code.
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>02 · DESIGN INTENTIONALLY</strong><br/>
+  Create experiences that feel simple, intuitive, and effortless.
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>03 · ENGINEER FOR SCALE</strong><br/>
+  Write software that remains clean, maintainable, and reliable as it grows.
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>04 · KEEP EVOLVING</strong><br/>
+  Learn continuously, experiment boldly, and improve relentlessly.
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>05 · BUILD WITH PURPOSE</strong><br/>
+  Use technology to create products that solve meaningful problems.
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>06 · THINK LIKE A BUILDER</strong><br/>
+  Turn ideas into thoughtful products people actually want to use.
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Think → Design → Engineer → Iterate → Impact</sub>
+</p>
+
+<br/>
+
+
+
+<h2 align="center">🌱 Currently Exploring</h2>
 
 <table align="center">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🧩
-
-<strong>Problem Solving</strong>
-
-Solve problems before  
-writing code.
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🎨
-
-<strong>User Experience</strong>
-
-Build intuitive and  
-delightful interfaces.
+<img
+src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"
+width="260"
+alt="3D Character"
+/>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### ⚙️
+<h3>Building Beyond the Frontend</h3>
 
-<strong>Clean Engineering</strong>
+<p>⚙️ Backend Engineering</p>
+<p>🤖 AI Automation</p>
+<p>🧠 Scalable Architecture</p>
 
-Write scalable and  
-maintainable software.
+<br/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%" valign="top">
-
-### 🚀
-
-<strong>Continuous Growth</strong>
-
-Learn, experiment,  
-and improve.
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🌍
-
-<strong>Meaningful Impact</strong>
-
-Build technology  
-that makes a difference.
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 💡
-
-<strong>Product Thinking</strong>
-
-Turn ideas into useful  
-digital experiences.
+<p>
+<code>Backend</code>&nbsp;
+<code>AI</code>&nbsp;
+<code>APIs</code>&nbsp;
+<code>Architecture</code>
+</p>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
-<br/>
-
-<h2 align="center">🌱 Currently Exploring</h2>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"
-    width="300"
-    alt="Currently Exploring Animation"
-  />
-</p>
-<p align="center">
-  ⚙️ Backend Systems & API Development  
-  <br/>
-  🤖 AI Automation & Intelligent Workflows  
-  <br/>
-  🧠 Scalable Architecture & Modern Software Design
-</p>
 
 <br/>
+
+
 
 <!-- ==================== 🔥 GITHUB STREAK ==================== -->
 
