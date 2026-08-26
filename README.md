@@ -186,11 +186,11 @@ digital experiences.
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-<p align="center">
-  <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-</p>
-</p>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"
+    width="300"
+    alt="Currently Exploring Animation"
+  />
 </p>
 <p align="center">
   ⚙️ Backend Systems & API Development  
@@ -216,37 +216,14 @@ digital experiences.
 
 <br/>
 
-
-## ✨ Contribution Activity
+ ## ✨ Contribution Activity
 
 <p align="center">
-
   <img
-    src="https://ghchart.rshah.org/14B8A6/ArfaMunam47"
-    alt="GitHub Contribution Activity"
+    src="https://ghchart.rshah.org/06B6D4/ArfaMunam47"
+    alt="Arfa Munam GitHub Contribution Activity"
     width="94%"
   />
-
-</p>
-
-<br />
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true"
-    alt="GitHub Statistics"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47"
-    alt="Top Languages"
-    width="48%"
-  />
-
 </p>
 
 <br />
