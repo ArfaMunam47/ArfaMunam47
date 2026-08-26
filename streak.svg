@@ -1,150 +1,93 @@
-          svg = f'''<svg width="620" height="190" viewBox="0 0 620 190" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="180" viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="45%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
 
-            <defs>
-              <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#FFF1B8"/>
-                <stop offset="35%" stop-color="#F6D365"/>
-                <stop offset="70%" stop-color="#D4A84F"/>
-                <stop offset="100%" stop-color="#A87928"/>
-              </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-              <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#FFFFFF"/>
-                <stop offset="100%" stop-color="#D4D4D8"/>
-              </linearGradient>
+  <rect
+    x="2"
+    y="2"
+    width="516"
+    height="176"
+    rx="24"
+    fill="#09090B"
+    stroke="#27272A"
+    stroke-width="1"
+  />
 
-              <filter id="goldGlow" x="-50%" y="-50%" width="200%" height="200%">
-                <feGaussianBlur stdDeviation="6" result="blur"/>
-                <feMerge>
-                  <feMergeNode in="blur"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
+  <text
+    x="40"
+    y="52"
+    fill="#A1A1AA"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    letter-spacing="2"
+  >
+    GITHUB STREAK
+  </text>
 
-              <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-                <feGaussianBlur stdDeviation="18"/>
-              </filter>
-            </defs>
+  <text
+    x="40"
+    y="112"
+    fill="url(#gold)"
+    filter="url(#glow)"
+    font-family="Arial, sans-serif"
+    font-size="54"
+    font-weight="700"
+  >
+    106
+  </text>
 
-            <!-- Main Card -->
-            <rect
-              x="2"
-              y="2"
-              width="616"
-              height="186"
-              rx="28"
-              fill="#09090B"
-              stroke="#27272A"
-              stroke-width="1"
-            />
+  <text
+    x="145"
+    y="108"
+    fill="#F4F4F5"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="600"
+  >
+    day streak
+  </text>
 
-            <!-- Subtle Gold Glow -->
-            <circle
-              cx="555"
-              cy="38"
-              r="55"
-              fill="#F59E0B"
-              opacity="0.08"
-              filter="url(#softGlow)"
-            />
+  <text
+    x="40"
+    y="145"
+    fill="#71717A"
+    font-family="Arial, sans-serif"
+    font-size="13"
+  >
+    Keep building. Keep shipping.
+  </text>
 
-            <!-- Top Label -->
-            <text
-              x="42"
-              y="43"
-              fill="#A1A1AA"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="12"
-              font-weight="600"
-              letter-spacing="3"
-            >
-              CONSISTENCY
-            </text>
+  <circle
+    cx="465"
+    cy="75"
+    r="20"
+    fill="none"
+    stroke="#F59E0B"
+    stroke-width="3"
+    opacity="0.9"
+  />
 
-            <!-- Streak Number -->
-            <text
-              x="42"
-              y="111"
-              fill="url(#gold)"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="58"
-              font-weight="700"
-            >
-              {streak}
-            </text>
-
-            <!-- Day Text -->
-            <text
-              x="145"
-              y="108"
-              fill="url(#text)"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="22"
-              font-weight="600"
-            >
-              day streak
-            </text>
-
-            <!-- Supporting Text -->
-            <text
-              x="43"
-              y="145"
-              fill="#71717A"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="13"
-            >
-              Building every day. Shipping with purpose.
-            </text>
-
-            <!-- Gold Divider -->
-            <rect
-              x="43"
-              y="158"
-              width="72"
-              height="2"
-              rx="1"
-              fill="url(#gold)"
-            />
-
-            <!-- Flame Circle -->
-            <circle
-              cx="555"
-              cy="91"
-              r="39"
-              fill="#111113"
-              stroke="#3F3F46"
-              stroke-width="1"
-            />
-
-            <circle
-              cx="555"
-              cy="91"
-              r="31"
-              fill="none"
-              stroke="#F59E0B"
-              stroke-width="1"
-              opacity="0.35"
-            />
-
-            <!-- Flame -->
-            <text
-              x="555"
-              y="103"
-              text-anchor="middle"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="30"
-              filter="url(#goldGlow)"
-            >
-              🔥
-            </text>
-
-            <!-- Bottom Accent -->
-            <rect
-              x="43"
-              y="174"
-              width="534"
-              height="1"
-              fill="#18181B"
-            />
-
-          </svg>'''
+  <text
+    x="465"
+    y="83"
+    text-anchor="middle"
+    fill="#F59E0B"
+    font-family="Arial, sans-serif"
+    font-size="21"
+  >
+    🔥
+  </text>
+</svg>
