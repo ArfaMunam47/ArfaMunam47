@@ -24,15 +24,45 @@
 
 ## 👨‍💻 About Me
 
-| | |
-|:---|:---|
-| 🎓 **Education** | BS Computer Science Student |
-| 💼 **Specialization** | Frontend Development & Modern UI Engineering |
-| 🚀 **Currently Learning** | Backend Development • MERN Stack • AI Automation • System Design |
-| 💡 **Passionate About** | Building scalable, user-focused, and AI-powered web applications |
-| 🤝 **Open To** | Internships • Freelance • Open Source • Collaboration |
-| 🎯 **Goal** | Becoming a Full Stack Software Engineer building impactful AI products |
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><strong>Education</strong></td>
+    <td>BS Computer Science Student</td>
+  </tr>
 
+  <tr>
+    <td align="center">💼</td>
+    <td><strong>Specialization</strong></td>
+    <td>Frontend Development & Modern UI Engineering</td>
+  </tr>
+
+  <tr>
+    <td align="center">🚀</td>
+    <td><strong>Currently Learning</strong></td>
+    <td>Backend Development • MERN Stack • AI Automation • System Design</td>
+  </tr>
+
+  <tr>
+    <td align="center">💡</td>
+    <td><strong>Passionate About</strong></td>
+    <td>Building scalable, user focused, and AI powered web applications</td>
+  </tr>
+
+  <tr>
+    <td align="center">🤝</td>
+    <td><strong>Open To</strong></td>
+    <td>Internships • Freelance • Open Source • Collaboration</td>
+  </tr>
+
+  <tr>
+    <td align="center">🎯</td>
+    <td><strong>Goal</strong></td>
+    <td>Becoming a Full Stack Software Engineer building impactful AI products</td>
+  </tr>
+</table>
+
+<br/>
 
 # Tech Stack
 
@@ -69,22 +99,89 @@
 ---
 
 
+
+
+<br/>
 ## ⚡ Engineering Philosophy
 
-◈ 🧩 Problem Solving
-   Solve problems before writing code.
-   
-◈ 🎨 User Experience
-   Build intuitive and delightful interfaces.
+<table align="center">
+<tr>
 
-◈ ⚙️ Clean Engineering
-   Write scalable, maintainable software.
+<td align="center" width="33%" valign="top">
 
-◈ 🚀 Continuous Growth
-   Learn, experiment, and improve.
+### 🧩
 
-◈ 🌍 Meaningful Impact
-   Build technology that makes a difference.
+<strong>Problem Solving</strong>
+
+Solve problems before  
+writing code.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 🎨
+
+<strong>User Experience</strong>
+
+Build intuitive and  
+delightful interfaces.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### ⚙️
+
+<strong>Clean Engineering</strong>
+
+Write scalable and  
+maintainable software.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+### 🚀
+
+<strong>Continuous Growth</strong>
+
+Learn, experiment,  
+and improve.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 🌍
+
+<strong>Meaningful Impact</strong>
+
+Build technology  
+that makes a difference.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 💡
+
+<strong>Product Thinking</strong>
+
+Turn ideas into useful  
+digital experiences.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+<br/>
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
@@ -116,36 +213,72 @@
   />
 </p>
 
+
 <br/>
 
 
 ## ✨ Contribution Activity
 
 <p align="center">
+
   <img
-    src="https://ghchart.rshah.org/8B5CF6/ArfaMunam47"
+    src="https://ghchart.rshah.org/14B8A6/ArfaMunam47"
     alt="GitHub Contribution Activity"
-    width="95%"
+    width="94%"
   />
+
 </p>
+
+<br />
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true"
+    alt="GitHub Statistics"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47"
+    alt="Top Languages"
+    width="48%"
+  />
+
+</p>
+
+<br />
+
 
 <br/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArfaMunam47&theme=github_dark"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArfaMunam47&theme=github_dark"
-    width="49%"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
 
-<br>
+  <img
+        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true&bg_color=09090B&title_color=F5D0A9&text_color=E7E5E4&icon_color=F472B6&border_color=292524&border_radius=16"
+        alt="GitHub Statistics"
+        width="500"
+      />
+   </td>
 
+ <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47&layout=compact&langs_count=6&bg_color=09090B&title_color=F5D0A9&text_color=E7E5E4&icon_color=F472B6&border_color=292524&border_radius=16"
+        alt="Top Languages"
+        width="500"
+      />
+
+   </td>
+  </tr>
+</table>
+
+<br />
 
 
 ## 🚀 Featured Projects
