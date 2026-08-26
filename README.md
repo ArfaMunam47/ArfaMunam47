@@ -103,101 +103,47 @@
 
 <br/>
 
-## ⚡ Engineering Philosophy
 
-<p align="center">
-  <em>How I think before I build.</em>
-</p>
+## 🌱 Currently Exploring
 
-<br/>
-
-<p align="center">
-  <strong>01 · THINK DEEPLY</strong><br/>
-  Solve the problem before solving the code.
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>02 · DESIGN INTENTIONALLY</strong><br/>
-  Create experiences that feel simple, intuitive, and effortless.
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>03 · ENGINEER FOR SCALE</strong><br/>
-  Write software that remains clean, maintainable, and reliable as it grows.
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>04 · KEEP EVOLVING</strong><br/>
-  Learn continuously, experiment boldly, and improve relentlessly.
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>05 · BUILD WITH PURPOSE</strong><br/>
-  Use technology to create products that solve meaningful problems.
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>06 · THINK LIKE A BUILDER</strong><br/>
-  Turn ideas into thoughtful products people actually want to use.
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>Think → Design → Engineer → Iterate → Impact</sub>
-</p>
-
-<br/>
-
-
-
-<h2 align="center">🌱 Currently Exploring</h2>
-
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="62%" valign="middle">
 
-<img
-src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"
-width="260"
-alt="3D Character"
-/>
+<p>
+⚙️ <strong>Backend Engineering</strong><br/>
+<sub>Building reliable APIs and server side systems.</sub>
+</p>
+
+<hr/>
+
+<p>
+✨ <strong>Vibe Coding</strong><br/>
+<sub>Turning ideas into polished products with AI powered workflows.</sub>
+</p>
+
+<hr/>
+
+<p>
+🤖 <strong>AI Automation</strong><br/>
+<sub>Connecting AI, APIs, and intelligent workflows to build smarter applications.</sub>
+</p>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<h3>Building Beyond the Frontend</h3>
-
-<p>⚙️ Backend Engineering</p>
-<p>🤖 AI Automation</p>
-<p>🧠 Scalable Architecture</p>
-
-<br/>
-
-<p>
-<code>Backend</code>&nbsp;
-<code>AI</code>&nbsp;
-<code>APIs</code>&nbsp;
-<code>Architecture</code>
-</p>
+<img
+  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
+  width="270"
+  alt="Girl coding"
+/>
 
 </td>
 
 </tr>
 </table>
-
 
 <br/>
 
@@ -217,10 +163,6 @@ alt="3D Character"
 
 <br/>
 
-<br/>
-
-
-<br/>
 
  ## ✨ Contribution Activity
 
