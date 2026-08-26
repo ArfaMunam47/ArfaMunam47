@@ -209,10 +209,13 @@ alt="3D Character"
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6"
-    alt="GitHub Streak"
+    src="./streak.svg"
+    width="520"
+    alt="GitHub Contribution Streak"
   />
 </p>
+
+<br/>
 
 
 <br/>
