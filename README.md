@@ -151,15 +151,16 @@
 
 <!-- ==================== 🔥 GITHUB STREAK ==================== -->
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="./streak.svg"
-    width="520"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=transparent&hide_border=true&ring=E8A0BF&fire=E8A0BF&currStreakLabel=E8A0BF&sideLabels=E8A0BF&dates=888888"
+    alt="GitHub Streak"
   />
 </p>
+
 
 <br/>
 
