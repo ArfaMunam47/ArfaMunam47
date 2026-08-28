@@ -103,6 +103,48 @@
 
 <br/>
 
+ ## 🌱 Currently Exploring
+
+<table align="center" width="100%">
+<tr>
+
+<td width="65%" valign="middle">
+
+<p>
+⚙️ <strong>Backend Engineering</strong><br/>
+<sub>Building reliable APIs and server side systems.</sub>
+</p>
+
+<hr/>
+
+<p>
+✨ <strong>Vibe Coding</strong><br/>
+<sub>Turning ideas into polished products with AI powered workflows.</sub>
+</p>
+
+<hr/>
+
+<p>
+🤖 <strong>AI Automation</strong><br/>
+<sub>Connecting AI, APIs, and intelligent workflows to build smarter applications.</sub>
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
+  width="220"
+  alt="Girl coding"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ## 🌱 Currently Exploring
 
