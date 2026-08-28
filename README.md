@@ -203,40 +203,6 @@
 </table>
 
 <br />
-
- ## 🚀 Featured Projects
-
-<p align="center">
-
-<img
-src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/food.png.png"
-width="48%"
-alt="Food Landing Page"
-/>
-
-<img
-src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/%7B96495168-58B6-4071-BD9B-2570184D0726%7D.png"
-width="48%"
-alt="Personal Portfolio"
-/>
-
-<br/>
-
-<img
-src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/image.png"
-width="48%"
-alt="FounderOS Landing Page"
-/>
-
-<img
-src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/%7BB847A7B5-7952-4792-9A71-971E4DC78542%7D.png"
-width="48%"
-alt="Veloura Store"
-/>
-
-</p>
-
-<br/>
  
 ## 🚀 Featured Projects
 
