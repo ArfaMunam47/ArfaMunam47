@@ -150,15 +150,30 @@
 
 <!-- ==================== 🔥 GITHUB STREAK ==================== -->
 
-## 🔥 GitHub Streak
+
+## 🔥GitHub Streak
+
+<div align="center">
+
+<table>
+<tr>
+<td style="border: 1px solid #6B3A4A; border-radius: 18px; padding: 8px; background-color: #17151A;">
+
+<img
+  src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=dark&hide_border=true&background=17151A&ring=B85C7A&fire=D16B88&currStreakLabel=E8C8D2&sideLabels=BFAAB3&currStreakNum=F5E9ED&sideNums=F5E9ED&dates=81727A"
+  alt="GitHub Streak"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ArfaMunam47&theme=transparent&hide_border=true&ring=E8A0BF&fire=E8A0BF&currStreakLabel=E8A0BF&sideLabels=E8A0BF&dates=888888"
-    alt="GitHub Streak"
-  />
+  <sub>Building consistently • Learning continuously • Shipping relentlessly</sub>
 </p>
-
 
 <br/>
 
