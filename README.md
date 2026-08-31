@@ -170,12 +170,7 @@
 
 </div>
 
-
-<p align="center">
-  <sub>Building consistently • Learning continuously • Shipping relentlessly</sub>
-</p>
-
-<br/>
+<hr/>
 
 
  ## ✨ Contribution Activity
@@ -188,10 +183,8 @@
   />
 </p>
 
-<br />
+<hr/>
 
-
-<br/>
 
 ## 📊 GitHub Statistics
 
@@ -217,7 +210,7 @@
   </tr>
 </table>
 
-<br />
+<hr/>
  
 ## 🚀 Featured Projects
 
@@ -272,6 +265,7 @@
 
 </p>
 
+ <hr/>
 ---
 
 ## 💭 Engineering Philosophy
@@ -286,4 +280,4 @@ Feel free to explore my repositories, share feedback, or connect with me on my j
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00D9FF&50:13111F&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:241B3A,100:FF8FAB&section=footer&animation=twinkling" width="100%"/>
