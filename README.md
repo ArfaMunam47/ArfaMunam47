@@ -6,21 +6,36 @@
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&color=B85C7A&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast"
+  alt="Typing SVG"
+/>
   </a> 
 </p>   
 <hr>
 
-<p align="center"><a href="https://www.linkedin.com/in/arfa-munam-a823573a1"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arfamunam01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+## 📬 Get In Touch
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="center"> <a href="https://www.linkedin.com/in/arfa-munam-a823573a1"> <img
+      src="https://img.shields.io/badge/LinkedIn-17151A?style=for-the-badge&logo=linkedin&logoColor=E8C8D2&labelColor=17151A&color=B85C7A"
+      alt="LinkedIn"
+    /></a>
+  <a href="mailto:arfamunam01@gmail.com"><img
+      src="https://img.shields.io/badge/Gmail-17151A?style=for-the-badge&logo=gmail&logoColor=E8C8D2&labelColor=17151A&color=D16B88"
+      alt="Gmail"
+    /></a></p>
 
-<img src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
+<p align="center"><img
+    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=17151A&labelColor=6B3A4A&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&labelColor=17151A&color=B85C7A"
+    alt="GitHub Followers"
+  />
 
 </p>
+<hr/>
 
 ## 👨‍💻 About Me
 
@@ -103,6 +118,7 @@
 
 <br/>
 
+
 ## 🌱 Currently Exploring
 
 <table align="center" width="90%">
@@ -177,7 +193,7 @@
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/06B6D4/ArfaMunam47"
+    src="https://ghchart.rshah.org/B85C7A/ArfaMunam47"
     alt="Arfa Munam GitHub Contribution Activity"
     width="94%"
   />
@@ -190,23 +206,42 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td
+      align="center"
+      width="50%"
+      style="
+        border: 1px solid #B85C7A;
+        border-radius: 18px;
+        padding: 12px;
+        background: rgba(184, 92, 122, 0.08);
+      "
+    >
 
   <img
-        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true&bg_color=09090B&title_color=F5D0A9&text_color=E7E5E4&icon_color=F472B6&border_color=292524&border_radius=16"
+        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true&bg_color=17151A&title_color=E8C8D2&text_color=F5E9ED&icon_color=D16B88&border_color=6B3A4A&border_radius=16"
         alt="GitHub Statistics"
         width="500"
       />
-   </td>
 
- <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47&layout=compact&langs_count=6&bg_color=09090B&title_color=F5D0A9&text_color=E7E5E4&icon_color=F472B6&border_color=292524&border_radius=16"
+  </td>
+
+   <td
+    align="center"
+      width="50%"
+      style="
+        border: 1px solid #B85C7A;
+        border-radius: 18px;
+        padding: 12px;
+        background: rgba(184, 92, 122, 0.08);
+      "
+    >
+
+   <img
+        src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47&layout=compact&langs_count=6&bg_color=17151A&title_color=E8C8D2&text_color=F5E9ED&icon_color=D16B88&border_color=6B3A4A&border_radius=16"
         alt="Top Languages"
         width="500"
       />
-
-   </td>
+    </td>
   </tr>
 </table>
 
@@ -266,18 +301,29 @@
 </p>
 
  <hr/>
----
 
 ## 💭 Engineering Philosophy
 
-> "" Engineers don’t just solve problems; 
-> they turn impossible ideas into systems that work. ""
+<div align="center">
 
-<hr>
+### **"Build with curiosity. Engineer with purpose. Create what others haven't imagined yet."**
+
+<br>
+
+> **I don't just write code. I turn ideas into intelligent, scalable systems  
+> that solve real problems and create meaningful experiences.**
+
+</div>
+</div>
+<hr/>
+
+
 
 ### 🤝 Let's Connect & Build Something Amazing
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!">
-  
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=D16B88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!"
+  alt="Thanks for visiting"
+/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:241B3A,100:FF8FAB&section=footer&animation=twinkling" width="100%"/>
