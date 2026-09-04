@@ -202,51 +202,6 @@
 <hr/>
 
 
-## 📊 GitHub Statistics
-
-<table align="center">
-  <tr>
-    <td
-      align="center"
-      width="50%"
-      style="
-        border: 1px solid #B85C7A;
-        border-radius: 18px;
-        padding: 12px;
-        background: rgba(184, 92, 122, 0.08);
-      "
-    >
-
-  <img
-        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=ArfaMunam47&show_icons=true&bg_color=17151A&title_color=E8C8D2&text_color=F5E9ED&icon_color=D16B88&border_color=6B3A4A&border_radius=16"
-        alt="GitHub Statistics"
-        width="500"
-      />
-
-  </td>
-
-   <td
-    align="center"
-      width="50%"
-      style="
-        border: 1px solid #B85C7A;
-        border-radius: 18px;
-        padding: 12px;
-        background: rgba(184, 92, 122, 0.08);
-      "
-    >
-
-   <img
-        src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ArfaMunam47&layout=compact&langs_count=6&bg_color=17151A&title_color=E8C8D2&text_color=F5E9ED&icon_color=D16B88&border_color=6B3A4A&border_radius=16"
-        alt="Top Languages"
-        width="500"
-      />
-    </td>
-  </tr>
-</table>
-
-<hr/>
- 
 ## 🚀 Featured Projects
 
 <table>
