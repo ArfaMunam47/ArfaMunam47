@@ -188,9 +188,6 @@
 
 <hr/>
 
-<div align="center">
-
-
  ## ✨ Contribution Activity
 
 <p align="center">
