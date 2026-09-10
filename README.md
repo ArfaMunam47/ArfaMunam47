@@ -188,6 +188,7 @@
 
 <hr/>
 
+
 <h2 align="center">✦ GitHub Activity</h2>
 
 <p align="center">
@@ -198,7 +199,8 @@
   />
 </p>
 
-<br />
+<hr />
+
 
 <h3 align="center">⚡ GitHub Statistics</h3>
 
@@ -215,7 +217,7 @@
   />
 </p>
 
-<br />
+<hr/>
 
 <h3 align="center">💻 Languages</h3>
 
@@ -231,6 +233,7 @@
     alt="Languages by Commits"
   />
 </p>
+<hr/>
 
 <div align="center">
 
