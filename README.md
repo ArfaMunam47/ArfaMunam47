@@ -188,6 +188,54 @@
 
 <hr/>
 
+<!-- ============================= -->
+<!--       GITHUB ACTIVITY         -->
+<!-- ============================= -->
+
+<h2 align="center">✦ GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-productive-time.svg"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-stats.svg"
+    width="49%"
+  />
+</p>
+
+<br/>
+
+<!-- ============================= -->
+<!--        CONTRIBUTIONS          -->
+<!-- ============================= -->
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/1-profile-details.svg"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- ============================= -->
+<!--          LANGUAGES            -->
+<!-- ============================= -->
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="49%"
+  />
+
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="49%"
+  />
+</p>
+
  ## ✨ Contribution Activity
 
 <p align="center">
