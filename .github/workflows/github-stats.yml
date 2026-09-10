@@ -1,22 +1,23 @@
-name: Generate GitHub Profile Stats
+name: GitHub Profile Summary Cards
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate GitHub profile cards
+      - name: Generate GitHub Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -26,5 +27,5 @@ jobs:
           UTC_OFFSET: 5
           AUTO_PUSH: true
           THEME: github_dark
-          ANIMATION: rise
+          ANIMATION: load
           DURATION: 3
