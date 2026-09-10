@@ -189,7 +189,7 @@
 <hr/>
 
 
-<h2 align="center">✦ GitHub Activity</h2>
+## ⌘ GitHub Journey
 
 <p align="center">
   <img
@@ -201,41 +201,39 @@
 
 <hr />
 
-
-<h3 align="center">⚡ GitHub Statistics</h3>
+ ## ⚡ GitHub Statistics
 
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="48%"
+    width="47%"
     alt="GitHub Statistics"
-  />  
+  />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="48%"
+    width="47%"
     alt="Productive Time"
   />
 </p>
+<hr/> 
 
-<hr/>
-
-<h3 align="center">💻 Languages</h3>
+ ## 💻 Languages
 
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    width="48%"
+    width="47%"
     alt="Languages by Repository"
   />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    width="48%"
+    width="47%"
     alt="Languages by Commits"
   />
 </p>
 <hr/>
-
-<div align="center">
 
 
  ## ✨ Contribution Activity
