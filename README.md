@@ -188,18 +188,48 @@
 
 <hr/>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-profile-details.svg" width="100%">
-</p>
+<h2 align="center">✦ GitHub Activity</h2>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
+<br />
+
+<h3 align="center">⚡ GitHub Statistics</h3>
+
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    width="48%"
+    alt="Productive Time"
+  />
+</p>
+
+<br />
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="48%"
+    alt="Languages by Repository"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="48%"
+    alt="Languages by Commits"
+  />
 </p>
 
 <div align="center">
