@@ -188,43 +188,22 @@
 
 <hr/>
 
-<div align="center">
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-profile-details.svg" width="100%">
+</p>
 
-# ✦ GitHub Journey
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%">
+</p>
 
-</div>
-
-<br>
-
-<!-- PROFILE DETAILS -->
-
-<div align="center">
-
-<img src="./profile-summary-card-output/github_dark/1-profile-details.svg" width="100%">
-
-</div>
-
-<br>
-
-<!-- STATS + MOST USED LANGUAGE -->
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
+</p>
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%">
-
-</div>
-
-<br>
-
-<!-- LANGUAGES -->
-
-<div align="center">
-
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
-
-</div>
 
  ## ✨ Contribution Activity
 
