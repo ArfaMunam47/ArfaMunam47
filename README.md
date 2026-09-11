@@ -1,7 +1,7 @@
 <!-- ======= HERO SECTION ================== -->
 
 <h1 align="center">
-  Hello, I'm <strong>𝐀𝐫𝐟𝐚 𝐌𝐮𝐧𝐚𝐦</strong> 👋
+  Hello, I'm <strong>Arfa Munam | ارفع منعام</strong> 👋
 </h1>
 <p align="center">
 <p align="center">
@@ -308,16 +308,23 @@
 
 <div align="center">
 
-### **"Build with curiosity. Engineer with purpose. Create what others haven't imagined yet."**
+### **"Every great product begins as an idea someone refused to leave unfinished."**
 
 <br>
 
-> **I don't just write code. I turn ideas into intelligent, scalable systems  
-> that solve real problems and create meaningful experiences.**
+> **I explore the intersection of code, AI, and human experience —
+> transforming bold ideas into intelligent systems designed for the real world.**
+
+<br>
+
+**Curiosity is the spark.
+Engineering is the craft.
+Creation is the destination.**
 
 </div>
-</div>
+
 <hr/>
+
 
 
 
