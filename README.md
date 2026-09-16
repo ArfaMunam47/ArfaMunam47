@@ -276,9 +276,9 @@
 
 <td align="center" width="50%">
 
-### 🚀 FounderOS Landing Page
+### 🚀 StudyPilot AI
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/image.png" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/studyPilot ai.png" width="100%" alt="FounderOS"/>
 
 </td>
 
