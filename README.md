@@ -286,7 +286,7 @@
 
 ### 🛍️ Veloura Store
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/%7BB847A7B5-7952-4792-9A71-971E4DC78542%7D.png" width="100%" alt="Veloura"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/velora.png" width="100%" alt="Veloura"/>
 
 </td>
 
