@@ -276,7 +276,7 @@
 
 <td align="center" width="50%">
 
-### 🚀 StudyPilot AI
+### 🚀 StudyPilot-AI 
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/studyPilot ai.png" width="100%" alt="FounderOS"/>
 
