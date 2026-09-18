@@ -308,22 +308,34 @@
 
 <div align="center">
 
-### **"Every great product begins as an idea someone refused to leave unfinished."**
+### **IDEAS → SYSTEMS → EXPERIENCES**
 
 <br>
 
-> **I explore the intersection of code, AI, and human experience —
-> transforming bold ideas into intelligent systems designed for the real world.**
+`THINK`   `BUILD`   `BREAK`   `REFINE`   `SHIP`
 
 <br>
 
-**Curiosity is the spark.
-Engineering is the craft.
-Creation is the destination.**
+**I turn curiosity into things people can actually use.**
+
+<br>
+
+`CODE × AI × DESIGN`
+
+<br>
+
+<sub>Always building. Always refining.</sub>
 
 </div>
+</hr>
+
+<br>
+
+> **“Leave no good idea unfinished.”**
 
 <hr/>
+
+
 
 
 
