@@ -304,30 +304,24 @@
 
  <hr/>
 
-## 💭 Engineering Philosophy
+## 🎀 THE WAY I BUILD
 
 <div align="center">
 
-### **IDEAS → SYSTEMS → EXPERIENCES**
+### **CURIOUS ENOUGH TO EXPLORE.**
+
+### **OBSESSED ENOUGH TO REFINE.**
 
 <br>
 
-`THINK`   `BUILD`   `BREAK`   `REFINE`   `SHIP`
+I build at the intersection of **software, AI, and design**
+turning ideas into products that feel **intentional, useful, and alive.**
 
 <br>
 
-**I turn curiosity into things people can actually use.**
-
-<br>
-
-`CODE × AI × DESIGN`
-
-<br>
-
-<sub>Always building. Always refining.</sub>
+`EXPLORE`  `CREATE`  `EXPERIMENT`  `REFINE`  `SHIP`
 
 </div>
-</hr>
 
 <br>
 
