@@ -299,7 +299,11 @@
 
 <div align="center">
 
-<img src="./activity-trail.svg" width="92%" alt="Activity Trail" />
+<img
+  src="./activity-trail.svg"
+  width="100%"
+  alt="GitHub Activity Trail"
+/>
 
 </div>
 <hr>
