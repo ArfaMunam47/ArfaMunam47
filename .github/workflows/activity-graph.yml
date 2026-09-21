@@ -27,25 +27,51 @@ jobs:
           base: ""
 
           config_timezone: Asia/Karachi
-          config_display: regular
-          config_padding: 0
+          config_display: large
+          config_padding: 8
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_graph: yes
 
           extras_css: |
             svg {
               background: #17151A !important;
+              border-radius: 18px !important;
             }
 
             text {
               fill: #E8C8D2 !important;
+              font-family: Inter, Arial, sans-serif !important;
             }
 
-            rect {
-              stroke: #17151A !important;
+            .calendar-graph text {
+              display: none !important;
             }
 
             .calendar-graph rect {
+              rx: 3px !important;
+              ry: 3px !important;
+              stroke: #17151A !important;
+              stroke-width: 2px !important;
+            }
+
+            .calendar-graph rect[data-level="0"] {
+              fill: #2A2026 !important;
+            }
+
+            .calendar-graph rect[data-level="1"] {
               fill: #6B3A4A !important;
+            }
+
+            .calendar-graph rect[data-level="2"] {
+              fill: #8F4D64 !important;
+            }
+
+            .calendar-graph rect[data-level="3"] {
+              fill: #B85C7A !important;
+            }
+
+            .calendar-graph rect[data-level="4"] {
+              fill: #D16B88 !important;
             }
