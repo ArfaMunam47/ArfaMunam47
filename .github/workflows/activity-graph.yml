@@ -31,12 +31,21 @@ jobs:
           config_padding: 0
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
           extras_css: |
             svg {
               background: #17151A !important;
             }
+
             text {
               fill: #E8C8D2 !important;
+            }
+
+            rect {
+              stroke: #17151A !important;
+            }
+
+            .calendar-graph rect {
+              fill: #6B3A4A !important;
             }
