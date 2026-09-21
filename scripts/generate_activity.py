@@ -15,13 +15,14 @@ OUTPUT = "activity-trail.svg"
 # GITHUB GRAPHQL
 # ============================================================
 
-today = datetime.datetime.utcnow().replace(
+today = datetime.datetime.now(
+    datetime.timezone.utc
+).replace(
     hour=23,
     minute=59,
     second=59,
     microsecond=0
 )
-
 start = today - datetime.timedelta(days=181)
 
 
