@@ -295,6 +295,15 @@
 
 <hr>
 
+## 👌🎀 THE ACTIVITY TRAIL
+
+<div align="center">
+
+<img src="./activity.svg" width="72%" />
+
+</div>
+<hr>
+
 ## 🐍 Contribution Snake Animation
 <p align="center">
 
