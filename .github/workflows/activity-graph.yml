@@ -24,52 +24,52 @@ jobs:
           user: ArfaMunam47
 
           template: classic
+
           base: ""
 
           config_timezone: Asia/Karachi
           config_display: large
-          config_padding: 8
+          config_padding: 0
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_graph: yes
+          plugin_isocalendar_duration: half-year
+
+          extras_js: |
+            document.querySelector(".field.calendar")?.remove()
 
           extras_css: |
+
             svg {
               background: #17151A !important;
-              border-radius: 18px !important;
             }
 
             text {
               fill: #E8C8D2 !important;
-              font-family: Inter, Arial, sans-serif !important;
             }
 
-            .calendar-graph text {
-              display: none !important;
+            rect {
+              stroke: #17151A !important;
             }
 
             .calendar-graph rect {
               rx: 3px !important;
               ry: 3px !important;
-              stroke: #17151A !important;
-              stroke-width: 2px !important;
             }
 
             .calendar-graph rect[data-level="0"] {
-              fill: #2A2026 !important;
+              fill: #241D22 !important;
             }
 
             .calendar-graph rect[data-level="1"] {
-              fill: #6B3A4A !important;
+              fill: #4A2935 !important;
             }
 
             .calendar-graph rect[data-level="2"] {
-              fill: #8F4D64 !important;
+              fill: #713B4D !important;
             }
 
             .calendar-graph rect[data-level="3"] {
-              fill: #B85C7A !important;
+              fill: #A34F6A !important;
             }
 
             .calendar-graph rect[data-level="4"] {
