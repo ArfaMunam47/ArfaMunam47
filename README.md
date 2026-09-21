@@ -299,7 +299,7 @@
 
 <div align="center">
 
-<img src="./activity-trail.svg" width="82%" alt="Activity Trail" />
+<img src="./activity-trail.svg" width="92%" alt="Activity Trail" />
 
 </div>
 <hr>
