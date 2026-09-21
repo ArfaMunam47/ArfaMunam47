@@ -302,7 +302,7 @@
 <img
   src="./activity-trail.svg"
   width="100%"
-  alt="GitHub Activity Trail"
+  alt="The Activity Trail"
 />
 
 </div>
