@@ -346,42 +346,14 @@ svg = f"""
 
 
 <!-- =====================================================
-     TITLE
-     ===================================================== -->
-
-{text("👌", 55, 78, 38)}
-
-{text("🎀", 108, 78, 34)}
-
-{text(
-    "THE ACTIVITY TRAIL",
-    160,
-    78,
-    30,
-    "#F4EDF1",
-    "700"
-)}
-
-
-<line
-    x1="55"
-    y1="112"
-    x2="1445"
-    y2="112"
-    stroke="#302934"
-    stroke-width="1"
-/>
-
-
-<!-- =====================================================
      ACTIVITY AREA
      ===================================================== -->
 
 <rect
     x="55"
-    y="145"
+    y="55"
     width="1390"
-    height="555"
+    height="575"
     rx="18"
     fill="#050509"
     stroke="#54213B"
@@ -395,13 +367,14 @@ svg = f"""
 # ============================================================
 
 # Position of the 3D calendar.
-origin_x = 170
-origin_y = 310
+origin_x = 285
+origin_y = 150
 
-cell_x = 38
-cell_y = 19
+# Spacing is intentionally generous so the isometric cells stay distinct.
+cell_x = 43
+cell_y = 14
 
-cube_height = 15
+cube_height = 12
 
 columns = min(26, len(weeks_data))
 
@@ -540,8 +513,8 @@ for col in range(columns):
 
 svg += text(
     "Mon",
-    72,
-    300,
+    82,
+    190,
     15,
     "#E9C6D6",
     "500"
@@ -549,8 +522,8 @@ svg += text(
 
 svg += text(
     "Wed",
-    72,
-    345,
+    82,
+    250,
     15,
     "#E9C6D6",
     "500"
@@ -558,8 +531,8 @@ svg += text(
 
 svg += text(
     "Fri",
-    72,
-    390,
+    82,
+    310,
     15,
     "#E9C6D6",
     "500"
@@ -571,13 +544,13 @@ svg += text(
 # ============================================================
 
 month_positions = [
-    ("MAR '26", 150),
-    ("APR '26", 350),
-    ("MAY '26", 550),
-    ("JUN '26", 750),
-    ("JUL '26", 950),
-    ("AUG '26", 1150),
-    ("SEP '26", 1320)
+    ("MAR '26", 250),
+    ("APR '26", 445),
+    ("MAY '26", 640),
+    ("JUN '26", 835),
+    ("JUL '26", 1030),
+    ("AUG '26", 1225),
+    ("SEP '26", 1340)
 ]
 
 for label, x in month_positions:
@@ -585,7 +558,7 @@ for label, x in month_positions:
     svg += text(
         label,
         x,
-        650,
+        600,
         15,
         "#E875A0",
         "600"
@@ -597,7 +570,7 @@ for label, x in month_positions:
 # ============================================================
 
 legend_x = 90
-legend_y = 755
+legend_y = 655
 
 svg += f"""
 <rect
@@ -661,10 +634,10 @@ stats = [
 
 
 card_x = 650
-card_y = 755
-card_width = 180
+card_y = 655
+card_width = 175
 card_height = 80
-card_gap = 20
+card_gap = 18
 
 
 for i, (icon, value, label) in enumerate(stats):
@@ -721,7 +694,7 @@ for i, (icon, value, label) in enumerate(stats):
 svg += text(
     "GitHub activity • automatically updated",
     55,
-    900,
+    855,
     12,
     "#80616F",
     "400"
