@@ -23,6 +23,7 @@ today = datetime.datetime.now(
     second=59,
     microsecond=0
 )
+
 start = today - datetime.timedelta(days=181)
 
 
@@ -36,8 +37,6 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
       from: $from
       to: $to
     ) {
-      totalContributions
-
       contributionCalendar {
         totalContributions
 
@@ -69,8 +68,8 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 
 variables = {
     "login": USERNAME,
-    "from": start.isoformat() + "Z",
-    "to": today.isoformat() + "Z"
+    "from": start.isoformat().replace("+00:00", "Z"),
+    "to": today.isoformat().replace("+00:00", "Z")
 }
 
 
