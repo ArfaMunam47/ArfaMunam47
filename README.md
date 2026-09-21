@@ -276,15 +276,15 @@
 
 <td align="center" width="50%">
 
-### 🚀 StudyPilot-AI 
+### 🚀✍️ StudyPilot-AI 
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/studyPilot ai.png" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/study.png" width="100%" alt="FounderOS"/>
 
 </td>
 
 <td align="center" width="50%">
 
-### 🛍️ Veloura Store
+### 🛍️💕 Veloura Store
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/velora.png" width="100%" alt="Veloura"/>
 
