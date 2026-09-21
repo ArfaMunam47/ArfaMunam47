@@ -3,7 +3,9 @@ name: Update Activity Trail
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -18,60 +20,131 @@ jobs:
     steps:
       - name: Generate Activity Trail
         uses: lowlighter/metrics@latest
+
         with:
           filename: activity-trail.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ArfaMunam47
 
           template: classic
 
+          # Only show the isometric activity calendar
           base: ""
 
+          # Karachi timezone
           config_timezone: Asia/Karachi
-          config_display: large
+
+          # More compact than "large"
+          config_display: regular
+
+          # Remove unnecessary outer spacing
           config_padding: 0
 
+          # Isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Remove the default calendar/header element
           extras_js: |
-            document.querySelector(".field.calendar")?.remove()
+            document.querySelector(".field.calendar")?.remove();
+
+            // Remove the "Contributions calendar" title
+            document.querySelectorAll("h2").forEach((el) => {
+              if (el.textContent?.toLowerCase().includes("contributions calendar")) {
+                el.remove();
+              }
+            });
 
           extras_css: |
+
+            /* =========================================
+               MAIN BACKGROUND
+               ========================================= */
 
             svg {
               background: #17151A !important;
             }
 
+
+            /* =========================================
+               TEXT
+               ========================================= */
+
             text {
               fill: #E8C8D2 !important;
             }
+
+
+            /* =========================================
+               REMOVE UNNECESSARY BORDERS
+               ========================================= */
 
             rect {
               stroke: #17151A !important;
             }
 
+
+            /* =========================================
+               PINK ISOMETRIC ACTIVITY COLORS
+               ========================================= */
+
+            /* Lowest activity */
+            rect[data-level="0"],
+            polygon[data-level="0"] {
+              fill: #241D22 !important;
+            }
+
+            /* Low activity */
+            rect[data-level="1"],
+            polygon[data-level="1"] {
+              fill: #542B3B !important;
+            }
+
+            /* Medium activity */
+            rect[data-level="2"],
+            polygon[data-level="2"] {
+              fill: #803D55 !important;
+            }
+
+            /* High activity */
+            rect[data-level="3"],
+            polygon[data-level="3"] {
+              fill: #B65375 !important;
+            }
+
+            /* Maximum activity */
+            rect[data-level="4"],
+            polygon[data-level="4"] {
+              fill: #D16B88 !important;
+            }
+
+
+            /* =========================================
+               ALSO CATCH THE ISOMETRIC CALENDAR SHAPES
+               ========================================= */
+
             .calendar-graph rect {
+              fill: #D16B88 !important;
+              stroke: #17151A !important;
               rx: 3px !important;
               ry: 3px !important;
             }
 
-            .calendar-graph rect[data-level="0"] {
-              fill: #241D22 !important;
+
+            /* =========================================
+               REMOVE THE CALENDAR TITLE
+               ========================================= */
+
+            h2 {
+              display: none !important;
             }
 
-            .calendar-graph rect[data-level="1"] {
-              fill: #4A2935 !important;
-            }
 
-            .calendar-graph rect[data-level="2"] {
-              fill: #713B4D !important;
-            }
+            /* =========================================
+               REMOVE EXCESS EMPTY SPACE
+               ========================================= */
 
-            .calendar-graph rect[data-level="3"] {
-              fill: #A34F6A !important;
-            }
-
-            .calendar-graph rect[data-level="4"] {
-              fill: #D16B88 !important;
+            .field {
+              margin: 0 !important;
             }
