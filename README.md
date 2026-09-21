@@ -297,13 +297,7 @@
 
 ## 👌🎀 THE ACTIVITY TRAIL
 
-<div align="center">
-
-<img
-  src="./activity-trail.svg"
-  width="100%"
-  alt="The Activity Trail"
-/>
+<img src="./activity-trail.svg" width="82%" alt="Activity Trail" />
 
 </div>
 <hr>
