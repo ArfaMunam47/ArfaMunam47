@@ -369,15 +369,15 @@ svg = f"""
 # Position of the 3D calendar.
 # Compact, centered layout: the calendar stays comfortably inside
 # the activity panel and leaves a dedicated area for the month labels.
-origin_x = 380
+origin_x = 420
 origin_y = 125
 
 # Smaller cells keep the full 6-month trail compact and leave
 # dedicated breathing room for weekday/month labels.
-cell_x = 34
-cell_y = 8
+cell_x = 39
+cell_y = 9
 
-cube_height = 8
+cube_height = 10
 
 columns = min(26, len(weeks_data))
 
@@ -551,13 +551,13 @@ svg += text(
 # with cubes or the statistics cards.
 
 month_positions = [
-    ("MAR '26", 380),
-    ("APR '26", 520),
-    ("MAY '26", 660),
-    ("JUN '26", 800),
-    ("JUL '26", 940),
-    ("AUG '26", 1080),
-    ("SEP '26", 1220)
+    ("MAR '26", 420),
+    ("APR '26", 576),
+    ("MAY '26", 732),
+    ("JUN '26", 888),
+    ("JUL '26", 1044),
+    ("AUG '26", 1200),
+    ("SEP '26", 1356)
 ]
 
 for label, x in month_positions:
