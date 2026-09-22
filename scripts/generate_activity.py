@@ -373,7 +373,6 @@ origin_x = 420
 origin_y = 115
 cell_x = 42
 cell_y = 11
-cube_height = 15
 month_y = 555
 
 # Smaller cells keep the full 6-month trail compact and leave
