@@ -369,16 +369,15 @@ svg = f"""
 # Position of the 3D calendar.
 # Compact, centered layout: the calendar stays comfortably inside
 # the activity panel and leaves a dedicated area for the month labels.
-origin_x = 350
-origin_y = 100
-cell_x = 42
-cell_y = 11
-month_y = 555
+origin_x = 390
+origin_y = 145
 
 # Smaller cells keep the full 6-month trail compact and leave
 # dedicated breathing room for weekday/month labels.
+cell_x = 40
+cell_y = 10
 
-cube_height = 10
+cube_height = 12
 
 columns = min(26, len(weeks_data))
 
@@ -552,20 +551,20 @@ svg += text(
 # with cubes or the statistics cards.
 
 month_positions = [
-    ("MAR '26", 420),
-    ("APR '26", 576),
-    ("MAY '26", 732),
-    ("JUN '26", 888),
-    ("JUL '26", 1044),
+    ("MAR '26", 400),
+    ("APR '26", 560),
+    ("MAY '26", 720),
+    ("JUN '26", 880),
+    ("JUL '26", 1040),
     ("AUG '26", 1200),
-    ("SEP '26", 1356)
+    ("SEP '26", 1360)
 ]
 
 for label, x in month_positions:
     svg += text(
         label,
         x,
-        515,
+        510,
         14,
         "#E875A0",
         "600",
@@ -578,7 +577,7 @@ for label, x in month_positions:
 # ============================================================
 
 legend_x = 90
-legend_y = 640
+legend_y = 650
 
 svg += f"""
 <rect
@@ -642,7 +641,7 @@ stats = [
 
 
 card_x = 670
-card_y = 640
+card_y = 650
 card_width = 165
 card_height = 80
 card_gap = 16
@@ -702,7 +701,7 @@ for i, (icon, value, label) in enumerate(stats):
 svg += text(
     "GitHub activity • automatically updated",
     55,
-    875,
+    890,
     12,
     "#80616F",
     "400"
