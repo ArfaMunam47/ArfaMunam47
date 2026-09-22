@@ -370,12 +370,14 @@ svg = f"""
 # Compact, centered layout: the calendar stays comfortably inside
 # the activity panel and leaves a dedicated area for the month labels.
 origin_x = 420
-origin_y = 125
+origin_y = 115
+cell_x = 42
+cell_y = 11
+cube_height = 15
+month_y = 555
 
 # Smaller cells keep the full 6-month trail compact and leave
 # dedicated breathing room for weekday/month labels.
-cell_x = 39
-cell_y = 9
 
 cube_height = 10
 
