@@ -4971,7 +4971,7 @@
                 1150,463
                 1130.0,453
             "
-            fill="#4A1D34"
+            fill="#742A4C"
             
         />
         
@@ -4984,7 +4984,7 @@
     
     <polygon
         points="1170.0,453 1150,463 1150,475 1170.0,465"
-        fill="#4A1D34"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -5208,7 +5208,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >787</text>
+    >789</text>
     
     <text
         x="725"
