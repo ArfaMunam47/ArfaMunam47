@@ -369,8 +369,8 @@ svg = f"""
 # Position of the 3D calendar.
 # Compact, centered layout: the calendar stays comfortably inside
 # the activity panel and leaves a dedicated area for the month labels.
-origin_x = 420
-origin_y = 115
+origin_x = 350
+origin_y = 100
 cell_x = 42
 cell_y = 11
 month_y = 555
