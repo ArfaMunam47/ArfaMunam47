@@ -5015,7 +5015,7 @@
     />
     
     <text
-        x="88"
+        x="105"
         y="175"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5025,7 +5025,7 @@
     >Mon</text>
     
     <text
-        x="88"
+        x="105"
         y="210"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5035,7 +5035,7 @@
     >Wed</text>
     
     <text
-        x="88"
+        x="105"
         y="245"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5233,7 +5233,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >795</text>
+    >796</text>
     
     <text
         x="638"
