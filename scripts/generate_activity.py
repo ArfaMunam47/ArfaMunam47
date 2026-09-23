@@ -576,14 +576,14 @@ for label, x in month_positions:
 # LEGEND
 # ============================================================
 
-legend_x = 90
+legend_x = 80
 legend_y = 650
 
 svg += f"""
 <rect
     x="{legend_x}"
     y="{legend_y}"
-    width="450"
+    width="500"
     height="82"
     rx="14"
     fill="#0B080E"
@@ -603,7 +603,7 @@ svg += text(
 
 for i, color in enumerate(GRID):
 
-    x = legend_x + 110 + i * 43
+    x = legend_x + 115 + i * 42
 
     svg += f"""
     <rect
@@ -620,7 +620,7 @@ for i, color in enumerate(GRID):
 
 svg += text(
     "MORE",
-    legend_x + 385,
+    legend_x + 420,
     legend_y + 49,
     15,
     "#E875A0",
@@ -640,11 +640,11 @@ stats = [
 ]
 
 
-card_x = 610
+card_x = 575
 card_y = 645
-card_width = 185
+card_width = 205
 card_height = 88
-card_gap = 18
+card_gap = 14
 
 
 for i, (icon, value, label) in enumerate(stats):
