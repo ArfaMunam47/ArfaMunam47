@@ -4989,9 +4989,34 @@
         stroke-width="0.8"
     />
     
+        <polygon
+            points="
+                1150,443
+                1170.0,453
+                1150,463
+                1130.0,453
+            "
+            fill="#4A1D34"
+            
+        />
+        
+    <polygon
+        points="1130.0,453 1150,463 1150,475 1130.0,465"
+        fill="#4A1D34"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
+    <polygon
+        points="1170.0,453 1150,463 1150,475 1170.0,465"
+        fill="#4A1D34"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
     <text
-        x="90"
-        y="165"
+        x="65"
+        y="175"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="500"
@@ -5000,8 +5025,8 @@
     >Mon</text>
     
     <text
-        x="90"
-        y="200"
+        x="65"
+        y="210"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="500"
@@ -5010,8 +5035,8 @@
     >Wed</text>
     
     <text
-        x="90"
-        y="235"
+        x="65"
+        y="245"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="500"
@@ -5090,18 +5115,18 @@
     >SEP &#x27;26</text>
     
 <rect
-    x="90"
+    x="80"
     y="650"
-    width="400"
-    height="80"
+    width="500"
+    height="82"
     rx="14"
     fill="#0B080E"
     stroke="#59213E"
 />
 
     <text
-        x="112"
-        y="697"
+        x="102"
+        y="699"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="700"
@@ -5111,7 +5136,7 @@
     
     <rect
         x="195"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5121,7 +5146,7 @@
     
     <rect
         x="237"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5131,7 +5156,7 @@
     
     <rect
         x="279"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5141,7 +5166,7 @@
     
     <rect
         x="321"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5151,7 +5176,7 @@
     
     <rect
         x="363"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5161,7 +5186,7 @@
     
     <rect
         x="405"
-        y="677"
+        y="678"
         width="25"
         height="25"
         rx="4"
@@ -5170,8 +5195,8 @@
     />
     
     <text
-        x="420"
-        y="697"
+        x="500"
+        y="699"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="700"
@@ -5180,10 +5205,10 @@
     >MORE</text>
     
     <rect
-        x="670"
-        y="650"
-        width="165"
-        height="80"
+        x="575"
+        y="645"
+        width="205"
+        height="88"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5191,40 +5216,40 @@
     />
     
     <text
-        x="688"
-        y="685"
+        x="593"
+        y="683"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="600"
         fill="#F078A7"
         text-anchor="start"
     >⚡</text>
     
     <text
-        x="725"
-        y="684"
+        x="633"
+        y="682"
         font-family="Inter, Arial, sans-serif"
-        font-size="23"
+        font-size="24"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >791</text>
+    >793</text>
     
     <text
-        x="725"
-        y="708"
+        x="633"
+        y="709"
         font-family="Inter, Arial, sans-serif"
-        font-size="12"
+        font-size="13"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Contributions</text>
     
     <rect
-        x="851"
-        y="650"
-        width="165"
-        height="80"
+        x="794"
+        y="645"
+        width="205"
+        height="88"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5232,40 +5257,40 @@
     />
     
     <text
-        x="869"
-        y="685"
+        x="812"
+        y="683"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="600"
         fill="#F078A7"
         text-anchor="start"
     >▣</text>
     
     <text
-        x="906"
-        y="684"
+        x="852"
+        y="682"
         font-family="Inter, Arial, sans-serif"
-        font-size="23"
+        font-size="24"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >35</text>
     
     <text
-        x="906"
-        y="708"
+        x="852"
+        y="709"
         font-family="Inter, Arial, sans-serif"
-        font-size="12"
+        font-size="13"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Public Repos</text>
     
     <rect
-        x="1032"
-        y="650"
-        width="165"
-        height="80"
+        x="1013"
+        y="645"
+        width="205"
+        height="88"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5273,40 +5298,40 @@
     />
     
     <text
-        x="1050"
-        y="685"
+        x="1031"
+        y="683"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="600"
         fill="#F078A7"
         text-anchor="start"
     >◷</text>
     
     <text
-        x="1087"
-        y="684"
+        x="1071"
+        y="682"
         font-family="Inter, Arial, sans-serif"
-        font-size="23"
+        font-size="24"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >10</text>
     
     <text
-        x="1087"
-        y="708"
+        x="1071"
+        y="709"
         font-family="Inter, Arial, sans-serif"
-        font-size="12"
+        font-size="13"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Months</text>
     
     <rect
-        x="1213"
-        y="650"
-        width="165"
-        height="80"
+        x="1232"
+        y="645"
+        width="205"
+        height="88"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5314,30 +5339,30 @@
     />
     
     <text
-        x="1231"
-        y="685"
+        x="1250"
+        y="683"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="600"
         fill="#F078A7"
         text-anchor="start"
     >☆</text>
     
     <text
-        x="1268"
-        y="684"
+        x="1290"
+        y="682"
         font-family="Inter, Arial, sans-serif"
-        font-size="23"
+        font-size="24"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >2</text>
     
     <text
-        x="1268"
-        y="708"
+        x="1290"
+        y="709"
         font-family="Inter, Arial, sans-serif"
-        font-size="12"
+        font-size="13"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
