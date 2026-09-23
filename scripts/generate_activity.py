@@ -516,8 +516,8 @@ for col in range(columns):
 
 svg += text(
     "Mon",
-    90,
-    165,
+    65,
+    175,
     15,
     "#E9C6D6",
     "500"
@@ -525,8 +525,8 @@ svg += text(
 
 svg += text(
     "Wed",
-    90,
-    200,
+    65,
+    210,
     15,
     "#E9C6D6",
     "500"
@@ -534,8 +534,8 @@ svg += text(
 
 svg += text(
     "Fri",
-    90,
-    235,
+    65,
+    245,
     15,
     "#E9C6D6",
     "500"
@@ -583,8 +583,8 @@ svg += f"""
 <rect
     x="{legend_x}"
     y="{legend_y}"
-    width="400"
-    height="80"
+    width="450"
+    height="82"
     rx="14"
     fill="#0B080E"
     stroke="#59213E"
@@ -594,7 +594,7 @@ svg += f"""
 svg += text(
     "LESS",
     legend_x + 22,
-    legend_y + 47,
+    legend_y + 49,
     15,
     "#E875A0",
     "700"
@@ -603,12 +603,12 @@ svg += text(
 
 for i, color in enumerate(GRID):
 
-    x = legend_x + 105 + i * 42
+    x = legend_x + 110 + i * 43
 
     svg += f"""
     <rect
         x="{x}"
-        y="{legend_y + 27}"
+        y="{legend_y + 28}"
         width="25"
         height="25"
         rx="4"
@@ -620,8 +620,8 @@ for i, color in enumerate(GRID):
 
 svg += text(
     "MORE",
-    legend_x + 330,
-    legend_y + 47,
+    legend_x + 385,
+    legend_y + 49,
     15,
     "#E875A0",
     "700"
@@ -640,11 +640,11 @@ stats = [
 ]
 
 
-card_x = 670
-card_y = 650
-card_width = 165
-card_height = 80
-card_gap = 16
+card_x = 610
+card_y = 645
+card_width = 185
+card_height = 88
+card_gap = 18
 
 
 for i, (icon, value, label) in enumerate(stats):
@@ -669,26 +669,26 @@ for i, (icon, value, label) in enumerate(stats):
     svg += text(
         icon,
         x + 18,
-        card_y + 35,
-        24,
+        card_y + 38,
+        25,
         "#F078A7",
         "600"
     )
 
     svg += text(
         value,
-        x + 55,
-        card_y + 34,
-        23,
+        x + 58,
+        card_y + 37,
+        24,
         "#FFFFFF",
         "700"
     )
 
     svg += text(
         label,
-        x + 55,
-        card_y + 58,
-        12,
+        x + 58,
+        card_y + 64,
+        13,
         "#D99AAF",
         "400"
     )
