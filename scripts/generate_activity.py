@@ -516,7 +516,7 @@ for col in range(columns):
 
 svg += text(
     "Mon",
-    65,
+    88,
     175,
     15,
     "#E9C6D6",
@@ -525,7 +525,7 @@ svg += text(
 
 svg += text(
     "Wed",
-    65,
+    88,
     210,
     15,
     "#E9C6D6",
@@ -534,7 +534,7 @@ svg += text(
 
 svg += text(
     "Fri",
-    65,
+    88,
     245,
     15,
     "#E9C6D6",
@@ -640,11 +640,11 @@ stats = [
 ]
 
 
-card_x = 575
+card_x = 580
 card_y = 645
-card_width = 210
+card_width = 205
 card_height = 94
-card_gap = 12
+card_gap = 15
 
 
 for i, (icon, value, label) in enumerate(stats):
