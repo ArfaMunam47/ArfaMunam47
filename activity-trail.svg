@@ -5115,18 +5115,18 @@
     >SEP &#x27;26</text>
     
 <rect
-    x="80"
+    x="55"
     y="650"
-    width="500"
-    height="82"
+    width="475"
+    height="88"
     rx="14"
     fill="#0B080E"
     stroke="#59213E"
 />
 
     <text
-        x="102"
-        y="699"
+        x="75"
+        y="703"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="700"
@@ -5135,68 +5135,68 @@
     >LESS</text>
     
     <rect
-        x="195"
-        y="678"
-        width="25"
-        height="25"
+        x="167"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#21131D"
         stroke="#100A10"
     />
     
     <rect
-        x="237"
-        y="678"
-        width="25"
-        height="25"
+        x="205"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#4A1D34"
         stroke="#100A10"
     />
     
     <rect
-        x="279"
-        y="678"
-        width="25"
-        height="25"
+        x="243"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#742A4C"
         stroke="#100A10"
     />
     
     <rect
-        x="321"
-        y="678"
-        width="25"
-        height="25"
+        x="281"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#A83B68"
         stroke="#100A10"
     />
     
     <rect
-        x="363"
-        y="678"
-        width="25"
-        height="25"
+        x="319"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#D95382"
         stroke="#100A10"
     />
     
     <rect
-        x="405"
-        y="678"
-        width="25"
-        height="25"
+        x="357"
+        y="681"
+        width="24"
+        height="24"
         rx="4"
         fill="#F47EAA"
         stroke="#100A10"
     />
     
     <text
-        x="500"
-        y="699"
+        x="460"
+        y="703"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
         font-weight="700"
@@ -5207,8 +5207,8 @@
     <rect
         x="575"
         y="645"
-        width="205"
-        height="88"
+        width="210"
+        height="94"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5217,7 +5217,7 @@
     
     <text
         x="593"
-        y="683"
+        y="685"
         font-family="Inter, Arial, sans-serif"
         font-size="25"
         font-weight="600"
@@ -5227,29 +5227,29 @@
     
     <text
         x="633"
-        y="682"
+        y="684"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >793</text>
+    >795</text>
     
     <text
         x="633"
-        y="709"
+        y="714"
         font-family="Inter, Arial, sans-serif"
-        font-size="13"
+        font-size="14"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Contributions</text>
     
     <rect
-        x="794"
+        x="797"
         y="645"
-        width="205"
-        height="88"
+        width="210"
+        height="94"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5257,8 +5257,8 @@
     />
     
     <text
-        x="812"
-        y="683"
+        x="815"
+        y="685"
         font-family="Inter, Arial, sans-serif"
         font-size="25"
         font-weight="600"
@@ -5267,30 +5267,30 @@
     >▣</text>
     
     <text
-        x="852"
-        y="682"
+        x="855"
+        y="684"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >35</text>
     
     <text
-        x="852"
-        y="709"
+        x="855"
+        y="714"
         font-family="Inter, Arial, sans-serif"
-        font-size="13"
+        font-size="14"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Public Repos</text>
     
     <rect
-        x="1013"
+        x="1019"
         y="645"
-        width="205"
-        height="88"
+        width="210"
+        height="94"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5298,8 +5298,8 @@
     />
     
     <text
-        x="1031"
-        y="683"
+        x="1037"
+        y="685"
         font-family="Inter, Arial, sans-serif"
         font-size="25"
         font-weight="600"
@@ -5308,30 +5308,30 @@
     >◷</text>
     
     <text
-        x="1071"
-        y="682"
+        x="1077"
+        y="684"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >10</text>
     
     <text
-        x="1071"
-        y="709"
+        x="1077"
+        y="714"
         font-family="Inter, Arial, sans-serif"
-        font-size="13"
+        font-size="14"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
     >Months</text>
     
     <rect
-        x="1232"
+        x="1241"
         y="645"
-        width="205"
-        height="88"
+        width="210"
+        height="94"
         rx="14"
         fill="#0B080E"
         stroke="#A83B68"
@@ -5339,8 +5339,8 @@
     />
     
     <text
-        x="1250"
-        y="683"
+        x="1259"
+        y="685"
         font-family="Inter, Arial, sans-serif"
         font-size="25"
         font-weight="600"
@@ -5349,20 +5349,20 @@
     >☆</text>
     
     <text
-        x="1290"
-        y="682"
+        x="1299"
+        y="684"
         font-family="Inter, Arial, sans-serif"
-        font-size="24"
+        font-size="25"
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
     >2</text>
     
     <text
-        x="1290"
-        y="709"
+        x="1299"
+        y="714"
         font-family="Inter, Arial, sans-serif"
-        font-size="13"
+        font-size="14"
         font-weight="400"
         fill="#D99AAF"
         text-anchor="start"
