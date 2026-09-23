@@ -4996,7 +4996,7 @@
                 1150,463
                 1130.0,453
             "
-            fill="#4A1D34"
+            fill="#742A4C"
             
         />
         
@@ -5009,13 +5009,13 @@
     
     <polygon
         points="1170.0,453 1150,463 1150,475 1170.0,465"
-        fill="#4A1D34"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <text
-        x="105"
+        x="95"
         y="175"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5025,7 +5025,7 @@
     >Mon</text>
     
     <text
-        x="105"
+        x="95"
         y="210"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5035,7 +5035,7 @@
     >Wed</text>
     
     <text
-        x="105"
+        x="95"
         y="245"
         font-family="Inter, Arial, sans-serif"
         font-size="15"
@@ -5233,7 +5233,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >796</text>
+    >797</text>
     
     <text
         x="638"
