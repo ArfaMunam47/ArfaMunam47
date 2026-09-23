@@ -516,7 +516,7 @@ for col in range(columns):
 
 svg += text(
     "Mon",
-    88,
+    105,
     175,
     15,
     "#E9C6D6",
@@ -525,7 +525,7 @@ svg += text(
 
 svg += text(
     "Wed",
-    88,
+    105,
     210,
     15,
     "#E9C6D6",
@@ -534,7 +534,7 @@ svg += text(
 
 svg += text(
     "Fri",
-    88,
+    105,
     245,
     15,
     "#E9C6D6",
