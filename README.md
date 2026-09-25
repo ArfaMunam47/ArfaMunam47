@@ -314,22 +314,30 @@
 
 ## 🎀 THE WAY I BUILD
 
+
 <div align="center">
 
-### **CURIOUS ENOUGH TO EXPLORE.**
-
-### **OBSESSED ENOUGH TO REFINE.**
+### 💭 → ✦ **FROM A THOUGHT TO SOMETHING REAL...** 🚀🎈
 
 <br>
 
-I build at the intersection of **software, AI, and design**
-turning ideas into products that feel **intentional, useful, and alive.**
+💭 A thought becomes a sketch.
+✦ A sketch becomes an interface.
+⚡ An interface becomes a product.
+
+And somewhere between **curiosity and obsession,**
+I keep refining until it **feels right.**
 
 <br>
 
-`EXPLORE`  `CREATE`  `EXPERIMENT`  `REFINE`  `SHIP`
+`◌ IMAGINE`  `✦ EXPLORE`  `◈ CREATE`  `⌁ REFINE`  `🚀 RELEASE`
+
+<br>
+
+<sub>Building ideas into experiences, one detail at a time.</sub>
 
 </div>
+
 
 <br>
 
