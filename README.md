@@ -89,27 +89,84 @@
 
 ---
 
-# AI & Development Tools
 
-<p align="center">
+##  🤖💡 THE DIGITAL EXPERIMENT LAB 
 
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Cursor-4F46E5?style=for-the-badge"/>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge"/>
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
 
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="42"><br><br> <b>CLAUDE</b><br> <sub>AI Assistant</sub>
 
-<img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bolt%20AI-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netlify-087E8B?style=for-the-badge&logo=netlify&logoColor=white"/>
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="42"><br><br> <b>CURSOR</b><br> <sub>AI IDE</sub>
+
+</td>
+
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42"><br><br> <b>GEMINI</b><br> <sub>AI Studio</sub>
+
+</td>
+
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="42"><br><br> <b>GITHUB COPILOT</b><br> <sub>AI Pairing</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://lovable.dev/favicon.ico" width="42"><br><br> <b>LOVABLE</b><br> <sub>Rapid Build</sub>
+
+</td>
+
+ <td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://developer.stackblitz.com/img/logo/stackblitz-bolt-white.svg" width="44"><br><br>
+<b>BOLT</b><br>
+<sub>AI Builder</sub>
+
+</td>
+
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+
+<img src="https://www.netlify.com/assets/badges/netlify-badge-light.svg" width="44"><br><br>
+<b>NETLIFY</b><br>
+<sub>Deployment</sub>
+
+</td>
 
 
+<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
 
-</p>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42"><br><br> <b>SUPABASE</b><br> <sub>Backend</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### ◈ `✦ THINK` · `⚙ BUILD` · `◇ EXPERIMENT` · `⌁ REFINE` · `◆ SHIP` ◈
+
+<sub>Turning questions into ideas, ideas into products, and products into something real.</sub>
+
+</div>
+
+
+</div>
 
 ---
 
@@ -117,7 +174,6 @@
 
 
 <br/>
-
 
 ## 🌱 Currently Exploring
 
