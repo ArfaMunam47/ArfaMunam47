@@ -5039,6 +5039,31 @@
         stroke-width="0.8"
     />
     
+        <polygon
+            points="
+                1150,443
+                1170.0,453
+                1150,463
+                1130.0,453
+            "
+            fill="#4A1D34"
+            
+        />
+        
+    <polygon
+        points="1130.0,453 1150,463 1150,475 1130.0,465"
+        fill="#4A1D34"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
+    <polygon
+        points="1170.0,453 1150,463 1150,475 1170.0,465"
+        fill="#4A1D34"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
     <text
         x="90"
         y="175"
@@ -5258,7 +5283,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >803</text>
+    >805</text>
     
     <text
         x="638"
