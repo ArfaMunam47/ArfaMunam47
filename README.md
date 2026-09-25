@@ -92,32 +92,33 @@
 
 ##  🤖💡 THE DIGITAL EXPERIMENT LAB 
 
+
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="42"><br><br> <b>CLAUDE</b><br> <sub>AI Assistant</sub>
 
 </td>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
-<img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="42"><br><br> <b>CURSOR</b><br> <sub>AI IDE</sub>
+<img src="https://cdn.simpleicons.org/cursor/7C3AED" width="42"><br><br> <b>CURSOR</b><br> <sub>AI IDE</sub>
 
 </td>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42"><br><br> <b>GEMINI</b><br> <sub>AI Studio</sub>
 
 </td>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
-<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="42"><br><br> <b>GITHUB COPILOT</b><br> <sub>AI Pairing</sub>
+<img src="https://cdn.simpleicons.org/githubcopilot/F59E0B" width="42"><br><br> <b>GITHUB COPILOT</b><br> <sub>AI Pairing</sub>
 
 </td>
 
@@ -125,30 +126,25 @@
 
 <tr>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
 <img src="https://lovable.dev/favicon.ico" width="42"><br><br> <b>LOVABLE</b><br> <sub>Rapid Build</sub>
 
 </td>
 
- <td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
-<img src="https://developer.stackblitz.com/img/logo/stackblitz-bolt-white.svg" width="44"><br><br>
-<b>BOLT</b><br>
-<sub>AI Builder</sub>
+<img src="https://cdn.simpleicons.org/stackblitz/0891B2" width="44"><br><br> <b>BOLT</b><br> <sub>AI Builder</sub>
 
 </td>
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
-<img src="https://www.netlify.com/assets/badges/netlify-badge-light.svg" width="44"><br><br>
-<b>NETLIFY</b><br>
-<sub>Deployment</sub>
+<img src="https://www.netlify.com/assets/badges/netlify-badge-light.svg" width="44"><br><br> <b>NETLIFY</b><br> <sub>Deployment</sub>
 
 </td>
 
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:28px 18px 22px;">
+<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
 
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42"><br><br> <b>SUPABASE</b><br> <sub>Backend</sub>
 
@@ -156,6 +152,9 @@
 
 </tr>
 </table>
+
+</div>
+
 
 <br>
 
