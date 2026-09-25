@@ -169,7 +169,6 @@
 </div>
 
 ---
-<hr>
 
 ## 🌱 Currently Exploring
 
