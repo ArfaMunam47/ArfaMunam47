@@ -169,11 +169,7 @@
 </div>
 
 ---
-
-
-
-
-<br/>
+<hr>
 
 ## 🌱 Currently Exploring
 
