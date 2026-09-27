@@ -304,9 +304,10 @@
 
 <td align="center" width="50%">
 
+
 ### 🛋️🎀 PASTEL & FORM
 
-<img src= "https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/{8A907068-66E6-4327-88BF-89870A20E7D9}.png" width="100%" alt="Food Landing Page"/>
+<img src= "https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png" width="100%" alt="Food Landing Page"/>
 
 </td>
 
@@ -314,7 +315,7 @@
 
 ### 💼🎈 Personal Portfolio
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/portfolio.png" width="100%" alt="Portfolio"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png" width="100%" alt="Portfolio"/>
 
 </td>
 
@@ -326,7 +327,7 @@
 
 ### 🚀✍️ StudyPilot-AI 
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/study.png" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/studypilot.png" width="100%" alt="FounderOS"/>
 
 </td>
 
@@ -334,7 +335,7 @@
 
 ### 🛍️💕 Veloura Store
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/velora.png" width="100%" alt="Veloura"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png" width="100%" alt="Veloura"/>
 
 </td>
 
