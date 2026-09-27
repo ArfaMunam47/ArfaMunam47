@@ -313,7 +313,7 @@
 
 <td align="center" width="50%">
 
-### 💼🎈 Personal Portfolio
+### 🍜🎈 Kumo Ramen
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png" width="100%" alt="Portfolio"/>
 
