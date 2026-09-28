@@ -1,7 +1,8 @@
 <!-- ======= HERO SECTION ================== -->
 
 <h1 align="center">
-  Hello, I'm <strong>Arfa Munam | ارفع منعام</strong> 👋
+  
+  Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
 <p align="center">
 <p align="center">
