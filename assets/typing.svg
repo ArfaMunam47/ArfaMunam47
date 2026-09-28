@@ -1,52 +1,69 @@
-<div align="center">
+<svg width="700" height="150" viewBox="0 0 700 150"
+     xmlns="http://www.w3.org/2000/svg">
 
-<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
-
-  <style>
-    .role {
-      font-family: Inter, Arial, sans-serif;
-      font-size: 25px;
-      font-weight: 700;
-      text-anchor: middle;
-    }
-
-    .cursor {
-      animation: blink 0.8s infinite;
-    }
-
-    @keyframes blink {
-      0%, 45% { opacity: 1; }
-      46%, 100% { opacity: 0; }
-    }
-
-    .role1 {
-      fill: #B85C7A;
-    }
-
-    .role2 {
-      fill: #D97757;
-    }
-
-    .role3 {
-      fill: #8E75B2;
-    }
-  </style>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B85C7A"/>
+      <stop offset="50%" stop-color="#D97757"/>
+      <stop offset="100%" stop-color="#8E75B2"/>
+    </linearGradient>
+  </defs>
 
   <!-- Frontend Developer -->
-  <text x="300" y="45" class="role role1">
-    <tspan>Frontend Developer</tspan>
+  <text x="350" y="40"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="700"
+        fill="url(#gradient)"
+        opacity="0">
+    Frontend Developer
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.08;0.30;0.38"
+      dur="8s"
+      begin="0s"
+      repeatCount="indefinite"/>
   </text>
 
   <!-- Prompt Engineer -->
-  <text x="300" y="85" class="role role2">
-    <tspan>Prompt Engineer</tspan>
+  <text x="350" y="80"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="700"
+        fill="url(#gradient)"
+        opacity="0">
+    Prompt Engineer
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.08;0.30;0.38"
+      dur="8s"
+      begin="1.5s"
+      repeatCount="indefinite"/>
   </text>
 
   <!-- AI Enthusiast -->
-  <text x="300" y="125" class="role role3">
-    <tspan>AI Enthusiast</tspan>
+  <text x="350" y="120"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="700"
+        fill="url(#gradient)"
+        opacity="0">
+    AI Enthusiast
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.08;0.30;0.38"
+      dur="8s"
+      begin="3s"
+      repeatCount="indefinite"/>
   </text>
 
 </svg>
-
-</div>
