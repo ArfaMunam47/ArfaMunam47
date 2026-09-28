@@ -25,15 +25,16 @@
       alt="Gmail"
     /></a></p>
 
-<p align="center"><img
-    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=17151A&labelColor=6B3A4A&label=PROFILE+VIEWS"
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=6B3A4A&labelColor=17151A&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
+  &nbsp;
   <img
     src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&labelColor=17151A&color=B85C7A"
     alt="GitHub Followers"
   />
-
 </p>
 <hr/>
 
@@ -83,82 +84,51 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode&perline=8"/>
 
 </p>
 
----
-
-
-##  🤖💡 THE DIGITAL EXPERIMENT LAB 
-
+## 🤖💡 THE DIGITAL EXPERIMENT LAB
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/CLAUDE-AI%20ASSISTANT-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/CURSOR-AI%20IDE-7C3AED?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/GEMINI-AI%20STUDIO-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/COPILOT-AI%20PAIRING-F59E0B?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
+<br><br>
 
-<img src="https://cdn.simpleicons.org/anthropic/D97757" width="42"><br><br> <b>CLAUDE</b><br> <sub>AI Assistant</sub>
+<img src="https://img.shields.io/badge/LOVABLE-RAPID%20BUILD-EA4AAA?style=for-the-badge&logo=lovable&logoColor=white" />
+<img src="https://img.shields.io/badge/BOLT-AI%20BUILDER-0891B2?style=for-the-badge&logo=stackblitz&logoColor=white" />
+<img src="https://img.shields.io/badge/NETLIFY-DEPLOYMENT-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/SUPABASE-BACKEND-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://cdn.simpleicons.org/cursor/7C3AED" width="42"><br><br> <b>CURSOR</b><br> <sub>AI IDE</sub>
-
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42"><br><br> <b>GEMINI</b><br> <sub>AI Studio</sub>
-
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://cdn.simpleicons.org/githubcopilot/F59E0B" width="42"><br><br> <b>GITHUB COPILOT</b><br> <sub>AI Pairing</sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://lovable.dev/favicon.ico" width="42"><br><br> <b>LOVABLE</b><br> <sub>Rapid Build</sub>
-
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://cdn.simpleicons.org/stackblitz/0891B2" width="44"><br><br> <b>BOLT</b><br> <sub>AI Builder</sub>
-
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://www.netlify.com/assets/badges/netlify-badge-light.svg" width="44"><br><br> <b>NETLIFY</b><br> <sub>Deployment</sub>
-
-</td>
-
-<td align="center" width="160" style="border:3px solid #D16B88; padding:34px 22px 28px;">
-
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42"><br><br> <b>SUPABASE</b><br> <sub>Backend</sub>
-
-</td>
-
-</tr>
-</table>
-
+</div>
 
 <br>
 
-### ◈ `✦ THINK` · `⚙ BUILD` · `◇ EXPERIMENT` · `⌁ REFINE` · `◆ SHIP` ◈
+<div align="center">
 
-<sub>Turning questions into ideas, ideas into products, and products into something real.</sub>
+<br>
+
+<img src="https://img.shields.io/badge/01%20THINK-17151A?style=flat-square&labelColor=B85C7A&color=17151A" />
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/02%20BUILD-17151A?style=flat-square&labelColor=D97757&color=17151A" />
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/03%20EXPERIMENT-17151A?style=flat-square&labelColor=8E75B2&color=17151A" />
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/04%20REFINE-17151A?style=flat-square&labelColor=0891B2&color=17151A" />
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/05%20SHIP-17151A?style=flat-square&labelColor=3ECF8E&color=17151A" />
+
+<br><br>
+
+`01` **THINK**　`02` **BUILD**　`03` **EXPERIMENT**　`04` **REFINE**　`05` **SHIP**
+
+<br>
+
+<sub> Curiosity → Creation → Iteration → Something Real 🎀</sub>
 
 </div>
 
