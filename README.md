@@ -22,16 +22,15 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=B85C7A&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge"
     alt="Profile Views"
   />
   &nbsp;&nbsp;
   <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&labelColor=17151A&color=B85C7A"
+    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&labelColor=17151A&color=blue"
     alt="GitHub Followers"
   />
 </p>
-
 <hr/>
 
 ## 👨‍💻 About Me
