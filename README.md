@@ -4,15 +4,6 @@
   
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
-<p align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&random=false&width=520&height=120&color=B85C7A&lines=Front-End+Developer;Prompt+Engineer;AI+Enthusiast"
-  alt="Typing SVG"
-/>
-  </a> 
-</p>   
 <hr>
 
 ## 📬 Get In Touch
@@ -36,7 +27,7 @@
     src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&labelColor=17151A&color=B85C7A"
     alt="GitHub Followers"
   />
-</p>
+</p> 
 <hr/>
 
 ## 👨‍💻 About Me
