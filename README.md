@@ -20,7 +20,7 @@
       alt="Gmail"
     /></a></p>
 
- <p align="center">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=B85C7A&label=PROFILE+VIEWS"
     alt="Profile Views"
@@ -76,6 +76,11 @@
 
 <br/>
 
+
+<p align="center">
+  <strong>Building with curiosity. Learning by creating. Turning ideas into real products.</strong>
+</p>
+
 # Tech Stack
 
 <p align="center">
@@ -83,6 +88,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode&perline=8"/>
 
 </p>
+<hr>
 
 ## 🤖💡 THE DIGITAL EXPERIMENT LAB
 
@@ -130,6 +136,7 @@
 
 
 </div>
+<hr>
 
 ---
 
@@ -162,9 +169,8 @@
 </td>
 
 <td width="38%" align="center" valign="middle">
-
 <img
-  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
+  src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"
   width="270"
   alt="Girl coding"
 />
