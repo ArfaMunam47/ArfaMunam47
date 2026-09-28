@@ -4,6 +4,9 @@
   
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
+<p align="center">
+  <img src="./assets/typing.svg" alt="Frontend Developer, Prompt Engineer, AI Enthusiast">
+</p>
 <hr>
 
 ## 📬 Get In Touch
