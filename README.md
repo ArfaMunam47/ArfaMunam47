@@ -5,8 +5,9 @@
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
 <p align="center">
-  <img src="./assets/typing.svg" alt="Frontend Developer, Prompt Engineer, AI Enthusiast">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=27&duration=3500&pause=1000&color=B85C7A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=125&lines=Frontend+Developer%3BPrompt+Engineer%3BAI+Enthusiast" />
 </p>
+
 <hr>
 
 ## 📬 Get In Touch
