@@ -22,12 +22,12 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=6B3A4A&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
   &nbsp;&nbsp;
   <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&color=blue"
+    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&color=B85C7A"
     alt="GitHub Followers"
   />
 </p>
