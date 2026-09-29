@@ -77,8 +77,9 @@
 
 
 <p align="center">
-  <strong>Building with curiosity. Learning by creating. Turning ideas into real products.</strong>
+  <strong><i>Building with curiosity. Learning by creating. Turning ideas into real products.</i></strong>
 </p>
+<hr>
 
 # Tech Stack
 
