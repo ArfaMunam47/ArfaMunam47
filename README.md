@@ -170,7 +170,7 @@
 
 <td width="38%" align="center" valign="middle">
 <img
-  src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"
+  src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif"
   width="270"
   alt="Girl coding"
 />
