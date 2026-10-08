@@ -27,7 +27,7 @@
   />
   &nbsp;&nbsp;
   <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&label=FOLLOWERS&color=B85C7A"
+    src="https://img.shields.io/github/followers/ArfaMunam47?label=FOLLOWERS&style=for-the-badge&color=B85C7A"
     alt="GitHub Followers"
   />
 </p>
