@@ -21,8 +21,6 @@
     /></a></p>
 
 
-
-
 <p align="center">
  <img
     src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=6B3A4A&label=PROFILE+VIEWS"
