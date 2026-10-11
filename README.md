@@ -20,14 +20,17 @@
       alt="Gmail"
     /></a></p>
 
+
+
+
 <p align="center">
-  <img
+ <img
     src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=6B3A4A&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
   &nbsp;&nbsp;
   <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?label=FOLLOWERS&style=for-the-badge&color=B85C7A"
+    src="https://img.shields.io/github/followers/ArfaMunam47?label=FOLLOWERS&amp;style=for-the-badge&amp;color=B85C7A"
     alt="GitHub Followers"
   />
 </p>
