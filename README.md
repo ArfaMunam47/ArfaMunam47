@@ -4,6 +4,7 @@
   
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&duration=3500&pause=1000&color=B85C7A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=125&lines=Frontend+Developer%3BPrompt+Engineer%3BAI+Enthusiast" />
 </p>
@@ -20,6 +21,7 @@
   </h1>
 <div align="center">
 <h3><code>My // DEVELOPER PROFILE</code></h3>
+  
 <samp>┌─ SESSION: ACTIVE ──────────────── SYSTEM: ONLINE ─┐</samp>
 
 <table>
@@ -58,18 +60,20 @@
       src="https://img.shields.io/badge/Gmail-17151A?style=for-the-badge&logo=gmail&logoColor=E8C8D2&labelColor=17151A&color=D16B88"
       alt="Gmail"
     /></a></p>
-
-
-<p align="center">
- <img
-    src="https://komarev.com/ghpvc/?username=ArfaMunam47&style=for-the-badge&color=6B3A4A&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-  &nbsp;&nbsp;
+  
+ <p align="center">
   <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?label=FOLLOWERS&amp;style=for-the-badge&amp;color=B85C7A"
-    alt="GitHub Followers"
+    src="https://komarev.com/ghpvc/?username=ArfaMunam47&amp;style=for-the-badge&amp;color=6B3A4A&amp;label=PROFILE%20VIEWS"
+    alt="Profile Views"
+    height="36"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&amp;label=FOLLOWERS&amp;color=B85C7A"
+    alt="GitHub Followers"
+    height="36"
+  />
+</p>
 </p>
 <hr/>
 
