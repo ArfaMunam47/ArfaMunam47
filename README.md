@@ -13,13 +13,6 @@
 <!-- ═══════════ TERMINAL PROFILE HEADER ═══════════ -->
 
 <div align="center">
-
-  <br/>
-
-  <h1>
-    <code>ArfaMunam47@github:~$ whoami</code>
-  </h1>
-<div align="center">
 <h3><code>My // DEVELOPER PROFILE</code></h3>
   
 <samp>┌─ SESSION: ACTIVE ──────────────── SYSTEM: ONLINE ─┐</samp>
