@@ -16,14 +16,13 @@
 <h3><code>My // DEVELOPER PROFILE</code></h3>
   
 <samp>┌─ SESSION: ACTIVE ──────────────── SYSTEM: ONLINE ─┐</samp>
-
 <table>
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="45%">
       <p><code>01 / IDENTITY</code></p>
       <img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait"/>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="55%">
       <p><code>02 / SYSTEM INFO</code></p>
       <img src="./info-card.svg" width="100%" alt="Developer information card"/>
     </td>
