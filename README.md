@@ -9,6 +9,34 @@
 </p>
 <hr>
 
+
+
+<div align="center">
+
+<!-- Terminal Profile Header -->
+<h3><code>ArfaMunam47@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./ascii-portrait.svg" width="370" alt="ASCII portrait" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="Info card" />
+    </td>
+  </tr>
+  
+</table>
+<h3><code>ArfaMunam47@github ~ $ contributions</code></h3>
+
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+
+<br>
+
+
+</div>
+
+
 ## 📬 Get In Touch
 
 <p align="center"> <a href="https://www.linkedin.com/in/arfa-munam-a823573a1"> <img
