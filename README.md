@@ -9,27 +9,39 @@
 </p>
 <hr>
 
-
+<!-- ═══════════ TERMINAL PROFILE HEADER ═══════════ -->
 
 <div align="center">
 
-<!-- Terminal Profile Header -->
-<h3><code>ArfaMunam47@github ~ $ whoami</code></h3>
+  <br/>
+
+  <h1>
+    <code>ArfaMunam47@github:~$ whoami</code>
+  </h1>
+<div align="center">
+<h3><code>My // DEVELOPER PROFILE</code></h3>
+<samp>┌─ SESSION: ACTIVE ──────────────── SYSTEM: ONLINE ─┐</samp>
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="./ascii-portrait.svg" width="370" alt="ASCII portrait" />
+    <td align="center" valign="middle" width="50%">
+      <p><code>01 / IDENTITY</code></p>
+      <img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait"/>
     </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="Info card" />
+    <td align="center" valign="middle" width="50%">
+      <p><code>02 / SYSTEM INFO</code></p>
+      <img src="./info-card.svg" width="100%" alt="Developer information card"/>
     </td>
   </tr>
-  
 </table>
-<h3><code>ArfaMunam47@github ~ $ contributions</code></h3>
 
-<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+<samp>└─────────────── END OF TRANSMISSION ───────────────┘</samp>
+
+<br/>
+
+<code>INITIALIZE · CREATE · REPEAT</code>
+
+</div>
 
 <br>
 
@@ -359,6 +371,7 @@
 </p>
 
  <hr/>
+<br/>
 
 
 ## 🎀 THE WAY I BUILD
@@ -395,7 +408,9 @@ I keep refining until it **feels right.**
 <hr/>
 
 
-
+## 📈 Contribution Overview
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+<hr/>
 
 
 
