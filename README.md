@@ -40,7 +40,7 @@
 <br>
 
 </div>
-
+<hr/>
 
 ## 📬 Get In Touch
 
@@ -54,22 +54,6 @@
     /></a></p>
 
   
-
-
- <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ArfaMunam47&amp;style=for-the-badge&amp;color=6B3A4A&amp;label=PROFILE%20VIEWS"
-    alt="Profile Views"
-    height="36"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://img.shields.io/github/followers/ArfaMunam47?style=for-the-badge&amp;label=FOLLOWERS&amp;color=B85C7A"
-    alt="GitHub Followers"
-    height="36"
-  />
-</p>
-</p>
 <hr/>
 
 ## 👨‍💻 About Me
