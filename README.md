@@ -44,14 +44,20 @@
 
 ## 📬 Get In Touch
 
-<p align="center"> <a href="https://www.linkedin.com/in/arfa-munam-a823573a1"> <img
-      src="https://img.shields.io/badge/LinkedIn-17151A?style=for-the-badge&logo=linkedin&logoColor=E8C8D2&labelColor=17151A&color=B85C7A"
-      alt="LinkedIn"
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arfa-munam-a823573a1">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-E8C8D2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B85C7A"
+      alt="Connect with me on LinkedIn"
     /></a>
-  <a href="mailto:arfamunam01@gmail.com"><img
-      src="https://img.shields.io/badge/Gmail-17151A?style=for-the-badge&logo=gmail&logoColor=E8C8D2&labelColor=17151A&color=D16B88"
-      alt="Gmail"
-    /></a></p>
+  &nbsp;&nbsp; <a href="mailto:arfamunam01@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Send%20me%20an%20email-D16B88?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=6B3A4A"
+      alt="Send me an email"
+    />
+  </a>
+</p>
 
   
 <hr/>
