@@ -5614,6 +5614,31 @@
         stroke-width="0.8"
     />
     
+        <polygon
+            points="
+                1150,395
+                1170.0,405
+                1150,415
+                1130.0,405
+            "
+            fill="#F47EAA"
+            filter="url(#pinkGlow)"
+        />
+        
+    <polygon
+        points="1130.0,405 1150,415 1150,475 1130.0,465"
+        fill="#D95382"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
+    <polygon
+        points="1170.0,405 1150,415 1150,475 1170.0,465"
+        fill="#F47EAA"
+        stroke="#130B12"
+        stroke-width="0.8"
+    />
+    
     <text
         x="90"
         y="175"
@@ -5833,7 +5858,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >947</text>
+    >976</text>
     
     <text
         x="638"
