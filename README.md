@@ -326,9 +326,9 @@
 
 <td align="center" width="50%">
 
-### 🚀✍️ StudyPilot-AI 
+###  🎈🎀Wow Fun
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/studypilot.png" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png" width="100%" alt="FounderOS"/>
 
 </td>
 
