@@ -188,25 +188,17 @@
 
 <table align="center" width="90%">
 <tr>
-
 <td width="62%" valign="middle">
-
 <p>
 ⚙️ <strong>Backend Engineering</strong><br/>
 <sub>Building reliable APIs and server side systems.</sub>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
-</div>
+<hr/>
 <p>
 ✨ <strong>Vibe Coding</strong><br/>
 <sub>Turning ideas into polished products with AI powered workflows.</sub>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
-</div>
+<hr/>
 
 <p>
 🤖 <strong>AI Automation</strong><br/>
@@ -217,8 +209,8 @@
 
 <td width="38%" align="center" valign="middle">
 <img
-  src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif"
-  width="270"
+  src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
+  width="250"
   alt="Girl coding"
 />
 
