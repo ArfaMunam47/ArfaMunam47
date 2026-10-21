@@ -349,7 +349,7 @@
 
 <h3>🎈 Wow Fun</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" alt="Wow Fun project preview"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="240" alt="Wow Fun project preview"/>
 
 <sub>✧ Playful visuals · Bold ideas</sub><br/><br/>
 
