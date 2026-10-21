@@ -182,7 +182,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
----
 
 ## 🌱 Currently Exploring
 
@@ -220,7 +219,9 @@
 </table>
 
 <br/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
 <!-- ==================== 🔥 GITHUB STREAK ==================== -->
