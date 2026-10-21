@@ -10,30 +10,38 @@
 </p>
 <hr>
 
-<!-- ═══════════ TERMINAL PROFILE HEADER ═══════════ -->
+ <div align="center">
 
-<div align="center">
-<h3><code>My // DEVELOPER PROFILE</code></h3>
-  
-<samp>┌─ SESSION: ACTIVE ──────────────── SYSTEM: ONLINE ─┐</samp>
+<h1>⚡ MY // DEVELOPER PROFILE</h1>
+
+<samp>┌─ SESSION: ACTIVE ───────────────────── SYSTEM: ONLINE ─┐</samp>
+
+</div>
+
 <table>
-  <tr>
-    <td align="center" valign="middle" width="45%">
-      <p><code>01 / IDENTITY</code></p>
-      <img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait"/>
-    </td>
-    <td align="center" valign="middle" width="55%">
-      <p><code>02 / SYSTEM INFO</code></p>
-      <img src="./info-card.svg" width="100%" alt="Developer information card"/>
-    </td>
-  </tr>
+<tr>
+<td width="48%" align="center" valign="top">
+
+<h3>01 / IDENTITY</h3>
+
+<img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait"/>
+
+<p><samp>BUILD · CODE · CREATE · IMPACT</samp></p>
+
+</td>
+<td width="52%" valign="top">
+
+<h3>02 / SYSTEM INFO</h3>
+
+<img src="./info-card.svg" width="100%" alt="Developer information card"/>
+
+</td>
+</tr>
 </table>
 
-<samp>└─────────────── END OF TRANSMISSION ───────────────┘</samp>
+<div align="center">
 
-<br/>
-
-<code>INITIALIZE · CREATE · REPEAT</code>
+<samp>_ Thanks for visiting my profile! &nbsp; // &nbsp; Small Steps → Big Dreams _</samp>
 
 </div>
 
