@@ -203,13 +203,13 @@
 🤖 <strong>AI Automation</strong><br/>
 <sub>Connecting AI, APIs, and intelligent workflows to build smarter applications.</sub>
 </p>
-
+<br>
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 <img
-  src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
-  width="250"
+  src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
+  width="250" height="200"
   alt="Girl coding"
 />
 
@@ -320,46 +320,38 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-
-<td align="center" width="50%">
-
+<td width="50%" align="center" valign="top">
 
 ### 🛋️🎀 PASTEL & FORM
 
-<img src= "https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png" width="100%" alt="Food Landing Page"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="100%" height="220" alt="Pastel & Form"/>
 
 </td>
-
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🍜🎈 Kumo Ramen
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png" width="100%" alt="Portfolio"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="100%" height="220" alt="Kumo Ramen"/>
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td align="center" width="50%">
+### 🎈🎀 Wow Fun
 
-###  🎈🎀Wow Fun
-
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png" width="100%" alt="FounderOS"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="220" alt="Wow Fun"/>
 
 </td>
-
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🛍️💕 Veloura Store
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png" width="100%" alt="Veloura"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="100%" height="220" alt="Veloura Store"/>
 
 </td>
-
 </tr>
 </table>
 
