@@ -8,7 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&duration=3500&pause=1000&color=B85C7A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=125&lines=Frontend+Developer%3BPrompt+Engineer%3BAI+Enthusiast" />
 </p>
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
  <div align="center">
 
@@ -44,7 +46,9 @@
 <samp>_ Thanks for visiting my profile! &nbsp; // &nbsp; Small Steps → Big Dreams _</samp>
 </div>
 </div>
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## 📬 Get In Touch
 
@@ -64,7 +68,9 @@
 </p>
 
   
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## 👨‍💻 About Me
 
@@ -112,7 +118,9 @@
 <p align="center">
   <strong><i>Building with curiosity. Learning by creating. Turning ideas into real products.</i></strong>
 </p>
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 # Tech Stack
 
@@ -121,7 +129,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode&perline=8"/>
 
 </p>
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## 🤖💡 THE DIGITAL EXPERIMENT LAB
 
@@ -169,8 +179,9 @@
 
 
 </div>
-<hr>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 ---
 
 ## 🌱 Currently Exploring
@@ -185,14 +196,17 @@
 <sub>Building reliable APIs and server side systems.</sub>
 </p>
 
-<hr/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 <p>
 ✨ <strong>Vibe Coding</strong><br/>
 <sub>Turning ideas into polished products with AI powered workflows.</sub>
 </p>
 
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 <p>
 🤖 <strong>AI Automation</strong><br/>
@@ -239,8 +253,9 @@
 
 </div>
 
-<hr/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## ⌘ GitHub Journey
 
@@ -252,7 +267,9 @@
   />
 </p>
 
-<hr />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
  ## ⚡ GitHub Statistics
 
@@ -269,7 +286,9 @@
     alt="Productive Time"
   />
 </p>
-<hr/> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
  ## 💻 Languages
 
@@ -286,7 +305,9 @@
     alt="Languages by Commits"
   />
 </p>
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
  ## ✨ Contribution Activity
@@ -299,7 +320,9 @@
   />
 </p>
 
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
 ## 🚀 Featured Projects
@@ -347,14 +370,18 @@
 </tr>
 </table>
 
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## 👌🎀 THE ACTIVITY TRAIL
 
 <div align="center">
 <img src="./activity-trail.svg" width="82%" alt="Activity Trail" />
 </div>
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
@@ -363,7 +390,9 @@
 
 </p>
 
- <hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 <br/>
 
 
@@ -398,12 +427,16 @@ I keep refining until it **feels right.**
 
 > **“Leave no good idea unfinished.”**
 
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
 ## 📈 Contribution Overview
 <img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
 
@@ -414,7 +447,9 @@ Feel free to explore my repositories, share feedback, or connect with me on my j
   src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=D16B88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!"
   alt="Thanks for visiting"
 />
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
 
 
 <div align="center">
@@ -432,6 +467,9 @@ Feel free to explore my repositories, share feedback, or connect with me on my j
 
 <sub>Thanks for stopping by my little corner of the internet. 💗</sub>
 
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=4&section=header" width="100%" alt="pink divider"/>
 </div>
 
 
