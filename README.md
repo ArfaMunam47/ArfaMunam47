@@ -329,7 +329,7 @@
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="420" height="236" alt="Pastel & Form project preview"/>
 
-<sub>✧ Soft aesthetics · Modern design</sub><br/>
+<sub>✧ Soft aesthetics · Modern design</sub><br/><br/>
 
 </td>
 
@@ -339,7 +339,7 @@
 
 <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="420" height="236" alt="Kumo Ramen project preview"/>
 
-<sub>✧ Food · Creative web experience</sub><br/>
+<sub>✧ Food · Creative web experience</sub><br/><br/>
 
 </td>
 
@@ -349,18 +349,18 @@
 
 <h3>🎈 Wow Fun</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="420" height="236" alt="Wow Fun project preview"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" alt="Wow Fun project preview"/>
 
-<sub>✧ Playful visuals · Bold ideas</sub><br/>
+<sub>✧ Playful visuals · Bold ideas</sub><br/><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <h3>💕 Veloura Store</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="420" height="236" alt="Veloura Store project preview"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="100%" height="240" alt="Veloura Store project preview"/>
 
-<sub>✧ E-commerce · Elegant style</sub><br/>
+<sub>✧ E-commerce · Elegant style</sub><br/><br/>
 
 </td>
 </tr>
