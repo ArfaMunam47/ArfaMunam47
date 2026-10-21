@@ -42,11 +42,7 @@
 <div align="center">
 
 <samp>_ Thanks for visiting my profile! &nbsp; // &nbsp; Small Steps → Big Dreams _</samp>
-
 </div>
-
-<br>
-
 </div>
 <hr/>
 
