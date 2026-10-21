@@ -318,42 +318,55 @@
 </div>
 
 
-## 🚀 Featured Projects
+## 👀🩷 Featured Projects
+<p align="center"><i>A little collection of things I've designed and built ♡</i></p>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🛋️🎀 PASTEL & FORM
+<h3>🎀 PASTEL & FORM</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="100%" height="220" alt="Pastel & Form"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="420" height="236" alt="Pastel & Form project preview"/>
+
+<sub>✧ Soft aesthetics · Modern design</sub><br/>
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-### 🍜🎈 Kumo Ramen
+<h3>🍜 Kumo Ramen</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="100%" height="220" alt="Kumo Ramen"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="420" height="236" alt="Kumo Ramen project preview"/>
+
+<sub>✧ Food · Creative web experience</sub><br/>
 
 </td>
+
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🎈🎀 Wow Fun
+<h3>🎈 Wow Fun</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="220" alt="Wow Fun"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="420" height="236" alt="Wow Fun project preview"/>
+
+<sub>✧ Playful visuals · Bold ideas</sub><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🛍️💕 Veloura Store
+<h3>💕 Veloura Store</h3>
 
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="100%" height="220" alt="Veloura Store"/>
+<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="420" height="236" alt="Veloura Store project preview"/>
+
+<sub>✧ E-commerce · Elegant style</sub><br/>
 
 </td>
 </tr>
 </table>
+
+<p align="center"><i>୨୧ Designed with creativity, built with curiosity, and always evolving. ♡</i></p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
