@@ -1,0 +1,123 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="490" height="385" viewBox="0 0 490 385"
+     role="img" aria-label="Developer profile dashboard"
+     font-family="Consolas, Menlo, Monaco, monospace">
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0c1723"/>
+    <stop offset="100%" stop-color="#0d0b0e"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#f28ab7"/>
+    <stop offset="100%" stop-color="#e9a0c4"/>
+  </linearGradient>
+</defs>
+
+<rect width="490" height="385" rx="13"
+      fill="url(#background)" stroke="#e9a0c4" stroke-opacity=".65"/>
+<rect x="1" y="1" width="488" height="4" rx="2" fill="url(#glow)"/>
+
+<!-- Terminal title bar -->
+<circle cx="17" cy="21" r="4" fill="#ff6b6b"/>
+<circle cx="30" cy="21" r="4" fill="#ffd166"/>
+<circle cx="43" cy="21" r="4" fill="#f28ab7"/>
+<text x="58" y="25" font-size="11" font-weight="bold" fill="#f4dce8">PROFILE.SYS</text>
+<text x="474" y="25" font-size="9" font-weight="bold" fill="#f28ab7">ONLINE</text>
+<line x1="12" y1="38" x2="478" y2="38" stroke="#75405f"/>
+
+<!-- Identity panel -->
+
+    <rect x="12" y="48" width="466" height="79"
+          rx="9" fill="#120e12" stroke="#75405f" stroke-width="1.2"/>
+    <path d="M22 48 H117 L127 48"
+          fill="none" stroke="#e9a0c4" stroke-width="2"/>
+    <circle cx="29" cy="70" r="3" fill="#f28ab7"/>
+    <text x="40" y="74" font-size="10" font-weight="bold" fill="#f28ab7">01</text>
+    <text x="65" y="74" font-size="11" font-weight="bold" fill="#e9a0c4">DEVELOPER IDENTITY</text>
+    <line x1="24" y1="85" x2="466" y2="85"
+          stroke="#382331"/>
+    
+<text x="25" y="105" font-size="20" font-weight="bold" fill="#f4dce8">ArfaMunam47</text>
+<text x="26" y="119" font-size="9" font-weight="bold" fill="#f28ab7">DEVELOPER  /  ALWAYS BUILDING</text>
+
+<!-- Two compact panels -->
+
+    <rect x="12" y="137" width="226" height="112"
+          rx="9" fill="#120e12" stroke="#75405f" stroke-width="1.2"/>
+    <path d="M22 137 H117 L127 137"
+          fill="none" stroke="#e9a0c4" stroke-width="2"/>
+    <circle cx="29" cy="159" r="3" fill="#f28ab7"/>
+    <text x="40" y="163" font-size="10" font-weight="bold" fill="#f28ab7">02</text>
+    <text x="65" y="163" font-size="11" font-weight="bold" fill="#e9a0c4">TECH STACK</text>
+    <line x1="24" y1="174" x2="226" y2="174"
+          stroke="#382331"/>
+    
+
+    <rect x="248" y="137" width="230" height="112"
+          rx="9" fill="#120e12" stroke="#75405f" stroke-width="1.2"/>
+    <path d="M258 137 H353 L363 137"
+          fill="none" stroke="#e9a0c4" stroke-width="2"/>
+    <circle cx="265" cy="159" r="3" fill="#f28ab7"/>
+    <text x="276" y="163" font-size="10" font-weight="bold" fill="#f28ab7">03</text>
+    <text x="301" y="163" font-size="11" font-weight="bold" fill="#e9a0c4">CURRENT FOCUS</text>
+    <line x1="260" y1="174" x2="466" y2="174"
+          stroke="#382331"/>
+    
+
+
+    <rect x="25" y="167" width="68" height="22"
+          rx="5" fill="#0c2330" stroke="#75405f"/>
+    <text x="59.0" text-anchor="middle" y="181" font-size="8" font-weight="bold" fill="#e9a0c4">PYTHON</text>
+    
+
+    <rect x="100" y="167" width="94" height="22"
+          rx="5" fill="#0c2330" stroke="#75405f"/>
+    <text x="147.0" text-anchor="middle" y="181" font-size="8" font-weight="bold" fill="#e9a0c4">JAVASCRIPT</text>
+    
+
+    <rect x="25" y="193" width="62" height="22"
+          rx="5" fill="#0c2330" stroke="#75405f"/>
+    <text x="56.0" text-anchor="middle" y="207" font-size="8" font-weight="bold" fill="#e9a0c4">REACT</text>
+    
+
+    <rect x="94" y="193" width="42" height="22"
+          rx="5" fill="#0c2330" stroke="#75405f"/>
+    <text x="115.0" text-anchor="middle" y="207" font-size="8" font-weight="bold" fill="#e9a0c4">GIT</text>
+    
+
+    <rect x="143" y="193" width="80" height="22"
+          rx="5" fill="#0c2330" stroke="#75405f"/>
+    <text x="183.0" text-anchor="middle" y="207" font-size="8" font-weight="bold" fill="#e9a0c4">HTML / CSS</text>
+    
+
+    <circle cx="264" cy="174" r="3" fill="#f28ab7"/>
+    <text x="274" y="177" font-size="9" font-weight="normal" fill="#f4dce8">Learning new technologies</text>
+    
+
+    <circle cx="264" cy="196" r="3" fill="#f28ab7"/>
+    <text x="274" y="199" font-size="9" font-weight="normal" fill="#f4dce8">Building useful projects</text>
+    
+
+    <circle cx="264" cy="218" r="3" fill="#f28ab7"/>
+    <text x="274" y="221" font-size="9" font-weight="normal" fill="#f4dce8">Improving every day</text>
+    
+
+    <rect x="12" y="259" width="466" height="83"
+          rx="9" fill="#120e12" stroke="#75405f" stroke-width="1.2"/>
+    <path d="M22 259 H117 L127 259"
+          fill="none" stroke="#e9a0c4" stroke-width="2"/>
+    <circle cx="29" cy="281" r="3" fill="#f28ab7"/>
+    <text x="40" y="285" font-size="10" font-weight="bold" fill="#f28ab7">04</text>
+    <text x="65" y="285" font-size="11" font-weight="bold" fill="#e9a0c4">BUILD / CREATE / IMPROVE</text>
+    <line x1="24" y1="296" x2="466" y2="296"
+          stroke="#382331"/>
+    
+<text x="26" y="315" font-size="9" font-weight="bold" fill="#f28ab7">01</text><text x="54" y="315" font-size="10" font-weight="normal" fill="#f4dce8">Open-source &amp; continuous learning</text>
+<text x="26" y="333" font-size="9" font-weight="bold" fill="#f28ab7">02</text><text x="54" y="333" font-size="10" font-weight="normal" fill="#f4dce8">Modern web apps and automation</text>
+
+<line x1="12" y1="353" x2="478" y2="353" stroke="#75405f"/>
+<circle cx="19" cy="369" r="3" fill="#f28ab7"/>
+<text x="29" y="373" font-size="9" font-weight="normal" fill="#c2a8b7">STATUS: CURIOUS  |  MODE: BUILDING</text>
+<text x="474" text-anchor="end" y="373" font-size="9" font-weight="normal" fill="#e9a0c4">v1.0</text>
+</svg>
