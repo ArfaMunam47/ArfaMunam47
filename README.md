@@ -418,4 +418,24 @@ Feel free to explore my repositories, share feedback, or connect with me on my j
   src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=D16B88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!"
   alt="Thanks for visiting"
 />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:241B3A,100:FF8FAB&section=footer&animation=twinkling" width="100%"/>
+<hr/>
+
+
+<div align="center">
+
+### 💗 `echo "Until next time..."`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=F28AB7&center=true&vCenter=true&width=550&height=45&lines=%24+git+commit+-m+%22keep+growing%22;%24+sudo+make+it+awesome;%24+while+%28curious%29+%7B+keep_learning%28%29%3B+%7D" alt="Pink terminal commands" />
+
+<p><i>♡ Made with a little pink magic and lots of curiosity.</i></p>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20GROWING-f28ab7?style=flat-square&labelColor=120e12" alt="Always growing" />
+<img src="https://img.shields.io/badge/BUILDING-DREAMS%20INTO%20CODE-d8a0c8?style=flat-square&labelColor=120e12" alt="Building dreams into code" />
+
+<p><b>୨୧ ── Stay soft. Think boldly. Build beautifully. ── ୨୧</b></p>
+
+<sub>Thanks for stopping by my little corner of the internet. 💗</sub>
+
+</div>
+
+
