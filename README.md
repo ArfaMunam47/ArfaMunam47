@@ -208,8 +208,8 @@
 
 <td width="40%" align="center" valign="middle">
 <img
-  src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
-  width="250" height="200"
+  src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif"
+  width="250"
   alt="Girl coding"
 />
 
@@ -319,51 +319,42 @@
 
 
 ## 👀🩷 Featured Projects
+
 <p align="center"><i>A little collection of things I've designed and built ♡</i></p>
 
 <table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🎀 PASTEL & FORM</h3>
-
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="420" height="236" alt="Pastel & Form project preview"/>
-
-<sub>✧ Soft aesthetics · Modern design</sub><br/><br/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🍜 Kumo Ramen</h3>
-
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="420" height="236" alt="Kumo Ramen project preview"/>
-
-<sub>✧ Food · Creative web experience</sub><br/><br/>
-
-</td>
-
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>🎈 Wow Fun</h3>
-
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="240" alt="Wow Fun project preview"/>
-
-<sub>✧ Playful visuals · Bold ideas</sub><br/><br/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>💕 Veloura Store</h3>
-
-<img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="100%" height="240" alt="Veloura Store project preview"/>
-
-<sub>✧ E-commerce · Elegant style</sub><br/><br/>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎀 PASTEL &amp; FORM</h3>
+      <a href="YOUR_PASTEL_FORM_PROJECT_LINK">
+        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/pastel.png?raw=true" width="100%" height="240" alt="Pastel & Form project preview"/>
+      </a>
+      <p><sub>✧ Soft aesthetics · Modern design</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🍜 Kumo Ramen</h3>
+      <a href="YOUR_KUMO_RAMEN_PROJECT_LINK">
+        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/kumo.png?raw=true" width="100%" height="240" alt="Kumo Ramen project preview"/>
+      </a>
+      <p><sub>✧ Food · Creative web experience</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎈 Wow Fun</h3>
+      <a href="YOUR_WOW_FUN_PROJECT_LINK">
+        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="240" alt="Wow Fun project preview"/>
+      </a>
+      <p><sub>✧ Playful visuals · Bold ideas</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>💕 Veloura Store</h3>
+      <a href="YOUR VELOURA_STORE_PROJECT_LINK">
+        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/veloraa.png?raw=true" width="100%" height="240" alt="Veloura Store project preview"/>
+      </a>
+      <p><sub>✧ E-commerce · Elegant style</sub></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><i>୨୧ Designed with creativity, built with curiosity, and always evolving. ♡</i></p>
