@@ -341,9 +341,9 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🎈 Wow Fun</h3>
+      <h3>💭 Icapital</h3>
       <a href="YOUR_WOW_FUN_PROJECT_LINK">
-        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/wow.png?raw=true" width="100%" height="240" alt="Wow Fun project preview"/>
+        <img src="https://github.com/ArfaMunam47/ArfaMunam47/blob/main/images/icapital.png?raw=true" width="100%" height="240" alt="Wow Fun project preview"/>
       </a>
       <p><sub>✧ Playful visuals · Bold ideas</sub></p>
     </td>
