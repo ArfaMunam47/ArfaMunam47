@@ -73,7 +73,6 @@
 </div>
 
 
-
 <!-- ═════════════════════ ABOUT ME ═════════════════════ -->
 
 <div align="center">
@@ -84,42 +83,120 @@
 
 <p>
   <code>FRONTEND DEVELOPER</code>
-  &nbsp; <code>PROMPT ENGINEER</code>
-  &nbsp; <code>AI ENTHUSIAST</code>
+  <code>PROMPT ENGINEER</code>
+  <code>AI ENTHUSIAST</code>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B3A4A&height=3" width="100%"/>
 
 </div>
 
-<h3>01 / THE PERSON BEHIND THE CODE</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-I'm a Computer Science student passionate about turning ideas into meaningful digital experiences.
+<h3>01. &nbsp; THE PERSON</h3>
 
-I enjoy exploring the creative side of development — from crafting thoughtful interfaces and experimenting with motion to discovering how AI can make the building process more powerful.
+I'm a Computer Science student who loves turning ideas into digital experiences.
 
-For me, coding is more than writing instructions. It's about curiosity, problem-solving, experimentation, and having the patience to turn an idea into something real.
+I enjoy the intersection of **technology, creativity, and problem-solving** — building interfaces, experimenting with new tools, and finding better ways to bring ideas to life.
 
-<h3>02 / WHAT I LOVE EXPLORING</h3>
+<br/>
 
-| FIELD | MY INTEREST |
-|:---|:---|
-| 🎨 **Frontend Development** | Creative interfaces, modern UI & interaction design |
-| ⚛️ **React & Web** | Component-based development & reusable experiences |
-| 🤖 **Artificial Intelligence** | Prompt engineering & AI automation |
-| 🧪 **Vibe Coding** | Experimenting with ideas and building creative projects |
-| 🐍 **Python** | Learning programming and exploring automation |
+<img src="https://img.shields.io/badge/MINDSET-CURIOUS-6B3A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APPROACH-BUILD%20%26%20LEARN-B85C7A?style=for-the-badge"/>
 
-<h3>03 / A LITTLE ABOUT MYSELF</h3>
+<br/><br/>
 
-- 🎓 Pursuing **BS Computer Science** at the University of the Punjab.
-- ⌨️ Fast typist with a speed of **80+ WPM**.
-- 🧠 A curious learner who enjoys exploring new tools and technologies.
-- 📚 Interested in books, people, stories, and different perspectives.
-- 🛠️ I learn best by building, experimenting, and improving through practice.
+<blockquote>
+  <i>"Learn something. Build something. Make it better."</i>
+</blockquote>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. &nbsp; MY CREATIVE WORLD</h3>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<br/>
+<b>🎨 FRONTEND</b>
+<br/>
+<sub>Creative UI & interaction design</sub>
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<b>⚛️ REACT</b>
+<br/>
+<sub>Components & modern web development</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<b>🤖 AI</b>
+<br/>
+<sub>Prompt engineering & automation</sub>
+<br/><br/>
+</td>
+<td align="center">
+<br/>
+<b>🧪 VIBE CODING</b>
+<br/>
+<sub>Ideas, experiments & building</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<br/>
+<b>🐍 PYTHON</b>
+<br/>
+<sub>Programming & automation exploration</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B85C7A&height=2" width="100%"/>
 
 
 
+<!-- ═══════════════ BEYOND THE SCREEN ═══════════════ -->
+
+<h3 align="center">03. &nbsp; BEYOND THE SCREEN</h3>
+
+<p align="center">
+  <sub>A LITTLE MORE ABOUT THE PERSON BEHIND THE CODE</sub>
+</p>
+
+<div align="center">
+
+<code>🎓 BS COMPUTER SCIENCE</code>
+&nbsp; <b>·</b> &nbsp;
+<code>⌨️ 80+ WPM</code>
+&nbsp; <b>·</b> &nbsp;
+<code>📚 BOOKS & STORIES</code>
+&nbsp; <b>·</b> &nbsp;
+<code>🛠️ BUILD & IMPROVE</code>
+<br/>
+<sub>UNIVERSITY OF THE PUNJAB 🎀 &nbsp; | &nbsp; FAST TYPIST ✍️ &nbsp; | &nbsp; ALWAYS LEARNING 💕</sub>
+
+</div>
+
+<!-- ═════════════════════════════════════════════════ -->
+
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/01%20%E2%80%A2%20ALWAYS_LEARNING-6B3A4A?style=for-the-badge&labelColor=17151A"/></a>
+  &nbsp;<a href="#"><img src="https://img.shields.io/badge/02%20%E2%80%A2%20ALWAYS_CREATING-D16B88?style=for-the-badge&labelColor=6B3A4A"/></a>
+<br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
