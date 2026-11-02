@@ -2290,20 +2290,20 @@
                 670,271
                 650.0,261
             "
-            fill="#A83B68"
+            fill="#742A4C"
             
         />
         
     <polygon
         points="650.0,261 670,271 670,295 650.0,285"
-        fill="#742A4C"
+        fill="#4A1D34"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <polygon
         points="690.0,261 670,271 670,295 690.0,285"
-        fill="#A83B68"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -3090,20 +3090,20 @@
                 950,281
                 930.0,271
             "
-            fill="#A83B68"
+            fill="#742A4C"
             
         />
         
     <polygon
         points="930.0,271 950,281 950,305 930.0,295"
-        fill="#742A4C"
+        fill="#4A1D34"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <polygon
         points="970.0,271 950,281 950,305 970.0,295"
-        fill="#A83B68"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -3410,20 +3410,20 @@
                 870,321
                 850.0,311
             "
-            fill="#A83B68"
+            fill="#742A4C"
             
         />
         
     <polygon
         points="850.0,311 870,321 870,345 850.0,335"
-        fill="#742A4C"
+        fill="#4A1D34"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <polygon
         points="890.0,311 870,321 870,345 890.0,335"
-        fill="#A83B68"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -5325,25 +5325,25 @@
     
         <polygon
             points="
-                1350,325
-                1370.0,335
-                1350,345
-                1330.0,335
+                1350,337
+                1370.0,347
+                1350,357
+                1330.0,347
             "
-            fill="#F47EAA"
+            fill="#D95382"
             filter="url(#pinkGlow)"
         />
         
     <polygon
-        points="1330.0,335 1350,345 1350,405 1330.0,395"
-        fill="#D95382"
+        points="1330.0,347 1350,357 1350,405 1330.0,395"
+        fill="#A83B68"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <polygon
-        points="1370.0,335 1350,345 1350,405 1370.0,395"
-        fill="#F47EAA"
+        points="1370.0,347 1350,357 1350,405 1370.0,395"
+        fill="#D95382"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -5682,20 +5682,20 @@
                 1230,431
                 1210.0,421
             "
-            fill="#A83B68"
+            fill="#742A4C"
             
         />
         
     <polygon
         points="1210.0,421 1230,431 1230,455 1210.0,445"
-        fill="#742A4C"
+        fill="#4A1D34"
         stroke="#130B12"
         stroke-width="0.8"
     />
     
     <polygon
         points="1250.0,421 1230,431 1230,455 1250.0,445"
-        fill="#A83B68"
+        fill="#742A4C"
         stroke="#130B12"
         stroke-width="0.8"
     />
@@ -5983,7 +5983,7 @@
         font-weight="700"
         fill="#FFFFFF"
         text-anchor="start"
-    >1227</text>
+    >1228</text>
     
     <text
         x="638"
