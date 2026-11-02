@@ -223,6 +223,27 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
 
+<!-- ========== LIVING COMPANION ========== -->
+
+<div align="center">
+
+## ୨୧ A LITTLE LIFE IN MY WORKSPACE
+<div align="center">
+  <img
+    src="./assets/little-dragon.gif"
+    width="220"
+    alt="My little floating dragon"
+  />
+</div>
+
+<sub>A tiny companion living in my developer corner ♡</sub>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
+
 
 <!-- ==================== 🔥 GITHUB STREAK ==================== -->
 
