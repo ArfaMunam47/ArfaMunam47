@@ -72,52 +72,54 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
 
-## 👨‍💻 About Me
-
-<table align="center">
-  <tr>
-    <td align="center">🎓</td>
-    <td><strong>Education</strong></td>
-    <td>BS Computer Science Student</td>
-  </tr>
-
-  <tr>
-    <td align="center">💼</td>
-    <td><strong>Specialization</strong></td>
-    <td>Frontend Development & Modern UI Engineering</td>
-  </tr>
-
-  <tr>
-    <td align="center">🚀</td>
-    <td><strong>Currently Learning</strong></td>
-    <td>Backend Development • MERN Stack • AI Automation • System Design</td>
-  </tr>
-
-  <tr>
-    <td align="center">💡</td>
-    <td><strong>Passionate About</strong></td>
-    <td>Building scalable, user focused, and AI powered web applications</td>
-  </tr>
-
-  <tr>
-    <td align="center">🤝</td>
-    <td><strong>Open To</strong></td>
-    <td>Internships • Freelance • Open Source • Collaboration</td>
-  </tr>
-
-  <tr>
-    <td align="center">🎯</td>
-    <td><strong>Goal</strong></td>
-    <td>Becoming a Full Stack Software Engineer building impactful AI products</td>
-  </tr>
-</table>
-
-<br/>
 
 
-<p align="center">
-  <strong><i>Building with curiosity. Learning by creating. Turning ideas into real products.</i></strong>
+<!-- ═════════════════════ ABOUT ME ═════════════════════ -->
+
+<div align="center">
+
+<h2>👩🏻‍💻 ABOUT ME</h2>
+
+<h3>Curious mind. Creative builder. Always evolving.</h3>
+
+<p>
+  <code>FRONTEND DEVELOPER</code>
+  &nbsp; <code>PROMPT ENGINEER</code>
+  &nbsp; <code>AI ENTHUSIAST</code>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6B3A4A&height=3" width="100%"/>
+
+</div>
+
+<h3>01 / THE PERSON BEHIND THE CODE</h3>
+
+I'm a Computer Science student passionate about turning ideas into meaningful digital experiences.
+
+I enjoy exploring the creative side of development — from crafting thoughtful interfaces and experimenting with motion to discovering how AI can make the building process more powerful.
+
+For me, coding is more than writing instructions. It's about curiosity, problem-solving, experimentation, and having the patience to turn an idea into something real.
+
+<h3>02 / WHAT I LOVE EXPLORING</h3>
+
+| FIELD | MY INTEREST |
+|:---|:---|
+| 🎨 **Frontend Development** | Creative interfaces, modern UI & interaction design |
+| ⚛️ **React & Web** | Component-based development & reusable experiences |
+| 🤖 **Artificial Intelligence** | Prompt engineering & AI automation |
+| 🧪 **Vibe Coding** | Experimenting with ideas and building creative projects |
+| 🐍 **Python** | Learning programming and exploring automation |
+
+<h3>03 / A LITTLE ABOUT MYSELF</h3>
+
+- 🎓 Pursuing **BS Computer Science** at the University of the Punjab.
+- ⌨️ Fast typist with a speed of **80+ WPM**.
+- 🧠 A curious learner who enjoys exploring new tools and technologies.
+- 📚 Interested in books, people, stories, and different perspectives.
+- 🛠️ I learn best by building, experimenting, and improving through practice.
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
@@ -431,7 +433,18 @@ I keep refining until it **feels right.**
 
 
 
-### 🤝 Let's Connect & Build Something Amazing
+<div align="center">
+
+<h3>🤝 LET'S CREATE SOMETHING MEANINGFUL</h3>
+
+<img src="https://img.shields.io/badge/INTERNSHIPS-6B3A4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/FREELANCE-B85C7A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-D16B88?style=flat-square"/>
+<img src="https://img.shields.io/badge/COLLABORATION-6B3A4A?style=flat-square"/>
+
+<br/><br/>
+
+<h3><i>"I don't just want to use technology. I want to create with it."</i></h3>
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
 <p align="center">
 <img
