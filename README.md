@@ -4,9 +4,8 @@
   
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&duration=3500&pause=1000&color=B85C7A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=125&lines=Frontend+Developer%3BPrompt+Engineer%3BAI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3500&pause=1000&color=C16B4B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=115&lines=Frontend+Developer;Prompt+Engineer;AI+Enthusiast" alt="Developer roles" />
 </p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
@@ -46,163 +45,222 @@
 <samp>_ Thanks for visiting my profile! &nbsp; // &nbsp; Small Steps → Big Dreams _</samp>
 </div>
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C16B4B&height=3" width="100%" alt="Terracotta divider"/>
+</p>
 
 ## 📬 Get In Touch
-
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arfa-munam-a823573a1">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-E8C8D2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B85C7A"
-      alt="Connect with me on LinkedIn"
-    /></a>
-  &nbsp;&nbsp; <a href="mailto:arfamunam01@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Send%20me%20an%20email-D16B88?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=6B3A4A"
-      alt="Send me an email"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/arfa-munam-a823573a1"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-C16B4B?style=for-the-badge&logo=linkedin&logoColor=F3E9DA&labelColor=24211E" alt="Connect on LinkedIn"/></a>
+&nbsp;
+<a href="mailto:arfamunam01@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-777D65?style=for-the-badge&logo=gmail&logoColor=F3E9DA&labelColor=24211E" alt="Send an email"/>
+</a>
 </p>
 
-  
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
 
 
-<!-- ═════════════════════ ABOUT ME ═════════════════════ -->
+<!-- ═════════════════════ ABOUT / CREATIVE STUDIO ═════════════════════ -->
 
 <div align="center">
 
-<h2>👩🏻‍💻 ABOUT ME</h2>
+<h2>01 &nbsp; / &nbsp; INSIDE MY WORLD 🪄</h2>
 
-<h3>Curious mind. Creative builder. Always evolving.</h3>
+<h3>Curious mind. Creative instincts. Endless possibilities.</h3>
 
-<p>
-  <code>FRONTEND DEVELOPER</code>
-  <code>PROMPT ENGINEER</code>
-  <code>AI ENTHUSIAST</code>
-</p>
+<sub>Not just what I build, but what makes me love building it.</sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B3A4A&height=3" width="100%"/>
+<img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20%26%20EXPERIMENTING-C16B4B?style=for-the-badge&labelColor=24211E"/>
 
 </div>
-
+<br/>
+<p align="center">
+  💻 I'm a <strong>Computer Science student and frontend developer</strong> who loves transforming ideas into experiences people can actually interact with.
+</p>
+<p align="center">
+  🎨 Somewhere between design, code and artificial intelligence, I found my playground. I enjoy experimenting with new technologies, exploring creative workflows and turning curious ideas into something real.
+</p>
+<br/>
+<div align="center">
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>01. &nbsp; THE PERSON</h3>
+<h3>01 / DESIGN & INTERFACES</h3>
 
-I'm a Computer Science student who loves turning ideas into digital experiences.
-
-I enjoy the intersection of **technology, creativity, and problem-solving** — building interfaces, experimenting with new tools, and finding better ways to bring ideas to life.
-
-<br/>
-
-<img src="https://img.shields.io/badge/MINDSET-CURIOUS-6B3A4A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APPROACH-BUILD%20%26%20LEARN-B85C7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-FRONTEND-C16B4B?style=flat-square&labelColor=24211E" />
 
 <br/><br/>
 
-<blockquote>
-  <i>"Learn something. Build something. Make it better."</i>
-</blockquote>
+Creative interfaces, thoughtful layouts, interactions and modern web experiences.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>02. &nbsp; MY CREATIVE WORLD</h3>
+<h3>02 / ARTIFICIAL INTELLIGENCE</h3>
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-<br/>
-<b>🎨 FRONTEND</b>
-<br/>
-<sub>Creative UI & interaction design</sub>
+<img src="https://img.shields.io/badge/02-PROMPT_ENGINEERING-777D65?style=flat-square&labelColor=24211E" />
+
 <br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
-<b>⚛️ REACT</b>
-<br/>
-<sub>Components & modern web development</sub>
-<br/><br/>
+
+Exploring AI tools, prompt engineering, intelligent workflows and automation.
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<b>🤖 AI</b>
-<br/>
-<sub>Prompt engineering & automation</sub>
+<td width="50%" align="center" valign="top">
+
+<h3>03 / CREATIVE CODING</h3>
+
+<img src="https://img.shields.io/badge/03-VIBE_CODING-C16B4B?style=flat-square&labelColor=24211E" />
+
 <br/><br/>
+
+Experimenting with ideas, creative development, motion and interactive experiences.
+
 </td>
-<td align="center">
-<br/>
-<b>🧪 VIBE CODING</b>
-<br/>
-<sub>Ideas, experiments & building</sub>
+<td width="50%" align="center" valign="top">
+
+<h3>04 / PROGRAMMING</h3>
+
+<img src="https://img.shields.io/badge/04-PYTHON_LEARNING-777D65?style=flat-square&labelColor=24211E" />
+
 <br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<br/>
-<b>🐍 PYTHON</b>
-<br/>
-<sub>Programming & automation exploration</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+
+Learning programming fundamentals and exploring Python for future automation projects.
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B85C7A&height=2" width="100%"/>
-
-
-
-<!-- ═══════════════ BEYOND THE SCREEN ═══════════════ -->
-
-<h3 align="center">03. &nbsp; BEYOND THE SCREEN</h3>
+</div>
 
 <p align="center">
-  <sub>A LITTLE MORE ABOUT THE PERSON BEHIND THE CODE</sub>
+  <em>"Learn something. Build something. Make it better.🎀"</em>
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
+
+<!-- ═════════════════════ THE HUMAN SIDE ═════════════════════ -->
 
 <div align="center">
 
-<code>🎓 BS COMPUTER SCIENCE</code>
-&nbsp; <b>·</b> &nbsp;
-<code>⌨️ 80+ WPM</code>
-&nbsp; <b>·</b> &nbsp;
-<code>📚 BOOKS & STORIES</code>
-&nbsp; <b>·</b> &nbsp;
-<code>🛠️ BUILD & IMPROVE</code>
+<h2>02. THE HUMAN SIDE ❤️</h2>
+<sub>BEYOND THE SCREEN · A LITTLE ABOUT ME</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/01-ACADEMIC_CHAPTER-C16B4B?style=flat-square&labelColor=24211E"/> &nbsp; 🎓 <strong>BS Computer Science</strong>
 <br/>
-<sub>UNIVERSITY OF THE PUNJAB 🎀 &nbsp; | &nbsp; FAST TYPIST ✍️ &nbsp; | &nbsp; ALWAYS LEARNING 💕</sub>
+<sub>University of the Punjab</sub>
+<br/>
+
+<img src="https://img.shields.io/badge/02-QUICK_FINGERS-D6B98C?style=flat-square&labelColor=24211E"/> &nbsp; ⌨️ <strong>80+ WPM</strong>
+<br/>
+<sub>Fast typist · Ideas move fast, too.</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/03-STORY_COLLECTOR-777D65?style=flat-square&labelColor=24211E"/> &nbsp; 📚 <strong>Books · People · Stories</strong>
+<br/>
+<sub>Curious about perspectives, stories, and new things to learn.</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/04-MY_PHILOSOPHY-C16B4B?style=flat-square&labelColor=24211E"/> &nbsp; 🛠️ <strong>MAKE. BREAK. LEARN. REPEAT.</strong>
+<br/>
+<sub>Always experimenting. Always improving.</sub>
+
+<br/>
+
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+</div>
+
+<!-- ═════════════════════════════════════════════════════════ -->
+
+<!-- ==================== LEARNING JOURNEY ==================== -->
+
+<div align="center">
+
+## 03 — THE LEARNING JOURNEY
+
+<sub>EVERY NEW SKILL STARTS WITH A FIRST STEP.</sub>
 
 </div>
 
-<!-- ═════════════════════════════════════════════════ -->
+<table width="100%">
+<tr>
+<td width="18%" align="center" valign="top">
 
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/01%20%E2%80%A2%20ALWAYS_LEARNING-6B3A4A?style=for-the-badge&labelColor=17151A"/></a>
-  &nbsp;<a href="#"><img src="https://img.shields.io/badge/02%20%E2%80%A2%20ALWAYS_CREATING-D16B88?style=for-the-badge&labelColor=6B3A4A"/></a>
-<br/>
+<h2>2025</h2>
+
+<img src="https://img.shields.io/badge/01-FOUNDATIONS-C16B4B?style=flat-square&labelColor=24211E"/>
+
+</td>
+<td valign="top">
+
+### Frontend Development
+
+Started building my foundation in web development and explored how ideas become interactive digital experiences.
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center" valign="top">
+
+<h2>2026</h2>
+
+<img src="https://img.shields.io/badge/02-EXPLORATION-777D65?style=flat-square&labelColor=24211E"/>
+
+</td>
+<td valign="top">
+
+### AI & Creative Development
+
+Expanded my interests into prompt engineering, AI tools, vibe coding, and creative product development.
+
+`React` `Prompt Engineering` `AI Tools` `Vibe Coding`
+
+</td>
+</tr>
+<tr>
+<td width="18%" align="center" valign="top">
+
+<h2>NOW</h2>
+
+<img src="https://img.shields.io/badge/03-IN_PROGRESS-C16B4B?style=flat-square&labelColor=24211E"/>
+
+</td>
+<td valign="top">
+
+### Exploring What's Next
+
+Learning Python, exploring backend engineering concepts, and developing a deeper understanding of AI automation.
+
+`Python` `Backend Fundamentals` `AI Automation`
+
+</td>
+</tr>
+</table>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
 
 
-# Tech Stack
+# Tech Stack 👌
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,git,github,vscode&perline=9"/>
@@ -214,24 +272,31 @@ I enjoy the intersection of **technology, creativity, and problem-solving** — 
 
 ## 🤖💡 THE DIGITAL EXPERIMENT LAB
 
+<!-- ==================== DIGITAL EXPERIMENT LAB ==================== -->
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/CLAUDE-AI%20ASSISTANT-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/CURSOR-AI%20IDE-7C3AED?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/GEMINI-AI%20STUDIO-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/COPILOT-AI%20PAIRING-F59E0B?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<sub>MY CREATIVE WORKSPACE FOR EXPLORING IDEAS AND BUILDING PRODUCTS.</sub>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/LOVABLE-RAPID%20BUILD-EA4AAA?style=for-the-badge&logo=lovable&logoColor=white" />
-<img src="https://img.shields.io/badge/BOLT-AI%20BUILDER-0891B2?style=for-the-badge&logo=stackblitz&logoColor=white" />
-<img src="https://img.shields.io/badge/NETLIFY-DEPLOYMENT-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/SUPABASE-BACKEND-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+### AI ASSISTANTS & DEVELOPMENT
 
-</div>
+<img src="https://img.shields.io/badge/CLAUDE-AI_ASSISTANT-C16B4B?style=for-the-badge&logo=anthropic&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/CURSOR-AI_IDE-777D65?style=for-the-badge&logo=cursor&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/GEMINI-AI_STUDIO-C16B4B?style=for-the-badge&logo=googlegemini&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/COPILOT-AI_PAIRING-777D65?style=for-the-badge&logo=githubcopilot&logoColor=F3E9DA&labelColor=24211E"/>
 
-<br>
+<br/><br/>
 
+### CREATIVE BUILDERS & DEPLOYMENT
+
+<img src="https://img.shields.io/badge/LOVABLE-RAPID_BUILD-C16B4B?style=for-the-badge&logo=lovable&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/BOLT-AI_BUILDER-777D65?style=for-the-badge&logo=stackblitz&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/NETLIFY-DEPLOYMENT-C16B4B?style=for-the-badge&logo=netlify&logoColor=F3E9DA&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/SUPABASE-BACKEND-777D65?style=for-the-badge&logo=supabase&logoColor=F3E9DA&labelColor=24211E"/>
+
+<br/><br/>
 <div align="center">
 
 <br>
@@ -246,7 +311,7 @@ I enjoy the intersection of **technology, creativity, and problem-solving** — 
 &nbsp; ⟶ &nbsp;
 <img src="https://img.shields.io/badge/05%20SHIP-17151A?style=flat-square&labelColor=3ECF8E&color=17151A" />
 
-<br><br>
+<br>
 
 `01` **THINK**　`02` **BUILD**　`03` **EXPERIMENT**　`04` **REFINE**　`05` **SHIP**
 
@@ -255,8 +320,6 @@ I enjoy the intersection of **technology, creativity, and problem-solving** — 
 <sub> Curiosity → Creation → Iteration → Something Real 🎀</sub>
 
 </div>
-
-
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
@@ -386,13 +449,11 @@ I enjoy the intersection of **technology, creativity, and problem-solving** — 
 
  ## ✨ Contribution Activity
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/B85C7A/ArfaMunam47"
-    alt="Arfa Munam GitHub Contribution Activity"
-    width="94%"
-  />
+
+  <p align="center">
+  <img src="https://ghchart.rshah.org/C16B4B/ArfaMunam47" width="94%" alt="GitHub Contribution Activity"/>
 </p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
@@ -514,20 +575,17 @@ I keep refining until it **feels right.**
 
 <h3>🤝 LET'S CREATE SOMETHING MEANINGFUL</h3>
 
-<img src="https://img.shields.io/badge/INTERNSHIPS-6B3A4A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FREELANCE-B85C7A?style=flat-square"/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE-D16B88?style=flat-square"/>
-<img src="https://img.shields.io/badge/COLLABORATION-6B3A4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTERNSHIPS-777D65?style=flat-square&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/FREELANCE-C16B4B?style=flat-square&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-777D65?style=flat-square&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/COLLABORATION-C16B4B?style=flat-square&labelColor=24211E"/>
 
 <br/><br/>
 
 <h3><i>"I don't just want to use technology. I want to create with it."</i></h3>
 Feel free to explore my repositories, share feedback, or connect with me on my journey as a developer.
 <p align="center">
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=D16B88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Always+learning!!"
-  alt="Thanks for visiting"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=C16B4B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+meaningful!;Always+learning.+Always+creating." alt="Closing message"/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
