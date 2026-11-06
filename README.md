@@ -4,8 +4,10 @@
   
   Hello, I'm <strong>Arfa Munam | 아르파 무남</strong> 👋
 </h1>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3500&pause=1000&color=C16B4B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=115&lines=Frontend+Developer;Prompt+Engineer;AI+Enthusiast" alt="Developer roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3500&pause=1000&color=C16B4B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=115&lines=Frontend+Developer;Prompt+Engineer;Exploring+AI+Automation" alt="Professional roles" />
 </p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
