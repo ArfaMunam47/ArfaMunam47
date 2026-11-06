@@ -149,42 +149,47 @@ Learning programming fundamentals and exploring Python for future automation pro
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
-
 <!-- ═════════════════════ THE HUMAN SIDE ═════════════════════ -->
 
 <div align="center">
 
 <h2>02. THE HUMAN SIDE ❤️</h2>
-<sub>BEYOND THE SCREEN · A LITTLE ABOUT ME</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/01-ACADEMIC_CHAPTER-C16B4B?style=flat-square&labelColor=24211E"/> &nbsp; 🎓 <strong>BS Computer Science</strong>
-<br/>
-<sub>University of the Punjab</sub>
+<sub>A LITTLE BEYOND THE CODE</sub>
 <br/>
 
-<img src="https://img.shields.io/badge/02-QUICK_FINGERS-D6B98C?style=flat-square&labelColor=24211E"/> &nbsp; ⌨️ <strong>80+ WPM</strong>
-<br/>
-<sub>Fast typist · Ideas move fast, too.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-STORY_COLLECTOR-777D65?style=flat-square&labelColor=24211E"/> &nbsp; 📚 <strong>Books · People · Stories</strong>
-<br/>
-<sub>Curious about perspectives, stories, and new things to learn.</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/04-MY_PHILOSOPHY-C16B4B?style=flat-square&labelColor=24211E"/> &nbsp; 🛠️ <strong>MAKE. BREAK. LEARN. REPEAT.</strong>
-<br/>
-<sub>Always experimenting. Always improving.</sub>
-
-<br/>
+<table align="center">
+<tr>
+<td align="center">
+  <h3>🎓</h3>
+  <strong>EDUCATION</strong><br/>
+  <sub>BS Computer Science</sub><br/>
+  <sub>University of the Punjab</sub>
+</td>
+<td align="center">
+  <h3>⌨️</h3>
+  <strong>80+ WPM</strong><br/>
+  <sub>Fast Typist</sub><br/>
+  <sub>Ideas move fast, too.</sub>
+</td>
+<td align="center">
+  <h3>📚</h3>
+  <strong>STORY COLLECTOR</strong><br/>
+  <sub>Books, people & stories</sub><br/>
+  <sub>Always curious.</sub>
+</td>
+<td align="center">
+  <h3>🛠️</h3>
+  <strong>MY PHILOSOPHY</strong><br/>
+  <sub>Make. Break. Learn.</sub><br/>
+  <sub>Repeat. Improve.</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="divider"/>
 </div>
 
 <!-- ═════════════════════════════════════════════════════════ -->
