@@ -266,11 +266,10 @@ Learning Python, exploring backend engineering concepts, and developing a deeper
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
 </div>
 
-
 # Tech Stack 👌
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,git,github,vscode&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,figma,git,github,vscode&perline=10"/>
 </p>
 
 <div align="center">
