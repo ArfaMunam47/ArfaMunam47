@@ -51,13 +51,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=C16B4B&height=3" width="100%" alt="Terracotta divider"/>
 </p>
 
-## 📬 Get In Touch
+## 💌 Let's Make Something Great Together!!!
+
 <p align="center">
-<a href="https://www.linkedin.com/in/arfa-munam-a823573a1"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-C16B4B?style=for-the-badge&logo=linkedin&logoColor=F3E9DA&labelColor=24211E" alt="Connect on LinkedIn"/></a>
-&nbsp;
-<a href="mailto:arfamunam01@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-777D65?style=for-the-badge&logo=gmail&logoColor=F3E9DA&labelColor=24211E" alt="Send an email"/>
-</a>
+  <i>Have an idea, a project, or just want to say hello?</i><br/>
+  <b>My inbox is always open!!!</b>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/arfa-munam-a823573a1">
+    <img src="https://img.shields.io/badge/LET'S_CHAT-LinkedIn-B85C7A?style=for-the-badge&logo=linkedin&logoColor=F3E9DA&labelColor=24211E"/></a> &nbsp;
+  <a href="mailto:arfamunam01@gmail.com">
+    <img src="https://img.shields.io/badge/DROP_A_NOTE-Email-C16B4B?style=for-the-badge&logo=gmail&logoColor=F3E9DA&labelColor=24211E"/>
+  </a>
+  <br/><br/>
+  <sub>Good conversations can turn into great collaborations. ♡</sub>
 </p>
 
 <br/>
