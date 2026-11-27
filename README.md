@@ -75,84 +75,111 @@
 
 <!-- ═════════════════════ ABOUT / CREATIVE STUDIO ═════════════════════ -->
 
+
+<!-- ═════════════════════ MY CREATIVE WORLD ═════════════════════ -->
+
+
+<!-- ═════════════════════ MY CREATIVE UNIVERSE ═════════════════════ -->
+
 <div align="center">
 
-<h2>01 &nbsp; / &nbsp; INSIDE MY WORLD 🪄</h2>
+<h2>01 / MY LITTLE UNIVERSE ✳</h2>
 
-<h3>Curious mind. Creative instincts. Endless possibilities.</h3>
+<h1>Code meets creativity.<br/>Curiosity meets possibility.</h1>
 
-<sub>Not just what I build, but what makes me love building it.</sub>
-<br/>
-
-<img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20%26%20EXPERIMENTING-C16B4B?style=for-the-badge&labelColor=24211E"/>
-
-</div>
-<br/>
-<p align="center">
-  💻 I'm a <strong>Computer Science student and frontend developer</strong> who loves transforming ideas into experiences people can actually interact with.
-</p>
-<p align="center">
-  🎨 Somewhere between design, code and artificial intelligence, I found my playground. I enjoy experimenting with new technologies, exploring creative workflows and turning curious ideas into something real.
-</p>
-<br/>
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>01 / DESIGN & INTERFACES</h3>
-
-<img src="https://img.shields.io/badge/01-FRONTEND-C16B4B?style=flat-square&labelColor=24211E" />
+<sub>COMPUTER SCIENCE STUDENT · FRONTEND DEVELOPER · CREATIVE EXPLORER</sub>
 
 <br/><br/>
 
-Creative interfaces, thoughtful layouts, interactions and modern web experiences.
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>02 / ARTIFICIAL INTELLIGENCE</h3>
-
-<img src="https://img.shields.io/badge/02-PROMPT_ENGINEERING-777D65?style=flat-square&labelColor=24211E" />
-
-<br/><br/>
-
-Exploring AI tools, prompt engineering, intelligent workflows and automation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>03 / CREATIVE CODING</h3>
-
-<img src="https://img.shields.io/badge/03-VIBE_CODING-C16B4B?style=flat-square&labelColor=24211E" />
-
-<br/><br/>
-
-Experimenting with ideas, creative development, motion and interactive experiences.
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<h3>04 / PROGRAMMING</h3>
-
-<img src="https://img.shields.io/badge/04-PYTHON_LEARNING-777D65?style=flat-square&labelColor=24211E" />
-
-<br/><br/>
-
-Learning programming fundamentals and exploring Python for future automation projects.
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/✳_CURRENTLY-LEARNING%20%26%20EXPLORING-C16B4B?style=flat&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20CREATING-777D65?style=flat&labelColor=24211E"/>
 
 </div>
 
-<p align="center">
-  <em>"Learn something. Build something. Make it better.🎀"</em>
-</p>
+<br/>
 
+<div align="center">
+
+<h3>♡ A MIND THAT LOVES TO EXPLORE</h3>
+
+I'm a <strong>Computer Science student and Frontend Developer</strong>
+who enjoys bringing ideas to life through code, design and experimentation.
+
+Somewhere between pixels, prompts and possibilities,
+I found my creative playground.
+
+</div>
+
+<br/>
+
+---
+
+<div align="left">
+
+<h2>✳ 01. PIXELS & POSSIBILITIES</h2>
+<sub>THE ART OF BUILDING DIGITAL EXPERIENCES</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/HTML-E8C8D2?style=flat&logo=html5&logoColor=24211E"/>
+<img src="https://img.shields.io/badge/CSS-E8C8D2?style=flat&logo=css3&logoColor=24211E"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-E8C8D2?style=flat&logo=javascript&logoColor=24211E"/>
+<img src="https://img.shields.io/badge/REACT-E8C8D2?style=flat&logo=react&logoColor=24211E"/>
+
+Creating thoughtful interfaces, beautiful layouts and interactive web experiences that make the digital world feel a little more human.
+
+<br/>
+
+<div align="right">
+
+<h2>02. THE AI PLAYGROUND ✧</h2>
+<sub>WHERE CURIOSITY MEETS INTELLIGENCE</sub>
+
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-777D65?style=flat&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/AI_EXPLORATION-777D65?style=flat&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/AUTOMATION-777D65?style=flat&labelColor=24211E"/>
+
+Exploring intelligent tools, creative prompting and new ways to turn ideas into useful solutions.
+
+</div>
+
+<br/>
+
+---
+
+<h2>✳ 03. IMAGINATION IN MOTION</h2>
+<sub>EXPERIMENT · BUILD · DISCOVER</sub>
+
+<img src="https://img.shields.io/badge/VIBE_CODING-C16B4B?style=flat&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/CREATIVE_DEVELOPMENT-C16B4B?style=flat&labelColor=24211E"/>
+
+Turning random ideas into experiments, animated interfaces and digital experiences. I love discovering how far creativity and technology can go together.
+
+<br/>
+
+<div align="right">
+
+<h2>04. THE WORK IN PROGRESS ♡</h2>
+<sub>EVERY EXPERT WAS ONCE A BEGINNER</sub>
+
+<img src="https://img.shields.io/badge/PYTHON_LEARNING-777D65?style=flat&labelColor=24211E"/>
+<img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-777D65?style=flat&labelColor=24211E"/>
+
+Building stronger programming foundations and discovering what I can create beyond frontend.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+<h2>Still collecting ideas. Still making things. ✳</h2>
+
+<sub>THERE'S ALWAYS SOMETHING NEW TO EXPLORE.</sub>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F28AB7&height=2&section=header" width="100%" alt="pink divider"/>
