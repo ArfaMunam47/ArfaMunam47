@@ -77,20 +77,21 @@
 
 
 <!-- ═════════════════════ THE CREATIVE JOURNAL ═════════════════════ -->
+<br/>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/MUNAM'S%20CREATIVE%20JOURNAL-VOL.%2001-C16B4B?style=flat&labelColor=24211E"/>
 
-<br/><br/>
+<br/>
 
 <h1>01 &nbsp; / &nbsp; INSIDE MY WORLD</h1>
 
-<h2>A curious mind,<br/><i>an endless canvas.</i></h2>
+<h2>A curious mind,<br/><i>an endless canvas...!👌</i></h2>
 
 <sub>COMPUTER SCIENCE STUDENT &nbsp; · &nbsp; FRONTEND DEVELOPER &nbsp; · &nbsp; PROMPT ENGINEER</sub>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -150,15 +151,14 @@ Exploring intelligent tools, creative prompting and the possibilities of automat
 
 <sub>VIBE CODING &nbsp; / &nbsp; CREATIVE DEVELOPMENT</sub>
 
-</div>
-
 <img src="https://img.shields.io/badge/VIBE_CODING-C16B4B?style=flat&labelColor=24211E"/>
 <img src="https://img.shields.io/badge/CREATIVE_DEVELOPMENT-C16B4B?style=flat&labelColor=24211E"/>
 
 Turning unusual ideas into interactive experiments, expressive interfaces and new experiences.
 
-<br/>
+</div>
 
+<br/>
 <div align="right">
 
 <h2>04 &nbsp; THE NEXT CHAPTER</h2>
@@ -318,29 +318,76 @@ Learning Python, exploring backend engineering concepts, and developing a deeper
 
 <!-- ==================== DIGITAL EXPERIMENT LAB ==================== -->
 
+
+<!-- ═════════════════════ CREATIVE WORKSPACE ═════════════════════ ->
+
+
+
+
+<!-- ═════════════════════ MY CREATIVE TOOLKIT ═════════════════════ -->
+
 <div align="center">
 
-<sub>MY CREATIVE WORKSPACE FOR EXPLORING IDEAS AND BUILDING PRODUCTS.</sub>
+<h2>✳ &nbsp; THE TOOLS BEHIND THE IDEAS</h2>
+<sub>MY CREATIVE WORKSPACE &nbsp; / &nbsp; 2026</sub>
 
 <br/><br/>
 
-### AI ASSISTANTS & DEVELOPMENT
+</div>
 
-<img src="https://img.shields.io/badge/CLAUDE-AI_ASSISTANT-C16B4B?style=for-the-badge&logo=anthropic&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/CURSOR-AI_IDE-777D65?style=for-the-badge&logo=cursor&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/GEMINI-AI_STUDIO-C16B4B?style=for-the-badge&logo=googlegemini&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/COPILOT-AI_PAIRING-777D65?style=for-the-badge&logo=githubcopilot&logoColor=F3E9DA&labelColor=24211E"/>
+<h3>01 &nbsp; / &nbsp; THINK & DEVELOP</h3>
 
-<br/><br/>
+<div align="center">
 
-### CREATIVE BUILDERS & DEPLOYMENT
+<a href="https://claude.ai">
+<img src="https://cdn.simpleicons.org/anthropic/C16B4B" width="26" alt="Claude"/></a>
+&nbsp; <strong>Claude</strong> &nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/LOVABLE-RAPID_BUILD-C16B4B?style=for-the-badge&logo=lovable&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/BOLT-AI_BUILDER-777D65?style=for-the-badge&logo=stackblitz&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/NETLIFY-DEPLOYMENT-C16B4B?style=for-the-badge&logo=netlify&logoColor=F3E9DA&labelColor=24211E"/>
-<img src="https://img.shields.io/badge/SUPABASE-BACKEND-777D65?style=for-the-badge&logo=supabase&logoColor=F3E9DA&labelColor=24211E"/>
+<a href="https://cursor.com">
+<img src="https://cdn.simpleicons.org/cursor/E8C8D2" width="26" alt="Cursor"/></a>
+&nbsp; <strong>Cursor</strong> &nbsp;&nbsp;&nbsp;
 
-<br/><br/>
+<a href="https://aistudio.google.com">
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="26" alt="Gemini"/></a>
+&nbsp; <strong>Gemini</strong> &nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/features/copilot">
+<img src="https://cdn.simpleicons.org/githubcopilot/777D65" width="26" alt="Copilot"/></a>
+&nbsp; <strong>Copilot</strong>
+
+</div>
+
+<br/>
+
+<h3>02 &nbsp; / &nbsp; CREATE & LAUNCH</h3>
+
+<div align="center">
+
+<a href="https://lovable.dev">
+<img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=128" width="26" alt="Lovable"/></a>
+&nbsp; <strong>Lovable</strong> &nbsp;&nbsp;&nbsp;
+
+<a href="https://bolt.new">
+<img src="https://cdn.simpleicons.org/stackblitz/1389FD" width="26" alt="Bolt"/></a>
+&nbsp; <strong>Bolt</strong> &nbsp;&nbsp;&nbsp;
+
+<a href="https://netlify.com">
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="26" alt="Netlify"/></a>
+&nbsp; <strong>Netlify</strong> &nbsp;&nbsp;&nbsp;
+
+<a href="https://supabase.com">
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="26" alt="Supabase"/></a>
+&nbsp; <strong>Supabase</strong>
+
+</div>
+<br/>
+
+<div align="center">
+
+<sub>✳ &nbsp; DIFFERENT TOOLS. ENDLESS WAYS TO CREATE.</sub>
+
+</div>
+
 <div align="center">
 
 <br>
